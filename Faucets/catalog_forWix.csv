@@ -1,0 +1,1076 @@
+handleId,fieldType,name,description,productImageUrl,collection,sku,ribbon,price,surcharge,visible,discountMode,discountValue,inventory,weight,productOptionName1,productOptionType1,productOptionDescription1,productOptionName2,productOptionType2,productOptionDescription2,productOptionName3,productOptionType3,productOptionDescription3,productOptionName4,productOptionType4,productOptionDescription4,productOptionName5,productOptionType5,productOptionDescription5,productOptionName6,productOptionType6,productOptionDescription6,additionalInfoTitle1,additionalInfoDescription1,additionalInfoTitle2,additionalInfoDescription2,additionalInfoTitle3,additionalInfoDescription3,customTextField1,customTextCharLimit1,customTextMandatory1
+05de2db1-e869-46db-977d-8c2c7cc2795a,Product,FAUCET - TPSH344,"<p><b>אפשרות 1:</b></p>Description: איטליה
+זרוע לראש מקלחת 40 ס”מ<br><p><b>אפשרות 2:</b></p>Description: איטליה
+זרוע לראש מקלחת 40 ס”מ<br><p><b>אפשרות 3:</b></p>Description: איטליה
+זרוע לראש מקלחת 40 ס”מ<br><p><b>אפשרות 4:</b></p>Description: איטליה
+זרוע לראש מקלחת 40 ס”מ<br>",,Faucets,TPSH344,,842,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3;אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+05de2db1-e869-46db-977d-8c2c7cc2795a,Variant,FAUCET - TPSH344,"Description: איטליה
+זרוע לראש מקלחת 40 ס”מ<br>",,Faucets,TPSH344_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+05de2db1-e869-46db-977d-8c2c7cc2795a,Variant,FAUCET - TPSH345,"Description: איטליה
+זרוע לראש מקלחת 40 ס”מ<br>",,Faucets,TPSH345,,,337,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+05de2db1-e869-46db-977d-8c2c7cc2795a,Variant,FAUCET - TPSH346,"Description: איטליה
+זרוע לראש מקלחת 40 ס”מ<br>",,Faucets,TPSH346,,,337,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+05de2db1-e869-46db-977d-8c2c7cc2795a,Variant,FAUCET - TPSH347,"Description: איטליה
+זרוע לראש מקלחת 40 ס”מ<br>",,Faucets,TPSH347,,,422,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+ffeae4e1-3be2-40d7-a9f9-4c389174bfa7,Product,FAUCET - TPSH427,Description: ספאדה רשת פינתית בודדת<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH427.jpg,Faucets,TPSH427,,254,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+823c598c-93b2-4b2e-aa01-03034372a2b0,Product,FAUCET - TPSH167,"Description: מרקזה
+קבוע בינוני לכיור רחצה<br>",,Faucets,TPSH167,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- סילבר - S8617,,,,,,,,,,,,,,,,,,,,,,,,
+1059ff85-b5d1-454c-b49b-368226a02163,Product,FAUCET - TPSH567,"<p><b>אפשרות 1:</b></p>Description: זוג צינורות
+לברז פרח<br><p><b>אפשרות 2:</b></p>Description: ידית לברז<br><p><b>אפשרות 3:</b></p>Description: צינור גמיש 1.5 מ’
+בראס<br><p><b>אפשרות 4:</b></p>Description: פיה קשת קצר<br><p><b>אפשרות 5:</b></p>Description: פיה קשת גבוה<br><p><b>אפשרות 6:</b></p>Description: פיה נחש קצר<br><p><b>אפשרות 7:</b></p>Description: פיה נחש ארוך<br><p><b>אפשרות 8:</b></p>Description: סט ברגים<br><p><b>אפשרות 9:</b></p>Description: בורג ארוך לבוצ’ר<br><p><b>אפשרות 10:</b></p>Description: מנגנון לברז<br><p><b>אפשרות 11:</b></p>Description: מנגנון סדאל<br>",,Faucets,TPSH567,,23,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3;אפשרות 4;אפשרות 5;אפשרות 6;אפשרות 7;אפשרות 8;אפשרות 9;אפשרות 10;אפשרות 11,,,,,,,,,,,,,,,,,,,,,,,,
+1059ff85-b5d1-454c-b49b-368226a02163,Variant,FAUCET - TPSH567,"Description: זוג צינורות
+לברז פרח<br>",,Faucets,TPSH567_0,,,0,true,PERCENT,0,InStock,,,,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+1059ff85-b5d1-454c-b49b-368226a02163,Variant,FAUCET - TPSH568,Description: ידית לברז<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH568.jpg,Faucets,TPSH568,,,12,true,PERCENT,0,InStock,,,,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+1059ff85-b5d1-454c-b49b-368226a02163,Variant,FAUCET - TPSH569,"Description: צינור גמיש 1.5 מ’
+בראס<br>",,Faucets,TPSH569,,,40,true,PERCENT,0,InStock,,,,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+1059ff85-b5d1-454c-b49b-368226a02163,Variant,FAUCET - TPSH570,Description: פיה קשת קצר<br>,,Faucets,TPSH570,,,26,true,PERCENT,0,InStock,,,,אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+1059ff85-b5d1-454c-b49b-368226a02163,Variant,FAUCET - TPSH571,Description: פיה קשת גבוה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH571.jpg,Faucets,TPSH571,,,26,true,PERCENT,0,InStock,,,,אפשרות 5,,,,,,,,,,,,,,,,,,,,,,,,
+1059ff85-b5d1-454c-b49b-368226a02163,Variant,FAUCET - TPSH572,Description: פיה נחש קצר<br>,,Faucets,TPSH572,,,26,true,PERCENT,0,InStock,,,,אפשרות 6,,,,,,,,,,,,,,,,,,,,,,,,
+1059ff85-b5d1-454c-b49b-368226a02163,Variant,FAUCET - TPSH573,Description: פיה נחש ארוך<br>,,Faucets,TPSH573,,,26,true,PERCENT,0,InStock,,,,אפשרות 7,,,,,,,,,,,,,,,,,,,,,,,,
+1059ff85-b5d1-454c-b49b-368226a02163,Variant,FAUCET - TPSH574,Description: סט ברגים<br>,,Faucets,TPSH574,,,5,true,PERCENT,0,InStock,,,,אפשרות 8,,,,,,,,,,,,,,,,,,,,,,,,
+1059ff85-b5d1-454c-b49b-368226a02163,Variant,FAUCET - TPSH575,Description: בורג ארוך לבוצ’ר<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH575.jpg,Faucets,TPSH575,,,47,true,PERCENT,0,InStock,,,,אפשרות 9,,,,,,,,,,,,,,,,,,,,,,,,
+1059ff85-b5d1-454c-b49b-368226a02163,Variant,FAUCET - TPSH576,Description: מנגנון לברז<br>,,Faucets,TPSH576,,,19,true,PERCENT,0,InStock,,,,אפשרות 10,,,,,,,,,,,,,,,,,,,,,,,,
+1059ff85-b5d1-454c-b49b-368226a02163,Variant,FAUCET - TPSH577,Description: מנגנון סדאל<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH577.jpg,Faucets,TPSH577,,,74,true,PERCENT,0,InStock,,,,אפשרות 11,,,,,,,,,,,,,,,,,,,,,,,,
+a0e56581-a287-49ec-b9b8-6eb79e65ad66,Product,FAUCET - TPSH125,"Description: וולנטה ניקל גבוה
+מסתובב לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH125.jpg,Faucets,TPSH125,,772,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+10721d6d-afbb-4df7-896e-5c632c2947d9,Product,FAUCET - TPSH281,"Description: פרנה
+נשלף למטבח<br>",,Faucets,TPSH281,,737,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+a63b53ff-97c1-4c76-88d0-0a3ead8ef383,Product,FAUCET - TPSH426,Description: ספאדה מדף בית מלון<br>,,Faucets,TPSH426,,505,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+db072d29-8f23-4e67-8748-6605da7a89c4,Product,FAUCET - TPSH153,"Description: מרקזה
+מערכת קיר לכיור רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH153A.jpg,Faucets,TPSH153,,1035,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל - WT לבן,,,,,,,,,,,,,,,,,,,,,,,,
+45adc0e8-b010-4a1d-9cef-f1705f6cd535,Product,FAUCET - TPSH310,"Description: שירל
+סוללה מהקיר (פיה קצרה)<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH310.jpg,Faucets,TPSH310,,230,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+db05be9a-390f-40b9-9005-199ada6bc7c7,Product,FAUCET - TPSH489,Description: סטפן טבעת למגבת<br>,,Faucets,TPSH489,,209,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+38f3c12c-e988-4a09-910d-ae6fd1ea09e7,Product,FAUCET - TPSH23,Description: פרנה גולד ראש מקלחת עגול 20 ס”מ<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH23.jpg,Faucets,TPSH23,,811,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+5c168df5-ebb7-4657-89f8-6463dffdb5a4,Product,FAUCET - TPSH451,"Description: בוקה מוט מגבת כפול
+60 ס”מ<br>",,Faucets,TPSH451,,435,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+1ad36ce3-b6bc-4e26-971a-7d0a1f99ef4e,Product,FAUCET - TPSH104,Description: שאטו ברונזה אינטרפוץ 4 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH104.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH104A.jpg,Faucets,TPSH104,,1004,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+48ee69b6-bf57-42ce-bb7e-a3b2fd3ec33c,Product,FAUCET - TPSH2,Description: פרנה ניקל אינטרפוץ 3 דרך<br>Size: 120*120<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH2.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH1A.jpg,Faucets,TPSH2,,425,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+35363358-a7b5-4ae3-8c91-de349d7b6e0d,Product,FAUCET - TPSH30,Description: פרנה גולד מערכת מקלחת בראס<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH30.jpg,Faucets,TPSH30,,2282,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+3dc90656-d892-43f8-856d-933d632270b0,Product,FAUCET - TPSH369,"Description: מזלף A.B.S
+3 מצבים<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH369.jpg,Faucets,TPSH369,,96,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+e8ed7af9-7c11-453d-98f0-f50ad861ac8e,Product,FAUCET - TPSH364,"<p><b>אפשרות 1:</b></p>Description: פרנה
+מזלף וינטג’<br><p><b>אפשרות 2:</b></p>Description: פרנה
+מזלף וינטג’<br><p><b>אפשרות 3:</b></p>Description: פרנה
+מזלף וינטג’<br><p><b>אפשרות 4:</b></p>Description: פרנה
+מזלף וינטג’<br>",,Faucets,TPSH364,,193,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3;אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+e8ed7af9-7c11-453d-98f0-f50ad861ac8e,Variant,FAUCET - TPSH364,"Description: פרנה
+מזלף וינטג’<br>",,Faucets,TPSH364_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+e8ed7af9-7c11-453d-98f0-f50ad861ac8e,Variant,FAUCET - TPSH365,"Description: פרנה
+מזלף וינטג’<br>",,Faucets,TPSH365,,,46,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+e8ed7af9-7c11-453d-98f0-f50ad861ac8e,Variant,FAUCET - TPSH366,"Description: פרנה
+מזלף וינטג’<br>",,Faucets,TPSH366,,,88,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+e8ed7af9-7c11-453d-98f0-f50ad861ac8e,Variant,FAUCET - TPSH367,"Description: פרנה
+מזלף וינטג’<br>",,Faucets,TPSH367,,,158,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+bd237d51-2bcb-41c3-bb0b-91ae99d2b33d,Product,FAUCET - TPSH187,"Description: הוגו
+קשת רחצה<br>",,Faucets,TPSH187,,698,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+ffc55ebc-f859-48fe-a826-8e6be7db5c69,Product,FAUCET - TPSH186,"Description: הוגו
+קשת לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH186.jpg,Faucets,TPSH186,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+1fb727d9-41ce-45ef-8aff-f3b701e50d8a,Product,FAUCET - TPSH235,"<p><b>אפשרות 1:</b></p>Description: בורדו
+קבוע גבוה לכיור מונח<br><p><b>אפשרות 2:</b></p>Description: בורדו
+קבוע גבוה לכיור מונח<br>",,Faucets,TPSH235,,521,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+1fb727d9-41ce-45ef-8aff-f3b701e50d8a,Variant,FAUCET - TPSH235,"Description: בורדו
+קבוע גבוה לכיור מונח<br>",,Faucets,TPSH235_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+1fb727d9-41ce-45ef-8aff-f3b701e50d8a,Variant,FAUCET - TPSH236,"Description: בורדו
+קבוע גבוה לכיור מונח<br>",,Faucets,TPSH236,,,154,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+2fc74baa-4eb2-4c7b-97a9-307cdc51f844,Product,FAUCET - TPSH217,"Description: נאפה
+קשת רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH217.jpg,Faucets,TPSH217,,672,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+789e8201-7121-4205-856f-e66d622060ed,Product,FAUCET - TPSH379,"Description: ראש מקלחת
+עגול 6 מ”מ
+25 ס”מ<br>Materials: Stainless Steel<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH379.jpg,Faucets,TPSH379,,404,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16790cea-4579-4189-bc17-fdc44b076c23,Product,FAUCET - TPSH214,"Description: נאפה
+מערכת קיר לכיור רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH214A.jpg,Faucets,TPSH214,,861,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+e51affde-a9dd-4226-ab39-65c06c1d3085,Product,FAUCET - TPSH139,"<p><b>אפשרות 1:</b></p>Description: וולנטה ניקל מט
+ראש מקלחת וינטג’<br><p><b>אפשרות 2:</b></p>Description: וולנטה ניקל מט
+ראש מקלחת וינטג’<br>",,Faucets,TPSH139,,695,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+e51affde-a9dd-4226-ab39-65c06c1d3085,Variant,FAUCET - TPSH139,"Description: וולנטה ניקל מט
+ראש מקלחת וינטג’<br>",,Faucets,TPSH139_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+e51affde-a9dd-4226-ab39-65c06c1d3085,Variant,FAUCET - TPSH360,"Description: וולנטה ניקל מט
+ראש מקלחת וינטג’<br>",,Faucets,TPSH360,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+fee366c5-33bc-430a-ad78-b45c76764250,Product,FAUCET - TPSH429,Description: ספאדה גולד טבעת למגבת<br>,,Faucets,TPSH429,,207,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+3b3d94a4-72b1-41b9-b9f3-8aa01acfeaef,Product,FAUCET - TPSH132,"<p><b>אפשרות 1:</b></p>Description: וולנטה שחור מט
+ראש מקלחת וינטג’<br><p><b>אפשרות 2:</b></p>Description: וולנטה שחור מט
+ראש מקלחת וינטג’<br>",,Faucets,TPSH132,,811,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+3b3d94a4-72b1-41b9-b9f3-8aa01acfeaef,Variant,FAUCET - TPSH132,"Description: וולנטה שחור מט
+ראש מקלחת וינטג’<br>",,Faucets,TPSH132_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+3b3d94a4-72b1-41b9-b9f3-8aa01acfeaef,Variant,FAUCET - TPSH359,"Description: וולנטה שחור מט
+ראש מקלחת וינטג’<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH359.jpg,Faucets,TPSH359,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+1f6bcf69-dd90-4174-ad8b-7cd975275c94,Product,FAUCET - TPSH373,"Description: ראש מקלחת מרובע
+19.5/19.5
+8 מ""מ בראס<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH373.jpg,Faucets,TPSH373,,444,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+a4bb4bc6-f90b-4425-837c-d046d0a74efc,Product,FAUCET - TPSH188,"Description: הוגו
+מערכת קיר לכיור רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH188.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH188A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH188B.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH188C.jpg,Faucets,TPSH188,,684,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+0441acad-5acf-471c-b4b7-d99482f5b9fc,Product,FAUCET - TPSH503,Description: משאבת סבון דורין<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH503.jpg,Faucets,TPSH503,,73,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+3eb51c2d-b9a6-4549-9177-a324d709f2a7,Product,FAUCET - TPSH565,<p><b>אפשרות 1:</b></p>Description: מזלף לנשלף נאפה<br><p><b>אפשרות 2:</b></p>Description: מזלף לנשלף נאפה<br>,,Faucets,TPSH565,,98,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+3eb51c2d-b9a6-4549-9177-a324d709f2a7,Variant,FAUCET - TPSH565,Description: מזלף לנשלף נאפה<br>,,Faucets,TPSH565_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+3eb51c2d-b9a6-4549-9177-a324d709f2a7,Variant,FAUCET - TPSH566,Description: מזלף לנשלף נאפה<br>,,Faucets,TPSH566,,,21,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+55318adb-5bf5-4bf6-bf01-8e1fc2fff0b5,Product,FAUCET - TPSH470,Description: בוקה קולב זוגי<br>,,Faucets,TPSH470,,156,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+4b216886-9958-4e59-82e5-0fbb770b008e,Product,FAUCET - TPSH132,"Description: וולנטה שחור מט
+זרוע לראש מקלחת 40 ס”מ<br>",,Faucets,TPSH132_1,,435,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+85da858e-84ef-48ce-986d-ef38119caf8c,Product,FAUCET - TPSH86,Description: שאטו קשת רחצה<br>,,Faucets,TPSH86,,479,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+fdc0bbe9-7405-464e-95cf-69d94a59afe0,Product,FAUCET - TPSH255,"Description: 
+מורטי 90°<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH255.jpg,Faucets,TPSH255,,672,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+7aa3e4be-343e-4d3c-802b-68addfe26dd4,Product,FAUCET - TPSH490,"Description: סטפן מוט מגבת
+60 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH490.jpg,Faucets,TPSH490,,260,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+bcebf5c3-7172-4293-b34c-40bf64603908,Product,FAUCET - TPSH176,Description: מרקזה 90 מעלות<br>,,Faucets,TPSH176,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- שחור מטאלי,,,,,,,,,,,,,,,,,,,,,,,,
+559b38b1-36ad-4b90-8d36-6d70ed0fdf62,Product,FAUCET - TPSH99,"Description: שאטו פרימיום
+סוללה לאמבטיה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH99.jpg,Faucets,TPSH99,,881,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+37a1d61e-42d6-40a9-ba9e-0cddc928d581,Product,FAUCET - TPSH295,"Description: קיו
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH295.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH295A.jpg,Faucets,TPSH295,,868,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+8b11c3e4-35e4-4836-93c4-a6ee516bf7ac,Product,FAUCET - TPSH326,Description: נקודת מים ונוטי<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH326.jpg,Faucets,TPSH326,,63,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+07713d94-f468-4fc8-9044-12b958e440be,Product,FAUCET - TPSH453,Description: בוקה טבעת למגבת<br>,,Faucets,TPSH453,,207,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+8269d489-a982-4512-8a79-2b4136820f68,Product,FAUCET - TPSH376,"Description: ראש מקלחת עגול
+25 ס""מ
+8 מ""מ בראס<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH376.jpg,Faucets,TPSH376,,637,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+73906fe6-b9b1-48ef-95df-aa3c48de47b9,Product,FAUCET - TPSH232,"<p><b>אפשרות 1:</b></p>Description: בורדו
+קשת רחצה<br><p><b>אפשרות 2:</b></p>Description: בורדו
+קשת רחצה<br>",,Faucets,TPSH232,,397,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+73906fe6-b9b1-48ef-95df-aa3c48de47b9,Variant,FAUCET - TPSH232,"Description: בורדו
+קשת רחצה<br>",,Faucets,TPSH232_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+73906fe6-b9b1-48ef-95df-aa3c48de47b9,Variant,FAUCET - TPSH233,"Description: בורדו
+קשת רחצה<br>",,Faucets,TPSH233,,,116,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+afed1cfb-03bd-4759-a6f3-26b5cbc969b7,Product,FAUCET - TPSH244,"Description: מרטן
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH244A.jpg,Faucets,TPSH244,,405,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+c9f2312b-2bb4-4d24-9c25-5e291958f8bb,Product,FAUCET - TPSH198,Description: בייליס סוללה לאמבטיה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH198A.jpg,Faucets,TPSH198,,873,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+2923b509-d8ed-496f-971f-5a0e03787338,Product,FAUCET - TPSH428,"Description: ספאדה מוט מגבת כפול
+60 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH428.jpg,Faucets,TPSH428,,295,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+51f55013-7275-4ed3-b6e0-492b3ab716aa,Product,FAUCET - TPSH100,"Description: שאטו ברונזה
+900 גבוה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH100.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH100A.jpg,Faucets,TPSH100,,749,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+e7c1e2d7-e699-4ac4-a402-2ab23d991238,Product,FAUCET - TPSH93,<p><b>אפשרות 1:</b></p>Description: שאטו פרימיום בינוני מסתובב<br><p><b>אפשרות 2:</b></p>Description: שאטו פרימיום בינוני מסתובב<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH93.jpg,Faucets,TPSH93,,549,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+e7c1e2d7-e699-4ac4-a402-2ab23d991238,Variant,FAUCET - TPSH93,Description: שאטו פרימיום בינוני מסתובב<br>,,Faucets,TPSH93_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+e7c1e2d7-e699-4ac4-a402-2ab23d991238,Variant,FAUCET - TPSH93,Description: שאטו פרימיום בינוני מסתובב<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH93.jpg,Faucets,TPSH93_1,,,123,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+59ac369d-2927-43b5-93f3-32df480fd347,Product,FAUCET - TPSH22,Description: פרנה גולד מערכת קיר לכיור רחצה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH22A.jpg,Faucets,TPSH22,,1220,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+49f3a87b-7f3d-47ab-915b-52777dc4b7bb,Product,FAUCET - TPSH84,Description: שאטו גבוה מסתובב לכיור מונח<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH84.jpg,Faucets,TPSH84,,633,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+fcfcc935-4db3-421a-b1b7-3e93467fe27f,Product,FAUCET - TPSH102,"Description: שאטו ברונזה
+900 גבוה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH102.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH102A.jpg,Faucets,TPSH102,,749,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+d8adfcf8-4d5b-4963-8a27-caf00e7d4865,Product,FAUCET - TPSH276,"Description: ראבלי
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH276A.jpg,Faucets,TPSH276,,579,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+54c414b3-9cc9-4691-bcf8-66dfd500e581,Product,FAUCET - TPSH58,Description: איטליה גטוני קולור פרח גבוה לכיור מונח<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH58.jpg,Faucets,TPSH58,,1516,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+581d1911-4a03-4f06-ab05-c334616478c6,Product,FAUCET - TPSH74,Description: טרנטו איטליה קשת קצר פיה מסתובבת<br>,,Faucets,TPSH74,,358,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+d414a67a-556f-48f1-89b8-06a8c2f919eb,Product,FAUCET - TPSH182,Description: לומינה 900 גבוה לכיור מונח<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH182.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH182A.jpg,Faucets,TPSH182,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+c4f4aa8a-d0d3-4e9c-8ea1-dd1d7585d509,Product,FAUCET - TPSH251,"Description: פרנצ’טי
+קבוע נמוך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH251A.jpg,Faucets,TPSH251,,562,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+80468f7a-4960-4c0d-b5cd-bb6b347ecc37,Product,FAUCET - TPSH278,"Description: נאצ’ו
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH278A.jpg,Faucets,TPSH278,,772,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+2a69307f-7802-43fb-8aae-935c38803305,Product,FAUCET - TPSH224,"Description: סונומה
+מערכת קיר לכיור רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH224.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH224A.jpg,Faucets,TPSH224,,861,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+21bee429-1dd1-4c78-b5f6-94bb32f05277,Product,FAUCET - TPSH446,Description: בוקה טבעת למגבת<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH446.jpg,Faucets,TPSH446,,161,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+f7060d2d-8f52-43d9-a7d8-891b116ae586,Product,FAUCET - TPSH19,Description: פרנה גולד לכיור רחצה נמוך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH1A.jpg,Faucets,TPSH19,,1255,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+dd93281c-84f5-43dc-9a7e-daf8a8668a01,Product,FAUCET - TPSH27,Description: פרנה גולד צינור זהב 1.5 מ'<br>,,Faucets,TPSH27,,158,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+e602de12-a21d-49b4-8da6-fd18a860292f,Product,FAUCET - TPSH485,Description: סטפן מחזיק כוס<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH485.jpg,Faucets,TPSH485,,126,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+0100af0e-e721-4a97-8ec2-eb96918c31dc,Product,FAUCET - TPSH119,Description: שאטו ניקל מט בינוני מסתובב<br>,,Faucets,TPSH119,,672,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+6db4ad74-17df-406e-b288-5adb5bf8d387,Product,FAUCET - TPSH458,Description: בוקה רשת פינתית בודדת<br>,,Faucets,TPSH458,,246,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+c70b053a-d347-4e47-a950-b2d6fd9d1302,Product,FAUCET - TPSH241,"Description: מרטן
+קשת רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH241A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH241B.jpg,Faucets,TPSH241,,632,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+23a8e926-9ffa-4a63-956d-4a630f515f7b,Product,FAUCET - TPSH479,Description: הוגו מברשת אסלה תלויה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH479.jpg,Faucets,TPSH479,,209,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+739d5d03-f311-484a-9f62-f5b9824fc44c,Product,FAUCET - TPSH161,"Description: מרקזה
+קבוע בינוני לכיור רחצה<br>",,Faucets,TPSH161,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- BK -שחור,,,,,,,,,,,,,,,,,,,,,,,,
+e69702c1-b787-48ff-9100-9cd3e8e3b10a,Product,FAUCET - TPSH160,"Description: מרקזה
+קבוע גבוה לכיור מונח<br>",,Faucets,TPSH160,,930,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- BK -שחור,,,,,,,,,,,,,,,,,,,,,,,,
+3c626906-a1d0-4420-9bd6-5722ffe29247,Product,FAUCET - TPSH8,Description: פרנה ברונזה מערכת קיר לכיור רחצה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH1A.jpg,Faucets,TPSH8,,1220,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+66717fda-5b8b-45b1-93c1-dfab6a406671,Product,FAUCET - TPSH166,"Description: מרקזה
+קבוע גבוה לכיור מונח<br>",,Faucets,TPSH166,,930,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- סילבר - S8616,,,,,,,,,,,,,,,,,,,,,,,,
+ba990ad7-8673-4d93-a880-87937f3e131e,Product,FAUCET - TPSH73,Description: סיטי איטליה מערכת קיר לכיור רחצה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH73.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH73A.jpg,Faucets,TPSH73,,2124,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+8c778e7f-b90a-40a1-9d59-fe49c64cde4e,Product,FAUCET - TPSH17,Description: פרנה ברונזה מערכת מקלחת בראס<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH17.jpg,Faucets,TPSH17,,2282,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+562bae7a-e6af-40aa-87d3-5b325e12b285,Product,FAUCET - TPSH248,"Description: דיביאנג'ו
+קשת רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH247.jpg,Faucets,TPSH248,,513,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט SP,,,,,,,,,,,,,,,,,,,,,,,,
+a58e7b1c-52ac-4bb6-84e8-fba3356c8ca4,Product,FAUCET - TPSH126,"Description: וולנטה ניקל בינוני
+מסתובב<br>",,Faucets,TPSH126,,620,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+92cf5983-b335-4a73-bcfe-f9c1689ebbfc,Product,FAUCET - TPSH349,"<p><b>אפשרות 1:</b></p>Description: איטליה
+זרוע לראש מקלחת מהתקרה
+25 ס”מ<br><p><b>אפשרות 2:</b></p>Description: איטליה
+זרוע לראש מקלחת מהתקרה
+25 ס”מ<br><p><b>אפשרות 3:</b></p>Description: איטליה
+זרוע לראש מקלחת מהתקרה
+25 ס”מ<br><p><b>אפשרות 4:</b></p>Description: איטליה
+זרוע לראש מקלחת מהתקרה
+25 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH349.jpg,Faucets,TPSH349,,295,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3;אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+92cf5983-b335-4a73-bcfe-f9c1689ebbfc,Variant,FAUCET - TPSH349,"Description: איטליה
+זרוע לראש מקלחת מהתקרה
+25 ס”מ<br>",,Faucets,TPSH349_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+92cf5983-b335-4a73-bcfe-f9c1689ebbfc,Variant,FAUCET - TPSH350,"Description: איטליה
+זרוע לראש מקלחת מהתקרה
+25 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH349.jpg,Faucets,TPSH350,,,196,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+92cf5983-b335-4a73-bcfe-f9c1689ebbfc,Variant,FAUCET - TPSH351,"Description: איטליה
+זרוע לראש מקלחת מהתקרה
+25 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH349.jpg,Faucets,TPSH351,,,126,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+92cf5983-b335-4a73-bcfe-f9c1689ebbfc,Variant,FAUCET - TPSH352,"Description: איטליה
+זרוע לראש מקלחת מהתקרה
+25 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH349.jpg,Faucets,TPSH352,,,168,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+2524535b-b124-4a3c-b624-17fb686462ad,Product,FAUCET - TPSH88,Description: שאטו אינטרפוץ 4 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH88.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH88A.jpg,Faucets,TPSH88,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+a98e5029-91c2-4e34-bd2c-78c106dce714,Product,FAUCET - TPSH385,"Description: ראש מקלחת
+מרובע 6 מ”מ
+40/40 ס”מ<br>Materials: Stainless Steel<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH385.jpg,Faucets,TPSH385,,842,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fe549e9a-d605-4a9a-b2e5-83a49f514829,Product,FAUCET - TPSH504,Description: סבוניה זכוכית דורין<br>,,Faucets,TPSH504,,57,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+a0925986-6f26-4aba-b170-055537651572,Product,FAUCET - TPSH325,Description: נק' מים מרובעת<br>,,Faucets,TPSH325,,98,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+9fa35f0e-4c67-4c73-9af2-1b0c105d4bf6,Product,FAUCET - TPSH115,"Description: שאטו שחור מט
+אינטרפוץ 4 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH115.jpg,Faucets,TPSH115,,1004,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור,,,,,,,,,,,,,,,,,,,,,,,,
+3e3aae0c-cd82-4b18-816b-c9acc96da6c5,Product,FAUCET - TPSH332,"Description: סט 4 דרך
+מזלף בראס<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH332.jpg,Faucets,TPSH332,,309,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+7c0fa01c-d7d1-4bc0-9e39-d2fd8fccb221,Product,FAUCET - TPSH29,Description: פרנה גולד אינטרפוץ 4 דרך<br>,,Faucets,TPSH29,,1004,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+f74ede32-af0b-4e61-a7c8-558e70e32f17,Product,FAUCET - TPSH543,"Description: תעלת ניקוז רשת פסים<br>Size: 60 ס""מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH543.jpg,Faucets,TPSH543,,569,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+57cfc951-6d5f-4e78-acca-7f98624f0cc7,Product,FAUCET - TPSH10,"<p><b>אפשרות 1:</b></p>Description: פרנה ברונזה ראש מקלחת עגול וינטג’<br>Size: 20 ס""מ<br><p><b>אפשרות 2:</b></p>Description: פרנה ברונזה
+ראש מקלחת עגול וינטג’
+20 ס”מ<br><p><b>אפשרות 3:</b></p>Description: פרנה ברונזה
+ראש מקלחת וינטג’
+20 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH10.jpg,Faucets,TPSH10,,811,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+57cfc951-6d5f-4e78-acca-7f98624f0cc7,Variant,FAUCET - TPSH10,"Description: פרנה ברונזה ראש מקלחת עגול וינטג’<br>Size: 20 ס""מ<br>",,Faucets,TPSH10_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+57cfc951-6d5f-4e78-acca-7f98624f0cc7,Variant,FAUCET - TPSH147,"Description: פרנה ברונזה
+ראש מקלחת עגול וינטג’
+20 ס”מ<br>",,Faucets,TPSH147,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+57cfc951-6d5f-4e78-acca-7f98624f0cc7,Variant,FAUCET - TPSH361,"Description: פרנה ברונזה
+ראש מקלחת וינטג’
+20 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH361.jpg,Faucets,TPSH361,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+de8c22f3-ec9d-48a8-b7b5-2b85b229929c,Product,FAUCET - TPSH85,Description: שאטו בינוני מסתובב<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH85.jpg,Faucets,TPSH85,,479,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+1c1d443d-11f8-4351-95ff-8cb5051b0269,Product,FAUCET - TPSH455,Description: בוקה קולב זוגי<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH455.jpg,Faucets,TPSH455,,156,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+f8aabbdc-d441-4d94-b699-ff457e358649,Product,FAUCET - TPSH478,Description: הוגו טבעת למגבת<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH478.jpg,Faucets,TPSH478,,242,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+04fbeb60-7720-48e1-bc91-319a316478af,Product,FAUCET - TPSH370,"Description: מזלף A.B.S
+מלבני<br>",,Faucets,TPSH370,,56,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+12e08086-1580-432c-b26b-8d467f4bada9,Product,FAUCET - TPSH520,Description: סבוניה לכיור מטבח<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH519.jpg,Faucets,TPSH520,,123,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,לבן,,,,,,,,,,,,,,,,,,,,,,,,
+bf685643-dc20-499e-99e8-609953abf564,Product,FAUCET - TPSH396,Description: נאפה מוט מקלחת<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH396A.jpg,Faucets,TPSH396,,559,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+16db39f5-4098-4fdd-a68a-e77d5d980f6e,Product,FAUCET - TPSH452,Description: בוקה מדף בית מלון<br>,,Faucets,TPSH452,,702,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+38979551-f005-49f0-a956-d9422aa748a1,Product,FAUCET - TPSH530,Description: סיפון 1/4 S 1<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH529.jpg,Faucets,TPSH530,,140,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+df2e1e04-f441-4557-b85e-a20847d9238d,Product,FAUCET - TPSH194,Description: בייליס 90 מעלות<br>,,Faucets,TPSH194,,672,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+20017bf3-5378-4af6-930f-7066dc2f135c,Product,FAUCET - TPSH305,Description: מיסוני ברונזה פרח מים קרים<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH305.jpg,Faucets,TPSH305,,281,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+55f6e92c-39c7-458b-ac1f-08073ba88ba3,Product,FAUCET - TPSH488,"Description: סטפן מוט מגבת כפול בראס
+60 ס”מ<br>",,Faucets,TPSH488,,359,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+896b0cb0-5ee7-43f0-8df1-8798921afbea,Product,FAUCET - TPSH41,<p><b>אפשרות 1:</b></p>Description: איטליה דומו פרח נמוך לכיור רחצה<br><p><b>אפשרות 2:</b></p>Description: איטליה דומו פרח נמוך לכיור רחצה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH41.jpg,Faucets,TPSH41,,1123,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+896b0cb0-5ee7-43f0-8df1-8798921afbea,Variant,FAUCET - TPSH41,Description: איטליה דומו פרח נמוך לכיור רחצה<br>,,Faucets,TPSH41_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+896b0cb0-5ee7-43f0-8df1-8798921afbea,Variant,FAUCET - TPSH42,Description: איטליה דומו פרח נמוך לכיור רחצה<br>,,Faucets,TPSH42,,,253,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+d416d07b-1bad-4642-85eb-b9d85153069e,Product,FAUCET - TPSH222,"<p><b>אפשרות 1:</b></p>Description: סונומה
+קשת רחצה<br><p><b>אפשרות 2:</b></p>Description: סונומה
+קשת רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH222A.jpg,Faucets,TPSH222,,672,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+d416d07b-1bad-4642-85eb-b9d85153069e,Variant,FAUCET - TPSH222,"Description: סונומה
+קשת רחצה<br>",,Faucets,TPSH222_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+d416d07b-1bad-4642-85eb-b9d85153069e,Variant,FAUCET - TPSH223,"Description: סונומה
+קשת רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH222A.jpg,Faucets,TPSH223,,,139,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+0d2ccac4-5d42-443d-8c76-cb126b983665,Product,FAUCET - TPSH529,Description: סיפון 1/4 S 1<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH529.jpg,Faucets,TPSH529,,77,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+87ac579f-6e55-4983-a547-8108fb4bf6dc,Product,FAUCET - TPSH14,"<p><b>אפשרות 1:</b></p>Description: פרנה ברונזה צינור 1.5 מ'<br>Size: 1.5 מטר<br><p><b>אפשרות 2:</b></p>Description: פרנה ברונזה
+צינור 1.5 מ'<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH14.jpg,Faucets,TPSH14,,158,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+87ac579f-6e55-4983-a547-8108fb4bf6dc,Variant,FAUCET - TPSH14,Description: פרנה ברונזה צינור 1.5 מ'<br>Size: 1.5 מטר<br>,,Faucets,TPSH14_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+87ac579f-6e55-4983-a547-8108fb4bf6dc,Variant,FAUCET - TPSH150,"Description: פרנה ברונזה
+צינור 1.5 מ'<br>",,Faucets,TPSH150,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+7746579d-fcb0-449a-a1f0-0365ebbadf9c,Product,FAUCET - TPSH383,"Description: ראש מקלחת מלבני 6 מ”מ
+40/23.5 ס”מ<br>Materials: Stainless Steel<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH383.jpg,Faucets,TPSH383,,614,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a8af210f-8243-4d04-a265-153685668d7b,Product,FAUCET - TPSH205,Description: בונלי אינטרפוץ 3 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH205.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH205A.jpg,Faucets,TPSH205,,405,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+dafc3281-a3a2-4670-80ac-05c5954073ca,Product,FAUCET - TPSH561,<p><b>אפשרות 1:</b></p>Description: מזלף לנשלף דומינדו<br><p><b>אפשרות 2:</b></p>Description: מזלף לנשלף דומינדו<br>,,Faucets,TPSH561,,98,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+dafc3281-a3a2-4670-80ac-05c5954073ca,Variant,FAUCET - TPSH561,Description: מזלף לנשלף דומינדו<br>,,Faucets,TPSH561_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+dafc3281-a3a2-4670-80ac-05c5954073ca,Variant,FAUCET - TPSH562,Description: מזלף לנשלף דומינדו<br>,,Faucets,TPSH562,,,21,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+e08cea59-91b4-429a-81bb-c285d022b1bc,Product,FAUCET - TPSH65,"<p><b>אפשרות 1:</b></p>Description: איטליה גטוני ג’ט שקוע מתכוונן עגול BOX<br><p><b>אפשרות 2:</b></p>Description: איטליה גטוני
+ג’ט שקוע מתכוונן עגול BOX<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH65.jpg,Faucets,TPSH65,,491,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+e08cea59-91b4-429a-81bb-c285d022b1bc,Variant,FAUCET - TPSH65,Description: איטליה גטוני ג’ט שקוע מתכוונן עגול BOX<br>,,Faucets,TPSH65_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+e08cea59-91b4-429a-81bb-c285d022b1bc,Variant,FAUCET - TPSH523,"Description: איטליה גטוני
+ג’ט שקוע מתכוונן עגול BOX<br>",,Faucets,TPSH523,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+0653906e-c4d9-42b2-807c-436f5b03df72,Product,FAUCET - TPSH169,"Description: מרקזה
+אינטרפוץ 3 דרך<br>",,Faucets,TPSH169,,498,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- זהב אפריקאי,,,,,,,,,,,,,,,,,,,,,,,,
+9eb90831-1deb-47bf-85cf-fa7a78f502d3,Product,FAUCET - TPSH139,"Description: וולנטה ניקל מט
+זרוע לראש מקלחת 40 ס”מ<br>",,Faucets,TPSH139_1,,365,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+ecfd23c7-437e-4e82-ac1a-4f524ce9c618,Product,FAUCET - TPSH101,"Description: שאטו ברונזה
+900 גבוה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH101A.jpg,Faucets,TPSH101,,749,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+f8c6317c-57e5-435f-8c1a-f95b688718f5,Product,FAUCET - TPSH18,Description: פרנה גולד לכיור רחצה גבוה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH18.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH18A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH1A.jpg,Faucets,TPSH18,,1332,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+535cdaa2-b00d-4d89-a543-108f82efb4c4,Product,FAUCET - TPSH113,"Description: שאטו שחור מט
+מערכת קיר לכיור רחצה<br>",,Faucets,TPSH113,,1053,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור,,,,,,,,,,,,,,,,,,,,,,,,
+02a5e1a6-901a-45d1-974f-01b26639232b,Product,FAUCET - TPSH118,"Description: שאטו ניקל מט גבוה
+מסתובב לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH118.jpg,Faucets,TPSH118,,826,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+28b5cf1b-5432-40ba-8c51-e14ba21c711b,Product,FAUCET - TPSH308,"Description: שירל
+סוללה לאמבטיה<br>",,Faucets,TPSH308,,249,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+c843d258-c813-417f-8111-cebce9446b7b,Product,FAUCET - TPSH89,Description: שאטו מערכת קיר לכיור רחצה<br>,,Faucets,TPSH89,,842,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+b115e317-3cef-4587-8b63-971aabaf1b32,Product,FAUCET - TPSH336,"<p><b>אפשרות 1:</b></p>Description: איטליה
+מתיזן מתכת + מתלה
+וצינור 1.20 מטר<br><p><b>אפשרות 2:</b></p>Description: איטליה
+מתיזן מתכת + מתלה
+וצינור 1.20 מטר<br><p><b>אפשרות 3:</b></p>Description: איטליה
+מתיזן מתכת + מתלה
+וצינור 1.20 מטר<br>",,Faucets,TPSH336,,516,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+b115e317-3cef-4587-8b63-971aabaf1b32,Variant,FAUCET - TPSH336,"Description: איטליה
+מתיזן מתכת + מתלה
+וצינור 1.20 מטר<br>",,Faucets,TPSH336_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+b115e317-3cef-4587-8b63-971aabaf1b32,Variant,FAUCET - TPSH337,"Description: איטליה
+מתיזן מתכת + מתלה
+וצינור 1.20 מטר<br>",,Faucets,TPSH337,,,162,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+b115e317-3cef-4587-8b63-971aabaf1b32,Variant,FAUCET - TPSH338,"Description: איטליה
+מתיזן מתכת + מתלה
+וצינור 1.20 מטר<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH338.jpg,Faucets,TPSH338,,,326,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+0e11e1cb-8530-4ec5-b118-83ae97e8d4c3,Product,FAUCET - TPSH433,Description: ספאדה גולד מברשת אסלה תלויה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH433.jpg,Faucets,TPSH433,,281,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+479774c1-8778-4454-8618-3ef384968358,Product,FAUCET - TPSH197,"Description: בייליס
+קבוע נמוך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH197A.jpg,Faucets,TPSH197,,456,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+f9633f70-839c-4f0c-80bb-b3464de2dfd2,Product,FAUCET - TPSH190,"Description: סטפן
+אינטרפוץ 4 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH190.jpg,Faucets,TPSH190,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+8b65ffae-ae93-4de1-9abb-3254666c2033,Product,FAUCET - TPSH277,"Description: זוקה
+קפיץ למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH277A.jpg,Faucets,TPSH277,,878,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+284e0495-e0a7-462a-b8ec-7e7ff2925466,Product,FAUCET - TPSH378,"Description: ראש מקלחת
+עגול 6 מ”מ
+40 ס”מ<br>Materials: Stainless Steel<br>",,Faucets,TPSH378,,702,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fa4382af-adfb-4960-8374-b21e40975afb,Product,FAUCET - TPSH184,"Description: הוגו
+אינטרפוץ 3 דרך<br>",,Faucets,TPSH184,,369,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+ef1d4276-ffa7-4633-8271-23908da8c287,Product,FAUCET - TPSH129,"Description: וולנטה שחור מט
+בינוני מסתובב<br>",,Faucets,TPSH129,,820,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+e01247be-9c21-4ec1-a7ac-767c619ba428,Product,FAUCET - TPSH225,"Description: סונומה
+אינטרפוץ 3 דרך<br>",,Faucets,TPSH225,,456,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+cb959178-ca85-44d3-b448-911ece137dba,Product,FAUCET - TPSH155,"Description: מרקזה
+קבוע בינוני לכיור רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH155A.jpg,Faucets,TPSH155,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל - WT לבן,,,,,,,,,,,,,,,,,,,,,,,,
+be1b8120-19d6-457b-b91b-80b9b2f7146e,Product,FAUCET - TPSH553,"<p><b>אפשרות 1:</b></p>Description: מזלף לנשלף
+קוואלי<br><p><b>אפשרות 2:</b></p>Description: מזלף לנשלף
+קוואלי<br><p><b>אפשרות 3:</b></p>Description: מזלף לנשלף
+קוואלי<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH553.jpg,Faucets,TPSH553,,98,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+be1b8120-19d6-457b-b91b-80b9b2f7146e,Variant,FAUCET - TPSH553,"Description: מזלף לנשלף
+קוואלי<br>",,Faucets,TPSH553_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+be1b8120-19d6-457b-b91b-80b9b2f7146e,Variant,FAUCET - TPSH554,"Description: מזלף לנשלף
+קוואלי<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH553.jpg,Faucets,TPSH554,,,21,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+be1b8120-19d6-457b-b91b-80b9b2f7146e,Variant,FAUCET - TPSH555,"Description: מזלף לנשלף
+קוואלי<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH553.jpg,Faucets,TPSH555,,,21,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+77db7127-d2d4-4137-b13a-0d6f16f11520,Product,FAUCET - TPSH243,"Description: מרטן
+אינטרפוץ 4 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH243.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH243A.jpg,Faucets,TPSH243,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+1d8f7d54-c914-4e54-b99a-b9a1368af608,Product,FAUCET - TPSH311,"Description: שירל
+פרח קשת (פיה קצרה)<br>",,Faucets,TPSH311,,191,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+47e268a2-8d7f-4aec-b626-ba7f44bdc2ab,Product,FAUCET - TPSH112,Description: שאטו ברונזה אינטרפוץ 3 דרך<br>,,Faucets,TPSH112,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+ff590e66-d378-48cf-8504-956c67a6f498,Product,FAUCET - TPSH76,Description: טרנטו איטליה אלכסוני פיה בינונית<br>,,Faucets,TPSH76,,309,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+c09c0660-a671-4b65-8193-5eaffec048d3,Product,FAUCET - TPSH81,Description: טרנטו איטליה אינטרפוץ 3 דרך<br>,,Faucets,TPSH81,,242,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+7c4680f2-6c5e-48ba-9991-a0fbdc234465,Product,FAUCET - TPSH175,"Description: מרקזה
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH175.jpg,Faucets,TPSH175,,498,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- שחור מטאלי,,,,,,,,,,,,,,,,,,,,,,,,
+2657cdce-6d5b-418c-8ce8-05ea0810461e,Product,FAUCET - TPSH493,"Description: רשת פינתית כפולה
+רוש-אס<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH493.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH493A.jpg,Faucets,TPSH493,,459,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+2351de04-5279-4628-a83e-af101ad45209,Product,FAUCET - TPSH21,Description: פרנה גולד גבוה מסתובב לכיור מונח<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH21A.jpg,Faucets,TPSH21,,1120,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+d8e20d4f-478a-445a-943d-53819e7fd5fb,Product,FAUCET - TPSH219,"Description: נאפה
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH219A.jpg,Faucets,TPSH219,,474,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+3c81b2e2-03c6-45fc-9ae6-fee17e404108,Product,FAUCET - TPSH159,"Description: מרקזה
+מערכת קיר לכיור רחצה<br>",,Faucets,TPSH159,,1035,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- BK -שחור,,,,,,,,,,,,,,,,,,,,,,,,
+287b2ed8-3d21-4df5-86c2-ef4162aeb084,Product,FAUCET - TPSH61,Description: איטליה גטוני קולור אינטרפוץ 4 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH61.jpg,Faucets,TPSH61,,1053,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+14a851e4-003b-40b9-8e82-ddd75a5c1b40,Product,FAUCET - TPSH60,Description: איטליה גטוני קולור מערכת קיר לכיור רחצה BOX<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH60.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH60B.jpg,Faucets,TPSH60,,2176,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+2c6a1ffe-9613-4ecc-a552-4f96d4a1e430,Product,FAUCET - TPSH268,"<p><b>אפשרות 1:</b></p>Description: פלגרינו
+נשלף למטבח<br><p><b>אפשרות 2:</b></p>Description: פלגרינו
+נשלף למטבח<br><p><b>אפשרות 3:</b></p>Description: פלגרינו
+נשלף למטבח<br><p><b>אפשרות 4:</b></p>Description: פלגרינו
+נשלף למטבח<br><p><b>אפשרות 5:</b></p>Description: פלגרינו
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH268A.jpg,Faucets,TPSH268,,1224,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3;אפשרות 4;אפשרות 5,,,,,,,,,,,,,,,,,,,,,,,,
+2c6a1ffe-9613-4ecc-a552-4f96d4a1e430,Variant,FAUCET - TPSH268,"Description: פלגרינו
+נשלף למטבח<br>",,Faucets,TPSH268_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+2c6a1ffe-9613-4ecc-a552-4f96d4a1e430,Variant,FAUCET - TPSH269,"Description: פלגרינו
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH268A.jpg,Faucets,TPSH269,,,208,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+2c6a1ffe-9613-4ecc-a552-4f96d4a1e430,Variant,FAUCET - TPSH270,"Description: פלגרינו
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH270A.jpg,Faucets,TPSH270,,,208,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+2c6a1ffe-9613-4ecc-a552-4f96d4a1e430,Variant,FAUCET - TPSH271,"Description: פלגרינו
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH271A.jpg,Faucets,TPSH271,,,208,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+2c6a1ffe-9613-4ecc-a552-4f96d4a1e430,Variant,FAUCET - TPSH272,"Description: פלגרינו
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH272.jpg,Faucets,TPSH272,,,268,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 5,,,,,,,,,,,,,,,,,,,,,,,,
+ec856d09-47b7-41e9-aed6-f2c7e8da7914,Product,FAUCET - TPSH466,Description: בוקה מדף בית מלון<br>,,Faucets,TPSH466,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+0c4eef31-bef3-40bc-b690-89d1c2b0ce38,Product,FAUCET - TPSH54,Description: איטליה גטוני סירקל מערכת קיר לכיור רחצה BOX<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH54.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH53B.jpg,Faucets,TPSH54,,2036,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+62a342c3-8acc-4c20-8ee7-22de0f753826,Product,FAUCET - TPSH3,Description: פרנה ניקל אינטרפוץ 4 דרך<br>Size: 165*165<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH1A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH3A.jpg,Faucets,TPSH3,,656,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+2f299c55-28dd-41b3-898b-c95de9640610,Product,FAUCET - TPSH482,Description: הוגו מחזיק נייר פתוח<br>,,Faucets,TPSH482,,176,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+80f108d3-36cf-4aaf-8173-881895471a2d,Product,FAUCET - TPSH384,"Description: ראש מקלחת מלבני 6 מ”מ
+30/20 ס”מ<br>Materials: Stainless Steel<br>",,Faucets,TPSH384,,488,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e73804d0-3339-458f-886d-4ea437073bcf,Product,FAUCET - TPSH4,Description: פרנה ניקל מערכת מקלחת בראס<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH4.jpg,Faucets,TPSH4,,1035,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+e0d49a68-03b3-4518-b725-d4060ee90e9d,Product,FAUCET - TPSH377,"Description: ראש מקלחת עגול
+20 ס""מ
+8 מ""מ בראס<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH377.jpg,Faucets,TPSH377,,386,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+86baccb0-f580-4fcf-a0f1-db92341a43c8,Product,FAUCET - TPSH371,"Description: מזלף נאפה
+בראס<br>",,Faucets,TPSH371,,181,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+fcfaaa16-e94d-4616-a74c-cbe95d68db05,Product,FAUCET - TPSH375,"Description: ראש מקלחת אובלי
+200/300
+8 מ”מ בראס<br>",,Faucets,TPSH375,,695,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+aada6f55-66cc-43b4-95a4-1481b129a41b,Product,FAUCET - TPSH16,Description: פרנה ברונזה אינטרפוץ 3 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH1A.jpg,Faucets,TPSH16,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+4b4e2539-5efc-4e76-a956-5767f32e9b2e,Product,FAUCET - TPSH154,"Description: מרקזה
+קבוע גבוה לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH154A.jpg,Faucets,TPSH154,,930,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל - WT לבן,,,,,,,,,,,,,,,,,,,,,,,,
+31e614d2-b0ff-4492-86a7-6b2e8048fbbd,Product,FAUCET - TPSH189,Description: סטפן 90 מעלות<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH189A.jpg,Faucets,TPSH189,,667,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+1fc305f2-82ef-4db3-b609-4e5ee47df7c0,Product,FAUCET - TPSH563,<p><b>אפשרות 1:</b></p>Description: מזלף לנשלף קיו<br><p><b>אפשרות 2:</b></p>Description: מזלף לנשלף קיו<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH563.jpg,Faucets,TPSH563,,98,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+1fc305f2-82ef-4db3-b609-4e5ee47df7c0,Variant,FAUCET - TPSH563,Description: מזלף לנשלף קיו<br>,,Faucets,TPSH563_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+1fc305f2-82ef-4db3-b609-4e5ee47df7c0,Variant,FAUCET - TPSH564,Description: מזלף לנשלף קיו<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH563.jpg,Faucets,TPSH564,,,21,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+ca308aff-d0c7-422b-a0e1-88807e0daa55,Product,FAUCET - TPSH339,"Description: סט 4 דרך
+מזלף 2 מצבים<br>",,Faucets,TPSH339,,295,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+7705bb68-6a09-4973-91c8-1b3340812f99,Product,FAUCET - TPSH502,Description: סבוניה רשת דורין<br>,,Faucets,TPSH502,,69,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+d20bd31b-0256-4da0-930e-8343f5784a7d,Product,FAUCET - TPSH185,"Description: הוגו
+אינטרפוץ 4 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH185.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH185A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH185B.jpg,Faucets,TPSH185,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+526b9e55-edcf-4c41-95d8-447972397800,Product,FAUCET - TPSH143,"Description: וולנטה ברונזה
+בינוני מסתובב<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH143.jpg,Faucets,TPSH143,,820,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+894b8d14-b068-45d4-b803-d2e5164dba63,Product,FAUCET - TPSH181,"Description: לומינה
+אינטרפוץ 4 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH181A.jpg,Faucets,TPSH181,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+ce4afa5d-e238-40dd-a8d3-fb8d92c4ad54,Product,FAUCET - TPSH79,Description: טרנטו איטליה נשלף למטבח<br>,,Faucets,TPSH79,,509,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+9f554cc6-9286-400a-8c96-407684248e1d,Product,FAUCET - TPSH438,Description: ספאדה ברונזה טבעת למגבת<br>,,Faucets,TPSH438,,207,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+84729417-fe7d-4b12-a871-cc87c1471423,Product,FAUCET - TPSH545,"Description: תעלת ניקוז רשת מחורר<br>Size: 60 ס""מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH545A.jpg,Faucets,TPSH545,,569,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+c93fd06d-d71d-43d3-a6f4-eccba5056f7c,Product,FAUCET - TPSH527,Description: סיפון 1/4 1<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH525.jpg,Faucets,TPSH527,,472,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+5814569f-2a13-4a7c-b36b-4be35070a509,Product,FAUCET - TPSH212,"Description: לבורו
+אינטרפוץ 4 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH212.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH212A.jpg,Faucets,TPSH212,,635,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+7f523172-a630-469b-8cab-de1125da819c,Product,FAUCET - TPSH64,"<p><b>אפשרות 1:</b></p>Description: איטליה גטוני ג’ט מתכוונן חיצוני למקלחת<br><p><b>אפשרות 2:</b></p>Description: איטליה גטוני
+ג’ט מתכוונן חיצוני למקלחת<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH64.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH64A.jpg,Faucets,TPSH64,,597,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+7f523172-a630-469b-8cab-de1125da819c,Variant,FAUCET - TPSH64,Description: איטליה גטוני ג’ט מתכוונן חיצוני למקלחת<br>,,Faucets,TPSH64_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+7f523172-a630-469b-8cab-de1125da819c,Variant,FAUCET - TPSH522,"Description: איטליה גטוני
+ג’ט מתכוונן חיצוני למקלחת<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH522.jpg,Faucets,TPSH522,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+5a6dc5de-6879-4b46-ac68-32425c67bc24,Product,FAUCET - TPSH110,"Description: שאטו ברונזה
+מערכת קיר לכיור רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH110.jpg,Faucets,TPSH110,,1053,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+9d34fd6b-3d20-4ed5-b563-21faac92e695,Product,FAUCET - TPSH5,Description: פרנה ניקל מערכת מקלחת בראס פרימיום +ּ ראש ומזלף וינטג’<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH4.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH5A.jpg,Faucets,TPSH5,,1422,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+f07bcb5b-d9e1-46f0-aef3-910cfdc3fb49,Product,FAUCET - TPSH128,"Description: וולנטה שחור מט
+גבוה מסתובב לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH128.jpg,Faucets,TPSH128,,983,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+3e7024dc-721d-446c-91a6-ee78b6e44004,Product,FAUCET - TPSH532,Description: ונטיל לחיצה 1/4 1 עגול<br>,,Faucets,TPSH532,,147,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+c47de935-7545-4e08-8de6-dab2a344324d,Product,FAUCET - TPSH247,"Description: דיביאנג'ו
+קשת רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH247.jpg,Faucets,TPSH247,,397,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+724c7c58-31f9-4e24-a87c-da2359fa8f58,Product,FAUCET - TPSH374,"Description: ראש מקלחת מרובע
+25/25
+8 מ""מ בראס<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH374.jpg,Faucets,TPSH374,,656,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+34308766-95dd-4a73-806e-2852f6a11466,Product,FAUCET - TPSH551,<p><b>אפשרות 1:</b></p>Description: מזלף לנשלף מרטן<br><p><b>אפשרות 2:</b></p>Description: מזלף לנשלף מרטן<br>,,Faucets,TPSH551,,176,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+34308766-95dd-4a73-806e-2852f6a11466,Variant,FAUCET - TPSH551,Description: מזלף לנשלף מרטן<br>,,Faucets,TPSH551_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+34308766-95dd-4a73-806e-2852f6a11466,Variant,FAUCET - TPSH552,Description: מזלף לנשלף מרטן<br>,,Faucets,TPSH552,,,49,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+d852fc3c-f982-46d2-8b63-11b8e0b30bbd,Product,FAUCET - TPSH193,"Description: סטפן
+קבוע נמוך<br>",,Faucets,TPSH193,,517,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+0e8f1724-b59f-401f-b549-e6941bf9d3a4,Product,FAUCET - TPSH252,"Description: פרנצ’טי
+קבוע גבוה לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH252.jpg,Faucets,TPSH252,,772,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+ac4dedca-1a47-4405-aa3f-cf663d87ffac,Product,FAUCET - TPSH32,"<p><b>אפשרות 1:</b></p>Description: איטליה דומו פרח גבוה לכיור מונח<br><p><b>אפשרות 2:</b></p>Description: איטליה דומו פרח גבוה לכיור מונח<br><p><b>אפשרות 3:</b></p>Description: איטליה דומו פרח גבוה לכיור מונח<br><p><b>אפשרות 4:</b></p>Description: ארצ’לו
+קבוע גבוה לכיור מונח<br>",,Faucets,TPSH32,,1544,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3;אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+ac4dedca-1a47-4405-aa3f-cf663d87ffac,Variant,FAUCET - TPSH32,Description: איטליה דומו פרח גבוה לכיור מונח<br>,,Faucets,TPSH32_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+ac4dedca-1a47-4405-aa3f-cf663d87ffac,Variant,FAUCET - TPSH33,Description: איטליה דומו פרח גבוה לכיור מונח<br>,,Faucets,TPSH33,,,351,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+ac4dedca-1a47-4405-aa3f-cf663d87ffac,Variant,FAUCET - TPSH34,Description: איטליה דומו פרח גבוה לכיור מונח<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH34.jpg,Faucets,TPSH34,,,702,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+ac4dedca-1a47-4405-aa3f-cf663d87ffac,Variant,FAUCET - TPSH207,"Description: ארצ’לו
+קבוע גבוה לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH207.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH207A.jpg,Faucets,TPSH207,,,-872,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+dfc293ad-4132-4932-abbc-a20d6a2ce359,Product,FAUCET - TPSH258,Description: פרזו 90°<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH258.jpg,Faucets,TPSH258,,597,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+19751440-ce72-47a6-896f-1dcd1fc6099a,Product,FAUCET - TPSH87,Description: שאטו אינטרפוץ 3 דרך<br>,,Faucets,TPSH87,,405,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+4a09235f-0433-4e58-8433-957bc81383c4,Product,FAUCET - TPSH90,Description: שאטו סוללה לאמבטיה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH90.jpg,Faucets,TPSH90,,811,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+1d7b4d4c-263d-4f75-8ce1-29e4ca068c55,Product,FAUCET - TPSH47,<p><b>אפשרות 1:</b></p>Description: איטליה דומואינטרפוץ 3 דרך<br><p><b>אפשרות 2:</b></p>Description: איטליה דומואינטרפוץ 3 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH47.jpg,Faucets,TPSH47,,351,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+1d7b4d4c-263d-4f75-8ce1-29e4ca068c55,Variant,FAUCET - TPSH47,Description: איטליה דומואינטרפוץ 3 דרך<br>,,Faucets,TPSH47_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+1d7b4d4c-263d-4f75-8ce1-29e4ca068c55,Variant,FAUCET - TPSH48,Description: איטליה דומואינטרפוץ 3 דרך<br>,,Faucets,TPSH48,,,133,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+2310c4a8-991b-41db-b28b-e21a50ceb470,Product,FAUCET - TPSH454,Description: בוקה מחזיק כוס<br>,,Faucets,TPSH454,,207,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+8f9114f2-6d0a-47d9-85b6-c98a0da69434,Product,FAUCET - TPSH144,"Description: וולנטה ברונזה
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH144.jpg,Faucets,TPSH144,,667,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+03c51720-2cf9-4fef-990b-acafca411102,Product,FAUCET - TPSH114,Description: שאטו שחור מט בינוני מסתובב<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH114.jpg,Faucets,TPSH114,,749,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור,,,,,,,,,,,,,,,,,,,,,,,,
+165461c4-4e74-442f-b1b4-9d53b7ca656d,Product,FAUCET - TPSH178,"Description: מרקזה
+קבוע גבוה לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH178.jpg,Faucets,TPSH178,,930,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- שחור מטאלי,,,,,,,,,,,,,,,,,,,,,,,,
+0f47b2e3-7a1b-425e-9a0f-11f2744b0f79,Product,FAUCET - TPSH541,"Description: תעלת ניקוז לאריחי קרמיקה<br>Size: 60 ס""מ<br>",,Faucets,TPSH541,,562,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+f4966eac-0850-4d21-a199-316f6a265a22,Product,FAUCET - TPSH242,Description: מרטן קבוע נמוך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH242.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH242A.jpg,Faucets,TPSH242,,556,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+49f7c728-324c-489b-985b-64a7c0d79b12,Product,FAUCET - TPSH111,Description: שאטו ברונזה אינטרפוץ 4 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH111.jpg,Faucets,TPSH111,,1004,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+c8e00a16-0807-4544-97ad-e5e19c8d8470,Product,FAUCET - TPSH447,Description: בוקה מחזיק כוס<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH447.jpg,Faucets,TPSH447,,161,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+acbd2195-d279-45ef-9030-66550b57d646,Product,FAUCET - TPSH424,"Description: סונומה
+מערכת מקלחת בראס<br>",,Faucets,TPSH424,,1229,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+7e9ace63-62fe-4c37-8ad7-c9bfe72caada,Product,FAUCET - TPSH342,"Description: פרנה גולד
+זרוע לראש מקלחת 40 ס”מ<br>",,Faucets,TPSH342,,366,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+71f7ebd9-84c3-4d8a-8fab-e2bcc3d761b2,Product,FAUCET - TPSH134,"Description: וולנטה ניקל מט
+מערכת קיר לכיור רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH134A.jpg,Faucets,TPSH134,,941,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+59011ec3-8da3-4eb8-a002-ad5a61e3fd89,Product,FAUCET - TPSH318,"Description: וולטנה שחור מט
+נקודת מים + מתלה<br>",,Faucets,TPSH318,,212,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+7c01b072-652b-4d3e-81d3-b9f965ba9839,Product,FAUCET - TPSH398,<p><b>אפשרות 1:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 2:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 3:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 4:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 5:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 6:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 7:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 8:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 9:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH398.jpg,Faucets,TPSH398,,1123,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3;אפשרות 4;אפשרות 5;אפשרות 6;אפשרות 7;אפשרות 8;אפשרות 9,,,,,,,,,,,,,,,,,,,,,,,,
+7c01b072-652b-4d3e-81d3-b9f965ba9839,Variant,FAUCET - TPSH398,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH398_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+7c01b072-652b-4d3e-81d3-b9f965ba9839,Variant,FAUCET - TPSH401,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH401.jpg,Faucets,TPSH401,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+7c01b072-652b-4d3e-81d3-b9f965ba9839,Variant,FAUCET - TPSH404,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH404.jpg,Faucets,TPSH404,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+7c01b072-652b-4d3e-81d3-b9f965ba9839,Variant,FAUCET - TPSH407,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH407.jpg,Faucets,TPSH407,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+7c01b072-652b-4d3e-81d3-b9f965ba9839,Variant,FAUCET - TPSH410,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH410,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 5,,,,,,,,,,,,,,,,,,,,,,,,
+7c01b072-652b-4d3e-81d3-b9f965ba9839,Variant,FAUCET - TPSH412,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH412.jpg,Faucets,TPSH412,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 6,,,,,,,,,,,,,,,,,,,,,,,,
+7c01b072-652b-4d3e-81d3-b9f965ba9839,Variant,FAUCET - TPSH415,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH415,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 7,,,,,,,,,,,,,,,,,,,,,,,,
+7c01b072-652b-4d3e-81d3-b9f965ba9839,Variant,FAUCET - TPSH418,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH418,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 8,,,,,,,,,,,,,,,,,,,,,,,,
+7c01b072-652b-4d3e-81d3-b9f965ba9839,Variant,FAUCET - TPSH421,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH421.jpg,Faucets,TPSH421,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 9,,,,,,,,,,,,,,,,,,,,,,,,
+942498e7-e75a-4bcd-ab82-805bf25e3f64,Product,FAUCET - TPSH103,"Description: שאטו ברונזה
+900 גבוה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH103A.jpg,Faucets,TPSH103,,749,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+0bf3c270-b330-4065-8981-014f6040ff96,Product,FAUCET - TPSH52,Description: איטליה גטוני סירקל פרח גבוה לכיור מונח<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH52.jpg,Faucets,TPSH52,,1397,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+1ff6c4c3-5cf0-4d85-a860-7377f21ad436,Product,FAUCET - TPSH208,Description: ארצ’לו 90 מעלות<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH208A.jpg,Faucets,TPSH208,,672,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+2ffacd6e-4bd1-4392-b147-6e56fd36afb7,Product,FAUCET - TPSH467,"Description: בוקה מוט מגבת כפול
+60 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH467.jpg,Faucets,TPSH467,,484,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+493126ca-7082-4fcb-aa03-2bb60d0c9e51,Product,FAUCET - TPSH302,"<p><b>אפשרות 1:</b></p>Description: בורדו
+קשת מטבח<br><p><b>אפשרות 2:</b></p>Description: בורדו
+קשת מטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH302A.jpg,Faucets,TPSH302,,397,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+493126ca-7082-4fcb-aa03-2bb60d0c9e51,Variant,FAUCET - TPSH302,"Description: בורדו
+קשת מטבח<br>",,Faucets,TPSH302_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+493126ca-7082-4fcb-aa03-2bb60d0c9e51,Variant,FAUCET - TPSH303,"Description: בורדו
+קשת מטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH302A.jpg,Faucets,TPSH303,,,116,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+c16407db-e6a5-4457-974a-4da511c6f46e,Product,FAUCET - TPSH191,"Description: סטפן
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH191.jpg,Faucets,TPSH191,,386,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+b627bee5-89c3-4700-a729-ea41d300f92d,Product,FAUCET - TPSH202,Description: בונלי קבוע גבוה לכיור מונח<br>,,Faucets,TPSH202,,672,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+31777865-3640-45b6-a60d-ba2f765e751f,Product,FAUCET - TPSH31,Description: פרנה גולד אינטרפוץ 3 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH31.jpg,Faucets,TPSH31,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+256526c9-72a7-4b16-8fad-2aa9eb561a12,Product,FAUCET - TPSH75,Description: טרנטו איטליה קשת גבוה פיה מסתובבת<br>,,Faucets,TPSH75,,358,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+c333b5b3-562a-4290-8c32-d4bcbc975a38,Product,FAUCET - TPSH162,"Description: מרקזה
+אינטרפוץ 4 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH162.jpg,Faucets,TPSH162,,758,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- סילבר - S8612,,,,,,,,,,,,,,,,,,,,,,,,
+78f19bfc-3501-49d9-b3ce-df92919b95f1,Product,FAUCET - TPSH66,"<p><b>אפשרות 1:</b></p>Description: איטליה גטוני מוט מקלחת<br><p><b>אפשרות 2:</b></p>Description: איטליה גטוני
+מוט מקלחת<br>",,Faucets,TPSH66,,772,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+78f19bfc-3501-49d9-b3ce-df92919b95f1,Variant,FAUCET - TPSH66,Description: איטליה גטוני מוט מקלחת<br>,,Faucets,TPSH66_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+78f19bfc-3501-49d9-b3ce-df92919b95f1,Variant,FAUCET - TPSH388,"Description: איטליה גטוני
+מוט מקלחת<br>",,Faucets,TPSH388,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+e599e338-58fb-484c-867f-e00bc6d8fa13,Product,FAUCET - TPSH469,Description: בוקה מחזיק כוס<br>,,Faucets,TPSH469,,207,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+35f0778f-6d35-451b-8b17-85dfa0c5fd61,Product,FAUCET - TPSH26,"<p><b>אפשרות 1:</b></p>Description: פרנה גולד נקודת מים<br><p><b>אפשרות 2:</b></p>Description: פרנה גולד
+נקודת מים זהב<br>",,Faucets,TPSH26,,212,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+35f0778f-6d35-451b-8b17-85dfa0c5fd61,Variant,FAUCET - TPSH26,Description: פרנה גולד נקודת מים<br>,,Faucets,TPSH26_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+35f0778f-6d35-451b-8b17-85dfa0c5fd61,Variant,FAUCET - TPSH320,"Description: פרנה גולד
+נקודת מים זהב<br>",,Faucets,TPSH320,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+f3cf47b1-4fab-4322-a78c-85f16e156315,Product,FAUCET - TPSH130,"Description: וולנטה שחור מט
+אינטרפוץ 4 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH130.jpg,Faucets,TPSH130,,1074,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+48fff4e8-3dbd-48e3-81cd-376613c7f912,Product,FAUCET - TPSH49,"<p><b>אפשרות 1:</b></p>Description: איטליה דומו מוט מקלחת וינטג’<br><p><b>אפשרות 2:</b></p>Description: איטליה דומו מוט מקלחת וינטג’<br><p><b>אפשרות 3:</b></p>Description: איטליה דומו מוט מקלחת וינטג’<br><p><b>אפשרות 4:</b></p>Description: דומו איטליה
+מוט מקלחת<br><p><b>אפשרות 5:</b></p>Description: דומו איטליה
+מוט מקלחת<br><p><b>אפשרות 6:</b></p>Description: דומו איטליה
+מוט מקלחת<br>",,Faucets,TPSH49,,878,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3;אפשרות 4;אפשרות 5;אפשרות 6,,,,,,,,,,,,,,,,,,,,,,,,
+48fff4e8-3dbd-48e3-81cd-376613c7f912,Variant,FAUCET - TPSH49,Description: איטליה דומו מוט מקלחת וינטג’<br>,,Faucets,TPSH49_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+48fff4e8-3dbd-48e3-81cd-376613c7f912,Variant,FAUCET - TPSH50,Description: איטליה דומו מוט מקלחת וינטג’<br>,,Faucets,TPSH50,,,193,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+48fff4e8-3dbd-48e3-81cd-376613c7f912,Variant,FAUCET - TPSH51,Description: איטליה דומו מוט מקלחת וינטג’<br>,,Faucets,TPSH51,,,702,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+48fff4e8-3dbd-48e3-81cd-376613c7f912,Variant,FAUCET - TPSH392,"Description: דומו איטליה
+מוט מקלחת<br>",,Faucets,TPSH392,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+48fff4e8-3dbd-48e3-81cd-376613c7f912,Variant,FAUCET - TPSH393,"Description: דומו איטליה
+מוט מקלחת<br>",,Faucets,TPSH393,,,193,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 5,,,,,,,,,,,,,,,,,,,,,,,,
+48fff4e8-3dbd-48e3-81cd-376613c7f912,Variant,FAUCET - TPSH394,"Description: דומו איטליה
+מוט מקלחת<br>",,Faucets,TPSH394,,,702,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 6,,,,,,,,,,,,,,,,,,,,,,,,
+0db74c0e-fe99-43aa-9df2-c559b429efcf,Product,FAUCET - TPSH348,Description: זרוע לראש מקלחת 40 ס”מ<br>,,Faucets,TPSH348,,232,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+aeb92fda-4b52-491c-9eba-f1312fcce6e3,Product,FAUCET - TPSH511,Description: מחזיק נייר סגור דורין<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH511.jpg,Faucets,TPSH511,,57,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+e6288304-b028-4a40-8e80-8002b0521bd1,Product,FAUCET - TPSH556,Description: מזלף לנשלף תעשייתי<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH556.jpg,Faucets,TPSH556,,456,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+a6310060-625c-45c5-8085-829b3fc28b2f,Product,FAUCET - TPSH24,"<p><b>אפשרות 1:</b></p>Description: פרנה גולד ראש מקלחת עגול וינטג’<br><p><b>אפשרות 2:</b></p>Description: פרנה גולד
+ראש מקלחת וינטג’<br>",,Faucets,TPSH24,,1305,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+a6310060-625c-45c5-8085-829b3fc28b2f,Variant,FAUCET - TPSH24,Description: פרנה גולד ראש מקלחת עגול וינטג’<br>,,Faucets,TPSH24_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+a6310060-625c-45c5-8085-829b3fc28b2f,Variant,FAUCET - TPSH362,"Description: פרנה גולד
+ראש מקלחת וינטג’<br>",,Faucets,TPSH362,,,-494,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+754d0e16-eac3-40cd-995d-5bbc5c0c52db,Product,FAUCET - TPSH109,"Description: שאטו ברונזה גבוה
+מסתובב לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH109.jpg,Faucets,TPSH109,,903,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+5a1fd899-47bc-453f-b00d-529691974d9a,Product,FAUCET - TPSH120,"Description: שאטו ניקל מט
+אינטרפוץ 4 דרך<br>",,Faucets,TPSH120,,788,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+7e121523-988d-4736-9150-6ca25d28b1ec,Product,FAUCET - TPSH77,Description: טרנטו איטליה אלכסוני פיה ארוכה<br>,,Faucets,TPSH77,,309,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+89558845-912e-42d1-badc-a1a66af73021,Product,FAUCET - TPSH107,"Description: שאטו ברונזה סוללה
+לאמבטיה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH107A.jpg,Faucets,TPSH107,,1369,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+9daad129-9111-49c3-89f0-25cb77eba957,Product,FAUCET - TPSH91,<p><b>אפשרות 1:</b></p>Description: שאטו פרימיום 90 מעלות גבוה<br><p><b>אפשרות 2:</b></p>Description: שאטו פרימיום 90 מעלות גבוה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH91.jpg,Faucets,TPSH91,,549,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+9daad129-9111-49c3-89f0-25cb77eba957,Variant,FAUCET - TPSH91,Description: שאטו פרימיום 90 מעלות גבוה<br>,,Faucets,TPSH91_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+9daad129-9111-49c3-89f0-25cb77eba957,Variant,FAUCET - TPSH91,Description: שאטו פרימיום 90 מעלות גבוה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH91.jpg,Faucets,TPSH91_1,,,123,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+30a1a2fb-9c1d-415d-8671-72e2b9739095,Product,FAUCET - TPSH256,Description: מורטי קבוע גבוה לכיור מונח<br>,,Faucets,TPSH256,,633,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+030adab1-4f6e-4efc-b227-a69c8689525c,Product,FAUCET - TPSH499,Description: ידית אחיזה + סבוניה דורין<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH499.jpg,Faucets,TPSH499,,170,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+2233f84e-38a6-40d4-b684-27e04c009566,Product,FAUCET - TPSH67,Description: איטליה גטוני אינטרפוץ 5 דרך BOX<br>,,Faucets,TPSH67,,2176,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+9fb7f415-3dd3-471f-9ac7-80e09bc136b2,Product,FAUCET - TPSH521,Description: סבוניה לכיור מטבח<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH519.jpg,Faucets,TPSH521,,211,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+bdb3b815-6c98-4a20-b752-100fbe2b8474,Product,FAUCET - TPSH291,"Description: קוטור
+נשלף למטבח<br>",,Faucets,TPSH291,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+037ba39d-28bc-4d8d-b004-ad5687e0f1a8,Product,FAUCET - TPSH525,Description: סיפון 1/4 1<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH525.jpg,Faucets,TPSH525,,123,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+fc18391f-c200-48cc-b875-4d70c7842e77,Product,FAUCET - TPSH209,"Description: לבורו
+קבוע גבוה לכיור מונח<br>",,Faucets,TPSH209,,755,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+bd1d7228-61a1-4b70-8fb7-72fae9e60212,Product,FAUCET - TPSH323,Description: נק' מים מרובעת + מתלה<br>,,Faucets,TPSH323,,116,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+c13fd609-6764-4748-a8c1-730216d0684b,Product,FAUCET - TPSH92,<p><b>אפשרות 1:</b></p>Description: שאטו פרימיום 90 מעלות נמוך<br><p><b>אפשרות 2:</b></p>Description: שאטו פרימיום 90 מעלות נמוך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH92.jpg,Faucets,TPSH92,,549,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+c13fd609-6764-4748-a8c1-730216d0684b,Variant,FAUCET - TPSH92,Description: שאטו פרימיום 90 מעלות נמוך<br>,,Faucets,TPSH92_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+c13fd609-6764-4748-a8c1-730216d0684b,Variant,FAUCET - TPSH92,Description: שאטו פרימיום 90 מעלות נמוך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH92.jpg,Faucets,TPSH92_1,,,123,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+7ec83873-0e4f-4eb3-8514-ddb215e6d515,Product,FAUCET - TPSH59,Description: איטליה גטוני קולור פרח בינוני לכיור רחצה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH59.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH59A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH59A.jpg,Faucets,TPSH59,,1193,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+7b15e3aa-8f06-4770-b9cc-4b9cbcdb9339,Product,FAUCET - TPSH514,Description: מדף זכוכית דורין<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH514.jpg,Faucets,TPSH514,,112,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+51d9b0bf-ebc3-4174-a5e4-a10bc854a75f,Product,FAUCET - TPSH264,"<p><b>אפשרות 1:</b></p>Description: קוואלי פרימיום
+נשלף למטבח<br><p><b>אפשרות 2:</b></p>Description: קוואלי פרימיום
+נשלף למטבח<br><p><b>אפשרות 3:</b></p>Description: קוואלי פרימיום
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH264.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH264A.jpg,Faucets,TPSH264,,958,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+51d9b0bf-ebc3-4174-a5e4-a10bc854a75f,Variant,FAUCET - TPSH264,"Description: קוואלי פרימיום
+נשלף למטבח<br>",,Faucets,TPSH264_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+51d9b0bf-ebc3-4174-a5e4-a10bc854a75f,Variant,FAUCET - TPSH265,"Description: קוואלי פרימיום
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH264.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH264A.jpg,Faucets,TPSH265,,,193,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+51d9b0bf-ebc3-4174-a5e4-a10bc854a75f,Variant,FAUCET - TPSH266,"Description: קוואלי פרימיום
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH264.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH264A.jpg,Faucets,TPSH266,,,193,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+6a5b1e09-bfb7-483e-aea5-9eb643084173,Product,FAUCET - TPSH505,Description: קולב רביעיה דורין<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH505.jpg,Faucets,TPSH505,,100,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+db8dbff1-43dd-49e9-92d6-7917983b4498,Product,FAUCET - TPSH319,"Description: וולטה ניקל מט
+נקודת מים + מתלה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH319.jpg,Faucets,TPSH319,,183,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+eb98c714-1855-4c01-8266-4aff8cc4b561,Product,FAUCET - TPSH203,Description: בונלי קבוע נמוך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH203A.jpg,Faucets,TPSH203,,517,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+7075c45c-6bff-4443-bb46-f50bc185641a,Product,FAUCET - TPSH183,Description: לומינה 90 מעלות בינוני<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH183.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH183A.jpg,Faucets,TPSH183,,688,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+003855ca-9611-4bea-9ddb-e78b57d751c1,Product,FAUCET - TPSH254,"Description: פרנצ’טי
+אינטרפוץ 3 דרך<br>",,Faucets,TPSH254,,405,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+20f21078-ff66-4729-9067-16a92aa10bc0,Product,FAUCET - TPSH535,Description: ונטיל לחיצה 1/4 1 מרובע<br>,,Faucets,TPSH535,,116,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+8ca19fee-d36a-41e5-b197-2578ce9c7f50,Product,FAUCET - TPSH218,"Description: נאפה
+אינטרפוץ 4 דרך<br>",,Faucets,TPSH218,,727,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+d47001e6-c7ef-446d-8964-e49a6cf591cc,Product,FAUCET - TPSH284,"Description: סטארק
+נשלף תעשייתי<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH284A.jpg,Faucets,TPSH284,,1745,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+03f9c379-90b7-4cf0-b740-d2146d6a25f9,Product,FAUCET - TPSH210,Description: לבורו 90 מעלות<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH210A.jpg,Faucets,TPSH210,,698,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+d55c8750-6fa9-435f-a372-bea4d6a8e399,Product,FAUCET - TPSH237,"Description: מרטן
+גבוה מסתובב
+לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH237A.jpg,Faucets,TPSH237,,888,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+84a0f64e-ac5b-460d-bd4d-26e78172f197,Product,FAUCET - TPSH227,"Description: סונומה
+סוללה לאמבטיה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH227.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH227A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH227B.jpg,Faucets,TPSH227,,873,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+9937277e-4d0f-4f0e-b931-a480294de11a,Product,FAUCET - TPSH468,Description: בוקה טבעת למגבת<br>,,Faucets,TPSH468,,207,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+61876eb8-a9b2-4502-846e-6ee415f1d6f6,Product,FAUCET - TPSH460,"Description: בוקה מוט מגבת כפול
+60 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH460.jpg,Faucets,TPSH460,,484,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+89167989-da1c-4f20-af9f-51e154719ee8,Product,FAUCET - TPSH507,Description: קולב זוגי דורין<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH507.jpg,Faucets,TPSH507,,39,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+8906c6dd-a743-4557-8be4-f2969d8ea54b,Product,FAUCET - TPSH508,Description: קולב יחיד דורין<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH508.jpg,Faucets,TPSH508,,33,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+cbc724da-83e6-4700-8c4d-3de3ea430198,Product,FAUCET - TPSH199,Description: בייליס אינטרפוץ 3 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH199A.jpg,Faucets,TPSH199,,474,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+a83e8f7d-3562-4539-bd3a-696b84dd69d2,Product,FAUCET - TPSH492,Description: רשת מלבנית 2 קומות למקלחון רוש-אס<br>,,Faucets,TPSH492,,459,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+564038ec-a2de-4538-bda0-86fad9aaf18e,Product,FAUCET - TPSH321,Description: נק' מים עגולה + מתלה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH321.jpg,Faucets,TPSH321,,116,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+ab45cbd6-2983-4c8b-b85e-48fef07edd93,Product,FAUCET - TPSH164,Description: מרקזה 90 מעלות<br>,,Faucets,TPSH164,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- סילבר - S8614,,,,,,,,,,,,,,,,,,,,,,,,
+68adcdfd-48f3-4ad9-be44-08137aa4e30d,Product,FAUCET - TPSH57,Description: איטליה גטוני סירקל אינטרפוץ 4 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH57.jpg,Faucets,TPSH57,,997,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+e4f0728c-f25a-4288-bcdd-d3f987c71bb8,Product,FAUCET - TPSH434,Description: ספאדה גולד רשת פינתית כפולה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH434.jpg,Faucets,TPSH434,,667,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+4489fc79-5bfd-4602-a26e-b2390b391fb9,Product,FAUCET - TPSH372,"Description: מזלף סונומה
+בראס<br>",,Faucets,TPSH372,,181,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+c1c70c78-6cb5-4d19-9f7f-8c972167711e,Product,FAUCET - TPSH211,"Description: לבורו
+קבוע נמוך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH211.jpg,Faucets,TPSH211,,509,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+4997e328-aa62-4fa1-8f62-a261c150d8c7,Product,FAUCET - TPSH165,"Description: מרקזה
+מערכת קיר לכיור רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH165.jpg,Faucets,TPSH165,,1035,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- סילבר - S8615,,,,,,,,,,,,,,,,,,,,,,,,
+129f9f87-b393-49ff-8124-7174f865e28b,Product,FAUCET - TPSH168,"Description: מרקזה
+אינטרפוץ 4 דרך<br>",,Faucets,TPSH168,,758,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- זהב אפריקאי,,,,,,,,,,,,,,,,,,,,,,,,
+a6ae0597-e267-42f8-8330-13ed2756a889,Product,FAUCET - TPSH304,Description: מיסוני פרח מים קרים<br>,,Faucets,TPSH304,,225,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+90a15c7c-fc96-4c34-be83-7f1f201f63fb,Product,FAUCET - TPSH309,"Description: שירל
+אינטרפוץ 3 דרך<br>",,Faucets,TPSH309,,184,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+2901c4f5-66bd-47f1-b019-64a053463c61,Product,FAUCET - TPSH275,"Description: מאסימו
+נשלף למטבח<br>",,Faucets,TPSH275,,667,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+d348b935-e69c-40eb-b00b-b9ee04813cc7,Product,FAUCET - TPSH171,"Description: מרקזה
+מערכת קיר לכיור רחצה<br>",,Faucets,TPSH171,,1035,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- זהב אפריקאי,,,,,,,,,,,,,,,,,,,,,,,,
+f82b5a97-61f0-4436-b491-331043238295,Product,FAUCET - TPSH172,"Description: מרקזה
+קבוע גבוה לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH172.jpg,Faucets,TPSH172,,930,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- זהב אפריקאי,,,,,,,,,,,,,,,,,,,,,,,,
+83e0ed58-5746-4a8a-81c6-1d6267207c1d,Product,FAUCET - TPSH226,"Description: סונומה
+אינטרפוץ 4 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH226A.jpg,Faucets,TPSH226,,664,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+fc79da9f-c9f1-43f2-8e22-fd3a833c4ef5,Product,FAUCET - TPSH526,Description: סיפון 1/4 1<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH525.jpg,Faucets,TPSH526,,228,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+ee186382-abf8-43aa-b739-d489737d4748,Product,FAUCET - TPSH456,Description: בוקה מחזיק נייר פתוח<br>,,Faucets,TPSH456,,228,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+f5a64465-0c94-4a16-9f0d-d3e7b781ff30,Product,FAUCET - TPSH25,Description: פרנה גולד זרוע לראש מקלחת<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH25.jpg,Faucets,TPSH25,,366,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+d0b42564-bceb-4973-a950-56b097b39ffc,Product,FAUCET - TPSH53,Description: איטליה גטוני סירקל פרח בנוני לכיור רחצה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH53B.jpg,Faucets,TPSH53,,1278,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+58105e84-269d-4ade-b7f8-c6a0904e53fd,Product,FAUCET - TPSH516,"Description: מוט מגבות כפול דורין
+60 ס""מ<br>",,Faucets,TPSH516,,119,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+93db8740-7d71-45ff-8631-d4bdc7962743,Product,FAUCET - TPSH82,Description: טרנטו איטליה סוללה מהקיר פיה קצרה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH82.jpg,Faucets,TPSH82,,386,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+8300089a-0cb5-4006-85c6-8fe550ca74fe,Product,FAUCET - TPSH440,Description: ספאדה ברונזה קולב זוגי<br>,,Faucets,TPSH440,,167,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+6d3edc5c-2ff4-482a-9d0f-d03edf1bbe11,Product,FAUCET - TPSH192,"Description: סטפן
+קבוע גבוה לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH192.jpg,Faucets,TPSH192,,633,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+33475ccb-4696-4859-8d50-1afe9eac5823,Product,FAUCET - TPSH45,<p><b>אפשרות 1:</b></p>Description: איטליה דומו אינטרפוץ 4 דרך<br><p><b>אפשרות 2:</b></p>Description: איטליה דומו אינטרפוץ 4 דרך<br>,,Faucets,TPSH45,,667,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+33475ccb-4696-4859-8d50-1afe9eac5823,Variant,FAUCET - TPSH45,Description: איטליה דומו אינטרפוץ 4 דרך<br>,,Faucets,TPSH45_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+33475ccb-4696-4859-8d50-1afe9eac5823,Variant,FAUCET - TPSH46,Description: איטליה דומו אינטרפוץ 4 דרך<br>,,Faucets,TPSH46,,,193,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+afde5107-6573-41a6-b890-8c9992e3417c,Product,FAUCET - TPSH123,"Description: וולנטה ניקל
+אינטרפוץ 3 דרך<br>",,Faucets,TPSH123,,544,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+3fc50196-e674-4978-9498-b1042cd27b60,Product,FAUCET - TPSH98,"Description: שאטו פרימיום
+אינטרפוץ 4 דרך<br>",,Faucets,TPSH98,,668,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+b5f539d0-ed03-4f6e-9544-7b220912b103,Product,FAUCET - TPSH133,"Description: וולנטה שחור מט
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH133.jpg,Faucets,TPSH133,,667,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+2e368b8d-ec76-4d5c-9ef4-a8e1ce402979,Product,FAUCET - TPSH450,Description: בוקה מברשת אסלה תלויה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH450.jpg,Faucets,TPSH450,,214,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+80726776-0b63-435b-ad87-ca68d47047dd,Product,FAUCET - TPSH498,"Description: ידית אחיזה 50 ס""מ דורין<br>",,Faucets,TPSH498,,104,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+55356913-d08d-4cd0-9eed-4c10a6b57160,Product,FAUCET - TPSH261,"Description: קיאנטי
+נשלף למטבח<br>",,Faucets,TPSH261,,842,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+10fee036-9623-439c-ab94-bc4bb0021514,Product,FAUCET - TPSH306,<p><b>אפשרות 1:</b></p>Description: סונומה פרח מים קרים<br><p><b>אפשרות 2:</b></p>Description: סונומה פרח מים קרים<br>,,Faucets,TPSH306,,291,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+10fee036-9623-439c-ab94-bc4bb0021514,Variant,FAUCET - TPSH306,Description: סונומה פרח מים קרים<br>,,Faucets,TPSH306_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+10fee036-9623-439c-ab94-bc4bb0021514,Variant,FAUCET - TPSH307,Description: סונומה פרח מים קרים<br>,,Faucets,TPSH307,,,25,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+74970ccb-fc88-4fd2-b048-91ba78534754,Product,FAUCET - TPSH436,Description: ספאדה גולד רשת פינתית בודדת<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH436.jpg,Faucets,TPSH436,,330,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+27e04684-3cdb-4031-9b5d-443bd41efa02,Product,FAUCET - TPSH96,"Description: שאטו פרימיום
+מערכת קיר לכיור רחצה<br>",,Faucets,TPSH96,,913,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+b97e1c22-6dcd-47bf-86a9-5001ab6d5e03,Product,FAUCET - TPSH463,Description: בוקה קולב זוגי<br>,,Faucets,TPSH463,,156,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+bb84cf49-0ddf-42e2-ace3-d3c7a638d8ff,Product,FAUCET - TPSH491,"Description: רשת פינתית כפולה
+רוש-אס<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH491.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH491A.jpg,Faucets,TPSH491,,459,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+d4612171-9630-4aee-a1f5-6f7cf9698ef2,Product,FAUCET - TPSH78,Description: טרנטו איטליה סוללה לאמבטיה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH78.jpg,Faucets,TPSH78,,456,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+cc69f7ac-d155-4421-bc77-2ca5dc78802e,Product,FAUCET - TPSH559,<p><b>אפשרות 1:</b></p>Description: מזלף לנשלף קוטור<br><p><b>אפשרות 2:</b></p>Description: מזלף לנשלף קוטור<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH559.jpg,Faucets,TPSH559,,98,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+cc69f7ac-d155-4421-bc77-2ca5dc78802e,Variant,FAUCET - TPSH559,Description: מזלף לנשלף קוטור<br>,,Faucets,TPSH559_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+cc69f7ac-d155-4421-bc77-2ca5dc78802e,Variant,FAUCET - TPSH560,Description: מזלף לנשלף קוטור<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH559.jpg,Faucets,TPSH560,,,21,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+ce90d185-2fa1-47fd-b97d-f28518cd7c28,Product,FAUCET - TPSH313,"Description: שירל
+פרח שטוח (פיה קצרה)<br>",,Faucets,TPSH313,,150,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+57314ba8-fbb9-4975-a790-670d15186967,Product,FAUCET - TPSH292,"Description: מונטריי
+נשלף למטבח<br>",,Faucets,TPSH292,,701,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+34f84a60-42c3-4cef-936a-e5f7e6596b3e,Product,FAUCET - TPSH204,Description: בונלי אינטרפוץ 4 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH204.jpg,Faucets,TPSH204,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+24741e11-e618-465d-8378-d9661d2d15a9,Product,FAUCET - TPSH462,Description: בוקה מחזיק כוס<br>,,Faucets,TPSH462,,207,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+6aac689e-3e1b-4b2e-8ce5-a6f3bf6669f6,Product,FAUCET - TPSH515,"Description: מדף בית מלון דורין
+שתי קומות<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH515.jpg,Faucets,TPSH515,,208,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+7bb68f44-d50c-44a8-bf73-9b57b4311843,Product,FAUCET - TPSH474,Description: בוקה מדף בית מלון<br>,,Faucets,TPSH474,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+caa67a38-914f-41e2-9660-8170d6377d1a,Product,FAUCET - TPSH425,Description: ספאדה רשת פינתית כפולה<br>,,Faucets,TPSH425,,505,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+52699c7d-85ea-4eb9-8cef-74ad54c1174a,Product,FAUCET - TPSH324,Description: נקודת מים ענתיק + מתלה<br>,,Faucets,TPSH324,,211,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+6af1075d-a012-42fd-b8c1-dc9e51300f6e,Product,FAUCET - TPSH287,"<p><b>אפשרות 1:</b></p>Description: מרטן
+נשלף למטבח<br><p><b>אפשרות 2:</b></p>Description: מרטן
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH287.jpg,Faucets,TPSH287,,965,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+6af1075d-a012-42fd-b8c1-dc9e51300f6e,Variant,FAUCET - TPSH287,"Description: מרטן
+נשלף למטבח<br>",,Faucets,TPSH287_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+6af1075d-a012-42fd-b8c1-dc9e51300f6e,Variant,FAUCET - TPSH288,"Description: מרטן
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH287.jpg,Faucets,TPSH288,,,193,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+b4f93c60-7836-4a2a-85ad-f0f7b8d196ee,Product,FAUCET - TPSH495,"Description: רשת מלבנית
+רוש-אס<br>",,Faucets,TPSH495,,270,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+e3bfe041-4f41-4ded-8aae-efa2816c98dc,Product,FAUCET - TPSH510,Description: מחזיק נייר פתוח דורין<br>,,Faucets,TPSH510,,49,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+4b1bd81e-7df5-4654-b9d7-7fe89abf3d04,Product,FAUCET - TPSH56,Description: איטליה גטוני סירקל אינטרפוץ 3 דרך קוטר צלחת 65 מ”מ<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH56.jpg,Faucets,TPSH56,,618,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+13df9b26-07b4-44f7-84a8-75df205742c6,Product,FAUCET - TPSH230,"Description: בורדו
+אינטרפוץ 4 דרך<br>",,Faucets,TPSH230,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+9a25b3a3-fcd7-41d1-a1ca-b92e7c58fbf8,Product,FAUCET - TPSH486,Description: סטפן מחזיק נייר פתוח<br>,,Faucets,TPSH486,,193,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+dd7d6a10-f5b2-4475-a92e-63d34ba04226,Product,FAUCET - TPSH253,"Description: פרנצ’טי
+אינטרפוץ 4 דרך<br>",,Faucets,TPSH253,,649,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+9d0693ee-74c7-4178-9713-51acde3b02da,Product,FAUCET - TPSH173,"Description: מרקזה
+קבוע בינוני לכיור רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH173.jpg,Faucets,TPSH173,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- זהב אפריקאי,,,,,,,,,,,,,,,,,,,,,,,,
+ba8ecacc-9f8d-4a85-b8fb-b17681e5aa37,Product,FAUCET - TPSH83,Description: טרנטו איטליה סוללה מהקיר פיה ארוכה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH83.jpg,Faucets,TPSH83,,386,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+1c0820d4-5b05-4892-86f7-2b86e84a94b2,Product,FAUCET - TPSH472,Description: בוקה מברשת אסלה תלויה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH472.jpg,Faucets,TPSH472,,281,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+b39b6372-75a3-465e-8311-b66d17645750,Product,FAUCET - TPSH335,"Description: סט 4 דרך
+מזלף 3 מצבים<br>",,Faucets,TPSH335,,237,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+f1d8fc7a-04b6-4ec2-8b84-9128e836d87b,Product,FAUCET - TPSH196,"Description: בייליס
+קבוע גבוה לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH196.jpg,Faucets,TPSH196,,672,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+50601535-850e-4005-9f28-fb561e1ff27d,Product,FAUCET - TPSH35,<p><b>אפשרות 1:</b></p>Description: איטליה דומו מערכת קיר לכיור רחצה<br><p><b>אפשרות 2:</b></p>Description: איטליה דומו מערכת קיר לכיור רחצה<br>,,Faucets,TPSH35,,1460,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+50601535-850e-4005-9f28-fb561e1ff27d,Variant,FAUCET - TPSH35,Description: איטליה דומו מערכת קיר לכיור רחצה<br>,,Faucets,TPSH35_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+50601535-850e-4005-9f28-fb561e1ff27d,Variant,FAUCET - TPSH36,Description: איטליה דומו מערכת קיר לכיור רחצה<br>,,Faucets,TPSH36,,,435,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+8a55a106-d1fd-49ef-ac06-68ed99872a10,Product,FAUCET - TPSH537,"<p><b>אפשרות 1:</b></p>Description: מאריך לסיפון 1/4 1
+30 ס”מ<br><p><b>אפשרות 2:</b></p>Description: מאריך לסיפון 1/4 1
+30 ס”מ<br><p><b>אפשרות 3:</b></p>Description: מאריך לסיפון 1/4 1
+30 ס”מ<br><p><b>אפשרות 4:</b></p>Description: מאריך לסיפון 1/4 1
+30 ס”מ<br>",,Faucets,TPSH537,,35,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3;אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+8a55a106-d1fd-49ef-ac06-68ed99872a10,Variant,FAUCET - TPSH537,"Description: מאריך לסיפון 1/4 1
+30 ס”מ<br>",,Faucets,TPSH537_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+8a55a106-d1fd-49ef-ac06-68ed99872a10,Variant,FAUCET - TPSH538,"Description: מאריך לסיפון 1/4 1
+30 ס”מ<br>",,Faucets,TPSH538,,,14,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+8a55a106-d1fd-49ef-ac06-68ed99872a10,Variant,FAUCET - TPSH539,"Description: מאריך לסיפון 1/4 1
+30 ס”מ<br>",,Faucets,TPSH539,,,119,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+8a55a106-d1fd-49ef-ac06-68ed99872a10,Variant,FAUCET - TPSH540,"Description: מאריך לסיפון 1/4 1
+30 ס”מ<br>",,Faucets,TPSH540,,,119,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+90163b85-c360-4a86-aa92-3b29f6b1b732,Product,FAUCET - TPSH117,"Description: שאטו שחור מט גבוה
+מסתובב לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH117.jpg,Faucets,TPSH117,,903,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור,,,,,,,,,,,,,,,,,,,,,,,,
+eaf2265a-5223-4aa4-81ad-2744034d457a,Product,FAUCET - TPSH423,"Description: נאפה
+מערכת מקלחת בראס<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH423.jpg,Faucets,TPSH423,,1102,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+8f0b942a-fe1a-4503-be29-3a1f63b49f26,Product,FAUCET - TPSH528,Description: סיפון 1/4 1<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH525.jpg,Faucets,TPSH528,,472,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+77c28874-472d-4a53-ac14-719e087c6e78,Product,FAUCET - TPSH273,"<p><b>אפשרות 1:</b></p>Description: פרזו
+נשלף למטבח<br><p><b>אפשרות 2:</b></p>Description: פרזו
+נשלף למטבח<br>",,Faucets,TPSH273,,1193,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+77c28874-472d-4a53-ac14-719e087c6e78,Variant,FAUCET - TPSH273,"Description: פרזו
+נשלף למטבח<br>",,Faucets,TPSH273_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+77c28874-472d-4a53-ac14-719e087c6e78,Variant,FAUCET - TPSH274,"Description: פרזו
+נשלף למטבח<br>",,Faucets,TPSH274,,,141,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+4bac3c45-54e9-42cc-bdf3-3670ec2434d2,Product,FAUCET - TPSH39,<p><b>אפשרות 1:</b></p>Description: איטליה דומו סוללה לאמבטיה ענתיק<br><p><b>אפשרות 2:</b></p>Description: איטליה דומו סוללה לאמבטיה ענתיק<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH39.jpg,Faucets,TPSH39,,1671,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+4bac3c45-54e9-42cc-bdf3-3670ec2434d2,Variant,FAUCET - TPSH39,Description: איטליה דומו סוללה לאמבטיה ענתיק<br>,,Faucets,TPSH39_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+4bac3c45-54e9-42cc-bdf3-3670ec2434d2,Variant,FAUCET - TPSH40,Description: איטליה דומו סוללה לאמבטיה ענתיק<br>,,Faucets,TPSH40,,,702,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+ae898ebe-5d16-4147-b03a-aa4b4abfbaa7,Product,FAUCET - TPSH285,"<p><b>אפשרות 1:</b></p>Description: מרטן
+קפיץ למטבח<br><p><b>אפשרות 2:</b></p>Description: מרטן
+קפיץ למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH285A.jpg,Faucets,TPSH285,,1053,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+ae898ebe-5d16-4147-b03a-aa4b4abfbaa7,Variant,FAUCET - TPSH285,"Description: מרטן
+קפיץ למטבח<br>",,Faucets,TPSH285_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+ae898ebe-5d16-4147-b03a-aa4b4abfbaa7,Variant,FAUCET - TPSH286,"Description: מרטן
+קפיץ למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH285A.jpg,Faucets,TPSH286,,,168,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+120b5bd9-1737-4e11-b833-ec4daa38437d,Product,FAUCET - TPSH496,"Description: ידית אחיזה 30 ס""מ דורין<br>",,Faucets,TPSH496,,85,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+ac12e0fa-e094-4573-9d62-105645086cb7,Product,FAUCET - TPSH476,Description: הוגו קולב יחיד<br>,,Faucets,TPSH476,,91,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+f580b410-9e77-4c05-a101-5beb28526548,Product,FAUCET - TPSH200,Description: בייליס אינטרפוץ 4 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH200.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH200A.jpg,Faucets,TPSH200,,716,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+3c4455d1-8946-406c-9f39-a7ea611e4c89,Product,FAUCET - TPSH354,"Description: איטליה
+ראש מקלחת מרובע 25.5 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH354.jpg,Faucets,TPSH354,,3440,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+17e492e7-1553-4b85-9852-9f59fcb1d890,Product,FAUCET - TPSH546,"Description: תעלת ניקוז רשת מחורר<br>Size: 80 ס""מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH546.jpg,Faucets,TPSH546,,621,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+1884f770-195a-44f0-ae16-baf344c2d8f6,Product,FAUCET - TPSH509,"Description: רשת פינתית בודדת
+קטנה דורין<br>",,Faucets,TPSH509,,112,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+83dac989-444a-4842-83f8-3a18832849b9,Product,FAUCET - TPSH442,Description: ספאדה ברונזה מברשת אסלה תלויה<br>,,Faucets,TPSH442,,281,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+fb277b0c-24bc-4990-ab4b-2187f389f305,Product,FAUCET - TPSH142,"Description: וולנטה ברונזה
+גבוה מסתובב לכיור מונח<br>",,Faucets,TPSH142,,983,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+b94476b1-7558-4d76-814d-d47e360c661b,Product,FAUCET - TPSH108,"Description: שאטו ברונזה בינוני
+מסתובב<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH108.jpg,Faucets,TPSH108,,749,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+f31befda-0723-42bf-9308-75332f52462a,Product,FAUCET - TPSH163,"Description: מרקזה
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH163.jpg,Faucets,TPSH163,,498,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- סילבר - S8613,,,,,,,,,,,,,,,,,,,,,,,,
+b460dec7-4006-489d-a6c8-f4e29f51580b,Product,FAUCET - TPSH158,Description: מרקזה 90 מעלות<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH158.jpg,Faucets,TPSH158,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- BK -שחור,,,,,,,,,,,,,,,,,,,,,,,,
+60e2991e-9ee9-477c-a4c8-0daf84a4cd6a,Product,FAUCET - TPSH430,Description: ספאדה גולד מחזיק כוס<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH430.jpg,Faucets,TPSH430,,207,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+2ca8564f-4bdf-498f-8b5e-dfc9a9a37efc,Product,FAUCET - TPSH487,Description: סטפן מברשת אסלה תלויה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH487.jpg,Faucets,TPSH487,,207,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+8a5528ba-32e7-44c4-92ba-f8ccf624a973,Product,FAUCET - TPSH327,Description: נק' מים אובלית + מתלה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH327.jpg,Faucets,TPSH327,,116,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+bdb7bfd3-b651-443b-b81b-e1a764e77667,Product,FAUCET - TPSH439,Description: ספאדה ברונזה מחזיק כוס<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH439.jpg,Faucets,TPSH439,,207,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+ebf4fd1e-951e-4ac0-89ea-f53c6ef02536,Product,FAUCET - TPSH216,Description: נאפה 90 מעלות<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH216.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH216A.jpg,Faucets,TPSH216,,672,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+959700c8-4454-4516-b52c-ee1e1b28def0,Product,FAUCET - TPSH328,Description: נקודת מים ברלוני<br>,,Faucets,TPSH328,,77,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+f2251abf-c5ec-451f-8d71-cc25b0530220,Product,FAUCET - TPSH357,"Description: ראש מקלחת A.B.S
+מרובע 22/22 ס”מ<br>",,Faucets,TPSH357,,185,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+f14fb529-b523-4773-a88c-ad01c1e6eb18,Product,FAUCET - TPSH448,Description: בוקה קולב זוגי<br>,,Faucets,TPSH448,,139,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+07cdce63-a0af-42ac-b299-129d90fccfc4,Product,FAUCET - TPSH465,Description: בוקה מברשת אסלה תלויה<br>,,Faucets,TPSH465,,281,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+433b118f-402a-43f9-ab3d-e7c1e4214ed8,Product,FAUCET - TPSH437,"Description: ספאדה גולד מוט מגבת כפול
+60 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH437.jpg,Faucets,TPSH437,,386,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+0c362d71-1cf6-4f8e-9789-c843793d820f,Product,FAUCET - TPSH519,Description: סבוניה לכיור מטבח<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH519.jpg,Faucets,TPSH519,,123,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+483d928d-1f7e-4e53-994c-4cf4f9c75ad1,Product,FAUCET - TPSH518,"Description: מוט מגבת דורין
+45 ס""מ<br>",,Faucets,TPSH518,,65,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+9f06b0c9-9626-4253-80d1-8a96fa236772,Product,FAUCET - TPSH501,Description: מחזיק כוס דורין<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH501.jpg,Faucets,TPSH501,,61,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+a791bfbf-7912-40a7-9034-f383704f0f4d,Product,FAUCET - TPSH557,<p><b>אפשרות 1:</b></p>Description: מזלף לנשלף בורדו<br><p><b>אפשרות 2:</b></p>Description: מזלף לנשלף בורדו<br>,,Faucets,TPSH557,,98,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+a791bfbf-7912-40a7-9034-f383704f0f4d,Variant,FAUCET - TPSH557,Description: מזלף לנשלף בורדו<br>,,Faucets,TPSH557_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+a791bfbf-7912-40a7-9034-f383704f0f4d,Variant,FAUCET - TPSH558,Description: מזלף לנשלף בורדו<br>,,Faucets,TPSH558,,,21,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+88f47f4c-105a-42ab-af91-c0f573bcdeb3,Product,FAUCET - TPSH97,"Description: שאטו פרימיום
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH97.jpg,Faucets,TPSH97,,475,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+5a6c01df-2316-4a4d-95cc-036217c9f11a,Product,FAUCET - TPSH298,"<p><b>אפשרות 1:</b></p>Description: דיביאנג'ו
+אלכסוני ארוך למטבח<br><p><b>אפשרות 2:</b></p>Description: דיביאנג'ו
+אלכסוני ארוך למטבח<br>",,Faucets,TPSH298,,355,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+5a6c01df-2316-4a4d-95cc-036217c9f11a,Variant,FAUCET - TPSH298,"Description: דיביאנג'ו
+אלכסוני ארוך למטבח<br>",,Faucets,TPSH298_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+5a6c01df-2316-4a4d-95cc-036217c9f11a,Variant,FAUCET - TPSH299,"Description: דיביאנג'ו
+אלכסוני ארוך למטבח<br>",,Faucets,TPSH299,,,96,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+56a443fe-1c9e-4dd6-bdce-33e931a51d06,Product,FAUCET - TPSH289,"Description: בורדו
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH289A.jpg,Faucets,TPSH289,,868,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+d1908efd-d001-4d84-be96-ca710cf093fa,Product,FAUCET - TPSH483,"Description: הוגו מוט מגבת
+60 ס”מ<br>",,Faucets,TPSH483,,350,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+dedef69f-8fc6-4b49-b939-6dc6771512ef,Product,FAUCET - TPSH156,"Description: מרקזה
+אינטרפוץ 3 דרך<br>",,Faucets,TPSH156,,498,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- BK -שחור,,,,,,,,,,,,,,,,,,,,,,,,
+a8a5390f-e968-4fe4-9fc5-0162b5c81d1d,Product,FAUCET - TPSH314,"Description: שירל
+פרח שטוח (פיה ארוכה)<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH314.jpg,Faucets,TPSH314,,150,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+63153e00-d847-4dde-9017-51d5af5a8f9f,Product,FAUCET - TPSH145,"<p><b>אפשרות 1:</b></p>Description: וולנטה ברונזה
+אינטרפוץ 4 דרך<br><p><b>אפשרות 2:</b></p>Description: וולנטה ברונזה
+אינטרפוץ 4 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH145.jpg,Faucets,TPSH145,,1074,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+63153e00-d847-4dde-9017-51d5af5a8f9f,Variant,FAUCET - TPSH145,"Description: וולנטה ברונזה
+אינטרפוץ 4 דרך<br>",,Faucets,TPSH145_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+63153e00-d847-4dde-9017-51d5af5a8f9f,Variant,FAUCET - TPSH148,"Description: וולנטה ברונזה
+אינטרפוץ 4 דרך<br>",,Faucets,TPSH148,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+9506dca0-5ae6-45eb-96b5-28473644cc27,Product,FAUCET - TPSH137,"Description: וולנטה ניקל מט
+אינטרפוץ 4 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH137.jpg,Faucets,TPSH137,,858,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+ec1ae7c9-6f28-4d2d-9f28-0458f02ebb71,Product,FAUCET - TPSH481,Description: הוגו מדף בית מלון<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH481.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH481A.jpg,Faucets,TPSH481,,649,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+5857c01f-4ad6-42a3-9d87-3d977c962aca,Product,FAUCET - TPSH238,"Description: מרטן
+גבוה מסתובב
+לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH237A.jpg,Faucets,TPSH238,,1023,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט SP,,,,,,,,,,,,,,,,,,,,,,,,
+b72531ae-8072-4879-820b-34cea4614ca5,Product,FAUCET - TPSH62,Description: איטליה גטוני קולור אינטרפוץ 3 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH62.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH62A.jpg,Faucets,TPSH62,,674,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+ccce30ae-a10c-4fd5-be0a-101aa1bffffa,Product,FAUCET - TPSH249,"Description: דיביאנג'ו
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH249.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH249A.jpg,Faucets,TPSH249,,405,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+5d42f3f2-5509-4e7d-a58e-ab63f5bd2daf,Product,FAUCET - TPSH69,Description: סיטי איטליה קבוע גבוה לכיור מונח<br>,,Faucets,TPSH69,,2159,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+20d50199-e4ab-44f4-8d21-b7b0a7b4c0c1,Product,FAUCET - TPSH250,"Description: דיביאנג'ו
+אינטרפוץ 4 דרך<br>",,Faucets,TPSH250,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+8fa89339-cabf-401a-8dfa-16698559ae73,Product,FAUCET - TPSH461,Description: בוקה ברונזה טבעת למגבת<br>,,Faucets,TPSH461,,207,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+44e03e48-a7f9-4680-b90b-0921dd5cbf92,Product,FAUCET - TPSH6,Description: פרנה ברונזה לכיור רחצה נמוך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH1A.jpg,Faucets,TPSH6,,1255,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+1a486e34-7b5e-4b43-80d9-c5a08fe3229f,Product,FAUCET - TPSH471,Description: בוקה מחזיק נייר פתוח<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH471.jpg,Faucets,TPSH471,,228,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+c9c70791-17bc-4902-9f77-a31ca5043234,Product,FAUCET - TPSH381,"Description: ראש מקלחת אובלי 6 מ”מ
+30/18 ס”מ<br>Materials: Stainless Steel<br>",,Faucets,TPSH381,,333,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27384315-56b8-40f3-878c-24d72e55d128,Product,FAUCET - TPSH380,"Description: ראש מקלחת
+עגול 6 מ”מ
+20 ס”מ<br>Materials: Stainless Steel<br>",,Faucets,TPSH380,,263,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27203c77-51b9-4f9d-89d9-0099e887ac1c,Product,FAUCET - TPSH106,"Description: שאטו ברונזה גבוה
+מסתובב לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH106A.jpg,Faucets,TPSH106,,903,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+9a7253b2-f6e4-433d-8603-acc942186006,Product,FAUCET - TPSH355,"<p><b>אפשרות 1:</b></p>Description: איטליה
+ראש מקלחת קוטר 30 ס”מ<br><p><b>אפשרות 2:</b></p>Description: איטליה
+ראש מקלחת קוטר 30 ס”מ<br>",,Faucets,TPSH355,,3159,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+9a7253b2-f6e4-433d-8603-acc942186006,Variant,FAUCET - TPSH355,"Description: איטליה
+ראש מקלחת קוטר 30 ס”מ<br>",,Faucets,TPSH355_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+9a7253b2-f6e4-433d-8603-acc942186006,Variant,FAUCET - TPSH356,"Description: איטליה
+ראש מקלחת קוטר 30 ס”מ<br>",,Faucets,TPSH356,,,281,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+2989a80a-d589-459e-bc65-c80c90e30a9c,Product,FAUCET - TPSH464,Description: בוקה מחזיק נייר פתוח<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH464.jpg,Faucets,TPSH464,,228,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+00417079-6fea-4dae-be92-67f4b639a1d7,Product,FAUCET - TPSH457,Description: בוקה מברשת אסלה תלויה<br>,,Faucets,TPSH457,,281,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+0fc5579b-9c09-4ce9-95aa-fe6cb95779ab,Product,FAUCET - TPSH170,Description: מרקזה 90 מעלות<br>,,Faucets,TPSH170,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- זהב אפריקאי,,,,,,,,,,,,,,,,,,,,,,,,
+8d05dfe1-09a7-4d7b-855a-5807db998b87,Product,FAUCET - TPSH136,"Description: וולנטה ניקל מט
+גבוה מסתובב לכיור מונח<br>",,Faucets,TPSH136,,895,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+ffd3ded8-7bab-42b8-88aa-e84df5b283e0,Product,FAUCET - TPSH459,Description: בוקה מדף בית מלון<br>,,Faucets,TPSH459,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+9ad43123-5f65-4ff6-98b1-9dfbddfab391,Product,FAUCET - TPSH444,Description: ספאדה ברונזה מדף בית מלון<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH444.jpg,Faucets,TPSH444,,667,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+77f3550c-a0f0-4fa1-a024-2a2272568957,Product,FAUCET - TPSH296,"<p><b>אפשרות 1:</b></p>Description: דומינדו
+נשלף למטבח<br><p><b>אפשרות 2:</b></p>Description: דומינדו
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH296.jpg,Faucets,TPSH296,,702,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+77f3550c-a0f0-4fa1-a024-2a2272568957,Variant,FAUCET - TPSH296,"Description: דומינדו
+נשלף למטבח<br>",,Faucets,TPSH296_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+77f3550c-a0f0-4fa1-a024-2a2272568957,Variant,FAUCET - TPSH297,"Description: דומינדו
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH296.jpg,Faucets,TPSH297,,,70,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+7df71075-fdd6-4eda-8482-dee7525b8531,Product,FAUCET - TPSH279,"Description: פרוני
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH279A.jpg,Faucets,TPSH279,,684,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+96dc42e6-8a1b-427f-8058-d13e8888392e,Product,FAUCET - TPSH70,Description: סיטי איטליה קבוע בינוני<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH70.jpg,Faucets,TPSH70,,1755,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+e2265da2-632f-4a30-aceb-0fa8f0f89e75,Product,FAUCET - TPSH512,Description: מחזיק נייר רזרבי דורין<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH512.jpg,Faucets,TPSH512,,85,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+d95b89d3-628e-40a8-9146-728aed3c0bfc,Product,FAUCET - TPSH234,"Description: בורדו
+קבוע נמוך<br>",,Faucets,TPSH234,,456,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+24c4118b-f3d9-4a5a-b256-bb1128cb21ce,Product,FAUCET - TPSH399,<p><b>אפשרות 1:</b></p>Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br><p><b>אפשרות 2:</b></p>Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br><p><b>אפשרות 3:</b></p>Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br><p><b>אפשרות 4:</b></p>Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br><p><b>אפשרות 5:</b></p>Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br><p><b>אפשרות 6:</b></p>Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br><p><b>אפשרות 7:</b></p>Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br><p><b>אפשרות 8:</b></p>Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH399,,1123,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3;אפשרות 4;אפשרות 5;אפשרות 6;אפשרות 7;אפשרות 8,,,,,,,,,,,,,,,,,,,,,,,,
+24c4118b-f3d9-4a5a-b256-bb1128cb21ce,Variant,FAUCET - TPSH399,Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH399_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+24c4118b-f3d9-4a5a-b256-bb1128cb21ce,Variant,FAUCET - TPSH402,Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH402,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+24c4118b-f3d9-4a5a-b256-bb1128cb21ce,Variant,FAUCET - TPSH405,Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH405.jpg,Faucets,TPSH405,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+24c4118b-f3d9-4a5a-b256-bb1128cb21ce,Variant,FAUCET - TPSH408,Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH408.jpg,Faucets,TPSH408,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+24c4118b-f3d9-4a5a-b256-bb1128cb21ce,Variant,FAUCET - TPSH413,Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH413,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 5,,,,,,,,,,,,,,,,,,,,,,,,
+24c4118b-f3d9-4a5a-b256-bb1128cb21ce,Variant,FAUCET - TPSH416,Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH416,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 6,,,,,,,,,,,,,,,,,,,,,,,,
+24c4118b-f3d9-4a5a-b256-bb1128cb21ce,Variant,FAUCET - TPSH419,Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH419,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 7,,,,,,,,,,,,,,,,,,,,,,,,
+24c4118b-f3d9-4a5a-b256-bb1128cb21ce,Variant,FAUCET - TPSH422,Description: מערכת מקלחת זכוכית + ג’טים<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH422,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 8,,,,,,,,,,,,,,,,,,,,,,,,
+615efcb6-d63f-4854-85df-537aa95a3176,Product,FAUCET - TPSH333,"<p><b>אפשרות 1:</b></p>Description: סט מזלף + מתלה
+איטליה<br><p><b>אפשרות 2:</b></p>Description: סט מזלף + מתלה
+איטליה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH333.jpg,Faucets,TPSH333,,298,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+615efcb6-d63f-4854-85df-537aa95a3176,Variant,FAUCET - TPSH333,"Description: סט מזלף + מתלה
+איטליה<br>",,Faucets,TPSH333_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+615efcb6-d63f-4854-85df-537aa95a3176,Variant,FAUCET - TPSH334,"Description: סט מזלף + מתלה
+איטליה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH333.jpg,Faucets,TPSH334,,,88,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+bce0468a-2d1a-47b0-85fa-0fe99552221b,Product,FAUCET - TPSH213,"Description: לבורו
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH213.jpg,Faucets,TPSH213,,428,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+e841265a-11c5-457b-a674-30ac1d779adb,Product,FAUCET - TPSH15,Description: פרנה ברונזה מזלף<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH15.jpg,Faucets,TPSH15,,251,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+9c9fcfd1-47a2-4cee-95a0-579142039fb4,Product,FAUCET - TPSH12,"<p><b>אפשרות 1:</b></p>Description: פרנה ברונזה נקודת מים<br><p><b>אפשרות 2:</b></p>Description: פרנה ברונזה
+נקודת מים<br><p><b>אפשרות 3:</b></p>Description: פרנה ברונזה
+נקודת מים + מתלה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH12.jpg,Faucets,TPSH12,,212,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+9c9fcfd1-47a2-4cee-95a0-579142039fb4,Variant,FAUCET - TPSH12,Description: פרנה ברונזה נקודת מים<br>,,Faucets,TPSH12_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+9c9fcfd1-47a2-4cee-95a0-579142039fb4,Variant,FAUCET - TPSH151,"Description: פרנה ברונזה
+נקודת מים<br>",,Faucets,TPSH151,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+9c9fcfd1-47a2-4cee-95a0-579142039fb4,Variant,FAUCET - TPSH322,"Description: פרנה ברונזה
+נקודת מים + מתלה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH322.jpg,Faucets,TPSH322,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+6b784e37-d376-4451-9844-a7b803cd9843,Product,FAUCET - TPSH122,"Description: שאטו ניקל מט
+מערכת קיר לכיור רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH122A.jpg,Faucets,TPSH122,,870,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+cdb17251-ad89-42cb-ae20-42642dffa5c1,Product,FAUCET - TPSH484,Description: סטפן מתלה זוגי<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH484.jpg,Faucets,TPSH484,,105,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+5058100a-421f-4daa-976e-3cf251c0db4a,Product,FAUCET - TPSH353,"Description: איטליה
+ראש מקלחת 15.5 ס”מ<br>",,Faucets,TPSH353,,1811,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+190f5a5d-6c5b-4060-9a30-ceaae2a1ae77,Product,FAUCET - TPSH262,"<p><b>אפשרות 1:</b></p>Description: קוואלי
+נשלף למטבח<br><p><b>אפשרות 2:</b></p>Description: קוואלי
+נשלף למטבח<br><p><b>אפשרות 3:</b></p>Description: קוואלי שחור
+נשלף למטבח<br>",,Faucets,TPSH262,,888,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+190f5a5d-6c5b-4060-9a30-ceaae2a1ae77,Variant,FAUCET - TPSH262,"Description: קוואלי
+נשלף למטבח<br>",,Faucets,TPSH262_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+190f5a5d-6c5b-4060-9a30-ceaae2a1ae77,Variant,FAUCET - TPSH263,"Description: קוואלי
+נשלף למטבח<br>",,Faucets,TPSH263,,,193,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+190f5a5d-6c5b-4060-9a30-ceaae2a1ae77,Variant,FAUCET - TPSH267,"Description: קוואלי שחור
+נשלף למטבח<br>",,Faucets,TPSH267,,,193,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+96bab03a-21f5-4cca-b43a-429da1750ff5,Product,FAUCET - TPSH63,Description: איטליה גטוני אינטרפוץ 5 דרך BOX<br>,,Faucets,TPSH63,,2176,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+333fd06e-b1be-4814-bcc1-f29432918ccd,Product,FAUCET - TPSH11,Description: פרנה ברונזה אינטרפוץ 4 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH11.jpg,Faucets,TPSH11,,1004,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+4b245634-4943-440b-bede-ac885c5d6257,Product,FAUCET - TPSH221,"Description: סונומה
+קבוע נמוך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH221A.jpg,Faucets,TPSH221,,698,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+0574b713-fa6e-405c-ab70-6cd6cc26081e,Product,FAUCET - TPSH220,"Description: סונומה
+קבוע גבוה לכיור מונח<br>",,Faucets,TPSH220,,913,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+1bebaeab-0374-4941-bc00-72402702aea6,Product,FAUCET - TPSH105,Description: שאטו ברונזה אינטרפוץ 3 דרך<br>,,Faucets,TPSH105,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+f2fee8bc-b89a-4bdc-9bb0-92cd9b9541a9,Product,FAUCET - TPSH135,"Description: וולנטה ניקל מט
+בינוני מסתובב<br>",,Faucets,TPSH135,,743,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+bd049d37-d25d-4009-adb4-3b9e673f6f1d,Product,FAUCET - TPSH500,Description: טבעת עגולה דורין<br>,,Faucets,TPSH500,,55,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+63621d61-f392-48f9-a09d-0f877e9d5058,Product,FAUCET - TPSH368,"Description: וולנטה שחור מט
+מזלף 3 מצבים<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH368.jpg,Faucets,TPSH368,,204,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+1b87cc5c-7ef4-4309-af3d-ade569a41a65,Product,FAUCET - TPSH475,"Description: בוקה מוט מגבת כפול
+60 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH475.jpg,Faucets,TPSH475,,484,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+643455b2-f47a-4190-a79d-5ecfe3fc34a1,Product,FAUCET - TPSH72,Description: סיטי איטליה אינטרפוץ 3 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH72.jpg,Faucets,TPSH72,,649,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+f72e2d40-fe3d-4a51-be5a-f2e196ec9169,Product,FAUCET - TPSH441,Description: ספאדה ברונזה מחזיק נייר פתוח<br>,,Faucets,TPSH441,,228,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+565dc2f3-e11e-4318-a233-68e1c3a54d7a,Product,FAUCET - TPSH9,"<p><b>אפשרות 1:</b></p>Description: פרנה ברונזה זרוע לראש מקלחת<br>Size: 40 ס""מ<br><p><b>אפשרות 2:</b></p>Description: פרנה ברונזה
+זרוע לראש מקלחת
+40 ס”מ<br>",,Faucets,TPSH9,,366,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+565dc2f3-e11e-4318-a233-68e1c3a54d7a,Variant,FAUCET - TPSH9,"Description: פרנה ברונזה זרוע לראש מקלחת<br>Size: 40 ס""מ<br>",,Faucets,TPSH9_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+565dc2f3-e11e-4318-a233-68e1c3a54d7a,Variant,FAUCET - TPSH146,"Description: פרנה ברונזה
+זרוע לראש מקלחת
+40 ס”מ<br>",,Faucets,TPSH146,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+ea993a21-cac2-41a9-ae97-c0b597662824,Product,FAUCET - TPSH494,"Description: רשת מלבנית - מלון
+רוש-אס<br>",,Faucets,TPSH494,,309,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+4f985500-6563-4b2d-ad6c-6e448af0e9c9,Product,FAUCET - TPSH127,"Description: וולנטה שחור מט
+מערכת קיר לכיור רחצה<br>",,Faucets,TPSH127,,1123,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+22cad39f-cd8c-4634-8697-bfa2e77a7ffa,Product,FAUCET - TPSH201,Description: בונלי 90 מעלות<br>,,Faucets,TPSH201,,672,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+1415bf25-eaf3-4dcd-98ff-c1619e524a53,Product,FAUCET - TPSH386,"Description: ראש מקלחת
+מרובע 6 מ”מ
+25/25 ס”מ<br>Materials: Stainless Steel<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH386.jpg,Faucets,TPSH386,,439,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+889fbc6d-f852-4fc4-be45-4a9d90d02230,Product,FAUCET - TPSH152,Description: מרקזה 90 מעלות<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH152.jpg,Faucets,TPSH152,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל - WT לבן,,,,,,,,,,,,,,,,,,,,,,,,
+bcc26873-480f-44b3-bf41-bc822d2352d7,Product,FAUCET - TPSH549,<p><b>אפשרות 1:</b></p>Description: מזלף למיסוני מפרקי<br><p><b>אפשרות 2:</b></p>Description: מזלף למיסוני מפרקי<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH549.jpg,Faucets,TPSH549,,98,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+bcc26873-480f-44b3-bf41-bc822d2352d7,Variant,FAUCET - TPSH549,Description: מזלף למיסוני מפרקי<br>,,Faucets,TPSH549_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+bcc26873-480f-44b3-bf41-bc822d2352d7,Variant,FAUCET - TPSH550,Description: מזלף למיסוני מפרקי<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH549.jpg,Faucets,TPSH550,,,21,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+11e5875e-3121-4a7b-a953-f0e4439da5c7,Product,FAUCET - TPSH432,Description: ספאדה גולד מחזיק נייר פתוח<br>,,Faucets,TPSH432,,228,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+6a29e007-baf2-4908-bb7f-a84d8c405093,Product,FAUCET - TPSH43,<p><b>אפשרות 1:</b></p>Description: איטליה דומו גטוני פרח 2 ידיות<br><p><b>אפשרות 2:</b></p>Description: איטליה דומו גטוני פרח 2 ידיות<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH43.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH43A.jpg,Faucets,TPSH43,,1211,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+6a29e007-baf2-4908-bb7f-a84d8c405093,Variant,FAUCET - TPSH43,Description: איטליה דומו גטוני פרח 2 ידיות<br>,,Faucets,TPSH43_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+6a29e007-baf2-4908-bb7f-a84d8c405093,Variant,FAUCET - TPSH44,Description: איטליה דומו גטוני פרח 2 ידיות<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH43A.jpg,Faucets,TPSH44,,,491,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+752f4063-ec3e-483a-a7bd-4b92200c1b4f,Product,FAUCET - TPSH215,Description: נאפה סוללה לאמבטיה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH215A.jpg,Faucets,TPSH215,,863,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+cd093692-6ba0-4a69-8e41-f4636bc54c2b,Product,FAUCET - TPSH121,"Description: שאטו ניקל מט
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH121.jpg,Faucets,TPSH121,,534,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+553ddbac-9148-4cad-918d-f4894fd5c78f,Product,FAUCET - TPSH542,"Description: תעלת ניקוז לאריחי קרמיקה<br>Size: 80 ס""מ<br>",,Faucets,TPSH542,,614,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+eab5854f-86cd-41d9-b5ec-1d5d71900f74,Product,FAUCET - TPSH443,Description: ספאדה ברונזה רשת פינתית כפולה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH443.jpg,Faucets,TPSH443,,667,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+6b117a51-4596-4f22-a020-87920c75bb6a,Product,FAUCET - TPSH20,Description: פרנה גולד קבוע נמוך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH20A.jpg,Faucets,TPSH20,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+7fe3ff9e-c82b-4b66-b49b-89a911e32929,Product,FAUCET - TPSH206,Description: בונלי סוללה לאמבטיה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH206A.jpg,Faucets,TPSH206,,873,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+c34ef2f5-3e3d-4018-a489-aeeede8358c3,Product,FAUCET - TPSH431,Description: ספאדה גולד קולב זוגי<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH431.jpg,Faucets,TPSH431,,167,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+40b3c97b-b6ca-45b4-827b-e709543b2929,Product,FAUCET - TPSH449,Description: בוקה מחזיק נייר פתוח<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH449.jpg,Faucets,TPSH449,,170,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+c22e0641-a970-4033-9a7f-3b793d3666f7,Product,FAUCET - TPSH71,Description: סיטי איטליה אינטרפוץ 4 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH71.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH71A.jpg,Faucets,TPSH71,,1000,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+475a35af-d4f8-4f5f-ba80-c96eb021004f,Product,FAUCET - TPSH293,"<p><b>אפשרות 1:</b></p>Description: נאפה
+נשלף למטבח<br><p><b>אפשרות 2:</b></p>Description: נאפה
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH293A.jpg,Faucets,TPSH293,,868,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+475a35af-d4f8-4f5f-ba80-c96eb021004f,Variant,FAUCET - TPSH293,"Description: נאפה
+נשלף למטבח<br>",,Faucets,TPSH293_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+475a35af-d4f8-4f5f-ba80-c96eb021004f,Variant,FAUCET - TPSH294,"Description: נאפה
+נשלף למטבח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH293A.jpg,Faucets,TPSH294,,,167,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+deefd479-6b05-4ba7-a54b-a6b761ca1f68,Product,FAUCET - TPSH55,Description: איטליה גטוני סירקל אינטרפוץ 3 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH55.jpg,Faucets,TPSH55,,618,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+c90d0464-0123-41be-ae6f-946bf8298494,Product,FAUCET - TPSH290,"Description: קוטיניו
+קפיץ למטבח<br>",,Faucets,TPSH290,,660,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+29c551e0-6e54-4e7c-b46f-0ddb3e5cb5cb,Product,FAUCET - TPSH231,"Description: בורדו
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH231.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH231A.jpg,Faucets,TPSH231,,405,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+f094dcf3-8a3d-46de-b74f-35ab8d7af113,Product,FAUCET - TPSH533,Description: ונטיל לחיצה 1/4 1 עגול<br>,,Faucets,TPSH533,,354,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+d9cdca96-4012-49cb-b2d7-872dc2fe0e5b,Product,FAUCET - TPSH259,"<p><b>אפשרות 1:</b></p>Description: קסטלי
+נשלף למטבח<br><p><b>אפשרות 2:</b></p>Description: קסטלי
+נשלף למטבח<br>",,Faucets,TPSH259,,1141,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+d9cdca96-4012-49cb-b2d7-872dc2fe0e5b,Variant,FAUCET - TPSH259,"Description: קסטלי
+נשלף למטבח<br>",,Faucets,TPSH259_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+d9cdca96-4012-49cb-b2d7-872dc2fe0e5b,Variant,FAUCET - TPSH260,"Description: קסטלי
+נשלף למטבח<br>",,Faucets,TPSH260,,,88,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+1b4e14ba-e293-4b8d-95e7-59417ad30cdc,Product,FAUCET - TPSH245,"<p><b>אפשרות 1:</b></p>Description: דיביאנג'ו
+אלכסוני קצר<br><p><b>אפשרות 2:</b></p>Description: דיביאנג'ו
+אלכסוני קצר<br>",,Faucets,TPSH245,,355,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+1b4e14ba-e293-4b8d-95e7-59417ad30cdc,Variant,FAUCET - TPSH245,"Description: דיביאנג'ו
+אלכסוני קצר<br>",,Faucets,TPSH245_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+1b4e14ba-e293-4b8d-95e7-59417ad30cdc,Variant,FAUCET - TPSH246,"Description: דיביאנג'ו
+אלכסוני קצר<br>",,Faucets,TPSH246,,,96,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+217a624a-404d-44b2-9309-4e99a9b385d4,Product,FAUCET - TPSH315,"<p><b>אפשרות 1:</b></p>Description: גטוני איטליה
+נקודת מים<br><p><b>אפשרות 2:</b></p>Description: גטוני איטליה
+נקודת מים<br><p><b>אפשרות 3:</b></p>Description: גטוני איטליה
+נקודת מים<br><p><b>אפשרות 4:</b></p>Description: גטוני איטליה
+נקודת מים<br><p><b>אפשרות 5:</b></p>Description: גטוני איטליה
+נקודת מים<br><p><b>אפשרות 6:</b></p>Description: גטוני איטליה
+נקודת מים<br>",,Faucets,TPSH315,,149,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3;אפשרות 4;אפשרות 5;אפשרות 6,,,,,,,,,,,,,,,,,,,,,,,,
+217a624a-404d-44b2-9309-4e99a9b385d4,Variant,FAUCET - TPSH315,"Description: גטוני איטליה
+נקודת מים<br>",,Faucets,TPSH315_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+217a624a-404d-44b2-9309-4e99a9b385d4,Variant,FAUCET - TPSH316,"Description: גטוני איטליה
+נקודת מים<br>",,Faucets,TPSH316,,,62,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+217a624a-404d-44b2-9309-4e99a9b385d4,Variant,FAUCET - TPSH317,"Description: גטוני איטליה
+נקודת מים<br>",,Faucets,TPSH317,,,132,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+217a624a-404d-44b2-9309-4e99a9b385d4,Variant,FAUCET - TPSH389,"Description: גטוני איטליה
+נקודת מים<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH389.jpg,Faucets,TPSH389,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+217a624a-404d-44b2-9309-4e99a9b385d4,Variant,FAUCET - TPSH390,"Description: גטוני איטליה
+נקודת מים<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH389.jpg,Faucets,TPSH390,,,62,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 5,,,,,,,,,,,,,,,,,,,,,,,,
+217a624a-404d-44b2-9309-4e99a9b385d4,Variant,FAUCET - TPSH391,"Description: גטוני איטליה
+נקודת מים<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH389.jpg,Faucets,TPSH391,,,132,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 6,,,,,,,,,,,,,,,,,,,,,,,,
+2f51997f-4571-4f01-875f-4b57ad391003,Product,FAUCET - TPSH517,"Description: מוט מגבת דורין
+60 ס""מ<br>",,Faucets,TPSH517,,80,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+a6210024-56cb-44e5-b692-25a802109da7,Product,FAUCET - TPSH331,"Description: סט 4 דרך
+מזלף בראס<br>",,Faucets,TPSH331,,330,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+2924cc12-81cc-4667-86ea-1d506b37707b,Product,FAUCET - TPSH358,"Description: ראש מקלחת
+A.B.S עגול
+22 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH358.jpg,Faucets,TPSH358,,154,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+6790663f-ccbd-4bdb-8fd2-aec0b260eff1,Product,FAUCET - TPSH531,Description: ונטיל לחיצה 1/4 1 עגול<br>,,Faucets,TPSH531,,102,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+5015f930-7524-44a5-9d6a-1d3f189bdd49,Product,FAUCET - TPSH477,Description: הוגו מחזיק כוס<br>,,Faucets,TPSH477,,158,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+47d01121-dfc0-414f-a84d-c2b9fa0737d9,Product,FAUCET - TPSH341,"Description: וולנטה ניקל מט
+זרוע לראש מקלחת 40 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH341.jpg,Faucets,TPSH341,,365,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+ea7d5015-c5c9-4f4c-a3b6-618c30e4f9bc,Product,FAUCET - TPSH195,Description: בייליס קשת רחצה<br>,,Faucets,TPSH195,,698,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+b8207377-9d0d-497e-b2c4-d66a45092148,Product,FAUCET - TPSH382,"Description: ראש מקלחת אובלי 6 מ”מ
+40/24 ס”מ<br>Materials: Stainless Steel<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH382.jpg,Faucets,TPSH382,,597,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35c6978d-b29f-47b6-a552-63ffa238e266,Product,FAUCET - TPSH180,"Description: לומינה
+אינטרפוץ 3 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH180B.jpg,Faucets,TPSH180,,369,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- CP,,,,,,,,,,,,,,,,,,,,,,,,
+a4057cfd-69f5-42ee-8a14-844b6e81c02b,Product,FAUCET - TPSH239,"<p><b>אפשרות 1:</b></p>Description: מרטן
+בינוני מסתובב<br><p><b>אפשרות 2:</b></p>Description: מרטן
+בינוני מסתובב<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH239.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH239A.jpg,Faucets,TPSH239,,811,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+a4057cfd-69f5-42ee-8a14-844b6e81c02b,Variant,FAUCET - TPSH239,"Description: מרטן
+בינוני מסתובב<br>",,Faucets,TPSH239_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+a4057cfd-69f5-42ee-8a14-844b6e81c02b,Variant,FAUCET - TPSH240,"Description: מרטן
+בינוני מסתובב<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH239.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH239A.jpg,Faucets,TPSH240,,,135,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+1eacf6d5-2d42-47bd-b60e-4d521f5c6786,Product,FAUCET - TPSH282,"<p><b>אפשרות 1:</b></p>Description: נאפה
+נשלף למטבח<br><p><b>אפשרות 2:</b></p>Description: נאפה
+נשלף למטבח<br>",,Faucets,TPSH282,,868,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+1eacf6d5-2d42-47bd-b60e-4d521f5c6786,Variant,FAUCET - TPSH282,"Description: נאפה
+נשלף למטבח<br>",,Faucets,TPSH282_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+1eacf6d5-2d42-47bd-b60e-4d521f5c6786,Variant,FAUCET - TPSH283,"Description: נאפה
+נשלף למטבח<br>",,Faucets,TPSH283,,,167,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+ef21414d-0a23-4cc1-83b6-34345141d3e7,Product,FAUCET - TPSH534,Description: ונטיל לחיצה 1/4 1 עגול<br>,,Faucets,TPSH534,,354,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+8fb00501-5d18-4aff-80fc-8f6e1824416e,Product,FAUCET - TPSH80,Description: טרנטו איטליה אינטרפוץ 4 דרך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH80.jpg,Faucets,TPSH80,,491,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+74008170-98dd-4156-9cc0-022f04112f41,Product,FAUCET - TPSH300,"<p><b>אפשרות 1:</b></p>Description: דיביאנג'ו
+קשת מטבח<br><p><b>אפשרות 2:</b></p>Description: דיביאנג'ו
+קשת מטבח<br>",,Faucets,TPSH300,,397,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+74008170-98dd-4156-9cc0-022f04112f41,Variant,FAUCET - TPSH300,"Description: דיביאנג'ו
+קשת מטבח<br>",,Faucets,TPSH300_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+74008170-98dd-4156-9cc0-022f04112f41,Variant,FAUCET - TPSH301,"Description: דיביאנג'ו
+קשת מטבח<br>",,Faucets,TPSH301,,,116,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+aecb0696-2510-4b03-968d-4cdef077d815,Product,FAUCET - TPSH435,Description: ספאדה גולד מדף בית מלון<br>,,Faucets,TPSH435,,667,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+94997352-770d-44f4-9fe7-33eb9f743c21,Product,FAUCET - TPSH141,"Description: וולנטה ברונזה
+מערכת קיר לכיור רחצה<br>",,Faucets,TPSH141,,1123,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+1d26edc3-963a-41a1-aeee-5f04c2cbe0f2,Product,FAUCET - TPSH124,"Description: וולנטה ניקל
+אינטרפוץ 4 דרך<br>",,Faucets,TPSH124,,739,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+239987df-5dee-47da-a859-ecf239e101cc,Product,FAUCET - TPSH174,"Description: מרקזה
+אינטרפוץ 4 דרך<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH174.jpg,Faucets,TPSH174,,758,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- שחור מטאלי,,,,,,,,,,,,,,,,,,,,,,,,
+ea657d3d-3f6e-4561-a4b3-7e614d814a17,Product,FAUCET - TPSH547,<p><b>אפשרות 1:</b></p>Description: מזלף לנשלף נאפה<br><p><b>אפשרות 2:</b></p>Description: מזלף לנשלף נאפה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH547.jpg,Faucets,TPSH547,,98,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+ea657d3d-3f6e-4561-a4b3-7e614d814a17,Variant,FAUCET - TPSH547,Description: מזלף לנשלף נאפה<br>,,Faucets,TPSH547_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+ea657d3d-3f6e-4561-a4b3-7e614d814a17,Variant,FAUCET - TPSH548,Description: מזלף לנשלף נאפה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH547.jpg,Faucets,TPSH548,,,21,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+d61c771d-84ad-4e4a-8703-75f0edb01123,Product,FAUCET - TPSH94,<p><b>אפשרות 1:</b></p>Description: שאטו פרימיום קשת רחצה<br><p><b>אפשרות 2:</b></p>Description: שאטו פרימיום קשת רחצה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH94A.jpg,Faucets,TPSH94,,549,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+d61c771d-84ad-4e4a-8703-75f0edb01123,Variant,FAUCET - TPSH94,Description: שאטו פרימיום קשת רחצה<br>,,Faucets,TPSH94_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+d61c771d-84ad-4e4a-8703-75f0edb01123,Variant,FAUCET - TPSH94,Description: שאטו פרימיום קשת רחצה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH94A.jpg,Faucets,TPSH94_1,,,123,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+205db81b-e495-47aa-9ad3-0d0fd54eb3e9,Product,FAUCET - TPSH312,"Description: שירל
+פרח קשת (פיה גבוהה)<br>",,Faucets,TPSH312,,191,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+9705965b-dc3c-40d0-810a-fa4d331f0a8e,Product,FAUCET - TPSH280,"Description: כרמל
+נשלף למטבח<br>",,Faucets,TPSH280,,772,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+a084b77e-5401-4bec-b5df-b2762cc6b820,Product,FAUCET - TPSH395,Description: סונומה מוט מקלחת<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH395.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH395A.jpg,Faucets,TPSH395,,559,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+f802bcc3-0d6c-4c2e-b610-51e361ee8dec,Product,FAUCET - TPSH445,"Description: ספאדה ברונזה מוט מגבת כפול
+60 ס”מ<br>",,Faucets,TPSH445,,386,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+02093338-504a-41fd-86de-3d304a9bb711,Product,FAUCET - TPSH116,"Description: שאטו שחור מט
+אינטרפוץ 3 דרך<br>",,Faucets,TPSH116,,598,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור,,,,,,,,,,,,,,,,,,,,,,,,
+0eeb731e-87f0-43ab-af1a-e482c87a0e12,Product,FAUCET - TPSH330,"Description: סט 4 דרך
+מזלף בראס<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH330.jpg,Faucets,TPSH330,,407,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+22360fbe-db34-4dc0-af2a-8fa849ef834c,Product,FAUCET - TPSH257,Description: מורטי קבוע נמוך<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH257A.jpg,Faucets,TPSH257,,517,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+9b6a9e33-f123-4d1f-a3f9-397e31d4864b,Product,FAUCET - TPSH497,"Description: ידית אחיזה 40 ס""מ דורין<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH497.jpg,Faucets,TPSH497,,94,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+c81a4a54-d99d-4d1c-bb78-305916ab5f65,Product,FAUCET - TPSH140,"Description: וולנטה ניקל מט
+אינטרפוץ 3 דרך<br>",,Faucets,TPSH140,,618,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+df07dabc-2117-4b65-9c32-711b2db4abcb,Product,FAUCET - TPSH28,Description: פרנה גולד מזלף זהב<br>,,Faucets,TPSH28,,251,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,זהב,,,,,,,,,,,,,,,,,,,,,,,,
+289bd718-63cd-41ce-bb5c-e6f0bd62ddcf,Product,FAUCET - TPSH544,"Description: תעלת ניקוז רשת פסים<br>Size: 80 ס""מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH543.jpg,Faucets,TPSH544,,621,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל מט,,,,,,,,,,,,,,,,,,,,,,,,
+36b876bb-be58-4689-9298-f60793d2de97,Product,FAUCET - TPSH513,Description: מברשת אסלה תלויה דורין<br>,,Faucets,TPSH513,,95,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+7f187005-c90a-4c19-916a-9cdd6c16c06f,Product,FAUCET - TPSH329,Description: נק' מים עדי + מתלה<br>,,Faucets,TPSH329,,154,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+7ee40098-3288-42ba-9d4b-93619f18f716,Product,FAUCET - TPSH95,"<p><b>אפשרות 1:</b></p>Description: שאטו פרימיום, גבוה מסתובב, לכיור מונח<br><p><b>אפשרות 2:</b></p>Description: שאטו פרימיום, גבוה מסתובב, לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH95A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH95B.jpg,Faucets,TPSH95,,703,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+7ee40098-3288-42ba-9d4b-93619f18f716,Variant,FAUCET - TPSH95,"Description: שאטו פרימיום, גבוה מסתובב, לכיור מונח<br>",,Faucets,TPSH95_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+7ee40098-3288-42ba-9d4b-93619f18f716,Variant,FAUCET - TPSH95,"Description: שאטו פרימיום, גבוה מסתובב, לכיור מונח<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH95A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH95B.jpg,Faucets,TPSH95_1,,,123,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+92471d6e-9071-4d48-9b1d-fe3bb12ef10b,Product,FAUCET - TPSH68,"<p><b>אפשרות 1:</b></p>Description: איטליה גטוני ג’ט שקוע מתכוונן מרובע BOX<br><p><b>אפשרות 2:</b></p>Description: איטליה גטוני
+ג’ט שקוע
+מתכוונן מרובע BOX<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH68.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH68A.jpg,Faucets,TPSH68,,491,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+92471d6e-9071-4d48-9b1d-fe3bb12ef10b,Variant,FAUCET - TPSH68,Description: איטליה גטוני ג’ט שקוע מתכוונן מרובע BOX<br>,,Faucets,TPSH68_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+92471d6e-9071-4d48-9b1d-fe3bb12ef10b,Variant,FAUCET - TPSH524,"Description: איטליה גטוני
+ג’ט שקוע
+מתכוונן מרובע BOX<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH524.jpg,Faucets,TPSH524,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+d1443a5f-07a1-4555-83d6-6539d78ddfe8,Product,FAUCET - TPSH397,<p><b>אפשרות 1:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 2:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 3:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 4:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 5:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 6:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 7:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 8:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br><p><b>אפשרות 9:</b></p>Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH397.jpg,Faucets,TPSH397,,1123,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2;אפשרות 3;אפשרות 4;אפשרות 5;אפשרות 6;אפשרות 7;אפשרות 8;אפשרות 9,,,,,,,,,,,,,,,,,,,,,,,,
+d1443a5f-07a1-4555-83d6-6539d78ddfe8,Variant,FAUCET - TPSH397,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH397_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+d1443a5f-07a1-4555-83d6-6539d78ddfe8,Variant,FAUCET - TPSH400,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH400.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH400A.jpg,Faucets,TPSH400,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+d1443a5f-07a1-4555-83d6-6539d78ddfe8,Variant,FAUCET - TPSH403,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH403,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 3,,,,,,,,,,,,,,,,,,,,,,,,
+d1443a5f-07a1-4555-83d6-6539d78ddfe8,Variant,FAUCET - TPSH406,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH406,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 4,,,,,,,,,,,,,,,,,,,,,,,,
+d1443a5f-07a1-4555-83d6-6539d78ddfe8,Variant,FAUCET - TPSH409,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH409.jpg,Faucets,TPSH409,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 5,,,,,,,,,,,,,,,,,,,,,,,,
+d1443a5f-07a1-4555-83d6-6539d78ddfe8,Variant,FAUCET - TPSH411,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH411.jpg,Faucets,TPSH411,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 6,,,,,,,,,,,,,,,,,,,,,,,,
+d1443a5f-07a1-4555-83d6-6539d78ddfe8,Variant,FAUCET - TPSH414,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH414.jpg,Faucets,TPSH414,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 7,,,,,,,,,,,,,,,,,,,,,,,,
+d1443a5f-07a1-4555-83d6-6539d78ddfe8,Variant,FAUCET - TPSH417,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH417,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 8,,,,,,,,,,,,,,,,,,,,,,,,
+d1443a5f-07a1-4555-83d6-6539d78ddfe8,Variant,FAUCET - TPSH420,Description: מערכת מקלחת זכוכית<br>Materials: פלטת זכוכית<br>,,Faucets,TPSH420,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 9,,,,,,,,,,,,,,,,,,,,,,,,
+e096845a-1652-493e-a5df-57e3ad329aaa,Product,FAUCET - TPSH506,"Description: רשת פינתית בודדת
+גדולה דורין<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH506.jpg,Faucets,TPSH506,,131,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+8fc68f57-ac61-43ff-b135-455ef9092862,Product,FAUCET - TPSH363,"Description: פרנה ניקל
+ראש מקלחת וינטג’
+20 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH363.jpg,Faucets,TPSH363,,523,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+d56ff28f-7e53-4495-9bb0-93623f17c33c,Product,FAUCET - TPSH387,"Description: ראש מקלחת
+מרובע 6 מ”מ
+20/20 ס”מ<br>Materials: Stainless Steel<br>",,Faucets,TPSH387,,281,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+831269e6-2ccf-4de7-904d-1258f195aece,Product,FAUCET - TPSH179,"Description: מרקזה
+קבוע בינוני לכיור רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH179.jpg,Faucets,TPSH179,,807,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- שחור מטאלי,,,,,,,,,,,,,,,,,,,,,,,,
+a250863c-f1af-4ad5-b907-2ff402c787e7,Product,FAUCET - TPSH7,Description: פרנה ברונזה לכיור רחצה גבוה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH7.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH1A.jpg,Faucets,TPSH7,,1332,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+e8d859f9-d6a9-41db-aa2e-62fa3307d361,Product,FAUCET - TPSH157,"Description: מרקזה
+אינטרפוץ 4 דרך<br>",,Faucets,TPSH157,,758,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- BK -שחור,,,,,,,,,,,,,,,,,,,,,,,,
+2563d417-2af1-498a-834c-79e3487930bd,Product,FAUCET - TPSH480,Description: הוגו משאבת סבון<br>,,Faucets,TPSH480,,172,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל,,,,,,,,,,,,,,,,,,,,,,,,
+2bf47eda-dcfa-431e-9e0c-94bee76fb18a,Product,FAUCET - TPSH473,Description: בוקה רשת פינתית בודדת<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH473.jpg,Faucets,TPSH473,,246,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+c0b0067c-a8e2-4f1d-84c9-e83a2c1bd1be,Product,FAUCET - TPSH13,"<p><b>אפשרות 1:</b></p>Description: פרנה ברונזה מזלף וינטג’<br><p><b>אפשרות 2:</b></p>Description: פרנה ברונזה
+מזלף וינטג’<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH13.jpg,Faucets,TPSH13,,281,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+c0b0067c-a8e2-4f1d-84c9-e83a2c1bd1be,Variant,FAUCET - TPSH13,Description: פרנה ברונזה מזלף וינטג’<br>,,Faucets,TPSH13_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+c0b0067c-a8e2-4f1d-84c9-e83a2c1bd1be,Variant,FAUCET - TPSH149,"Description: פרנה ברונזה
+מזלף וינטג’<br>",,Faucets,TPSH149,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+933d19bf-80fb-4875-87f2-466acad16590,Product,FAUCET - TPSH1,Description: פרנה ניקל מערכת קיר לכיור רחצה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH1.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH1A.jpg,Faucets,TPSH1,,849,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל CP,,,,,,,,,,,,,,,,,,,,,,,,
+797bcec8-2f09-43a0-bd01-2c0462fb2fc3,Product,FAUCET - TPSH228,"<p><b>אפשרות 1:</b></p>Description: בורדו
+סוללה לאמבטיה<br><p><b>אפשרות 2:</b></p>Description: בורדו
+סוללה לאמבטיה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH228A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH228B.jpg,Faucets,TPSH228,,811,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+797bcec8-2f09-43a0-bd01-2c0462fb2fc3,Variant,FAUCET - TPSH228,"Description: בורדו
+סוללה לאמבטיה<br>",,Faucets,TPSH228_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+797bcec8-2f09-43a0-bd01-2c0462fb2fc3,Variant,FAUCET - TPSH229,"Description: בורדו
+סוללה לאמבטיה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH228A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH228B.jpg,Faucets,TPSH229,,,193,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+b1137cd8-1276-4539-8ba1-0ddda86ea2e5,Product,FAUCET - TPSH536,Description: ונטיל לחיצה 1/4 1 מרובע<br>,,Faucets,TPSH536,,165,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+451bb34f-012f-4208-9f2e-f4775f7fa106,Product,FAUCET - TPSH177,"Description: מרקזה
+מערכת קיר לכיור רחצה<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH177.jpg,Faucets,TPSH177,,1035,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניקל- שחור מטאלי,,,,,,,,,,,,,,,,,,,,,,,,
+dd27ca39-fa44-48c6-880d-5bced3aec225,Product,FAUCET - TPSH343,"Description: פרנה ברונזה
+זרוע לראש מקלחת 40 ס”מ<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH343.jpg,Faucets,TPSH343,,366,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ברונזה,,,,,,,,,,,,,,,,,,,,,,,,
+093f58a2-31ba-4377-b8dc-666b2aad1fd0,Product,FAUCET - TPSH340,"Description: וולנטה שחור מט
+זרוע לראש מקלחת 40 ס”מ<br>",,Faucets,TPSH340,,435,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,שחור מט,,,,,,,,,,,,,,,,,,,,,,,,
+c6e945fb-3e58-4cfa-94af-5545de494725,Product,FAUCET - TPSH37,<p><b>אפשרות 1:</b></p>Description: איטליה דומו ענתיק לכיור רחצה<br><p><b>אפשרות 2:</b></p>Description: איטליה דומו ענתיק לכיור רחצה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH37.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH37A.jpg,Faucets,TPSH37,,1071,,true,PERCENT,0,InStock,,אפשרויות,DROP_DOWN,אפשרות 1;אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
+c6e945fb-3e58-4cfa-94af-5545de494725,Variant,FAUCET - TPSH37,Description: איטליה דומו ענתיק לכיור רחצה<br>,,Faucets,TPSH37_0,,,0,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 1,,,,,,,,,,,,,,,,,,,,,,,,
+c6e945fb-3e58-4cfa-94af-5545de494725,Variant,FAUCET - TPSH38,Description: איטליה דומו ענתיק לכיור רחצה<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH38.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Faucets/Pictures/TPSH37A.jpg,Faucets,TPSH38,,,256,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפשרות 2,,,,,,,,,,,,,,,,,,,,,,,,
