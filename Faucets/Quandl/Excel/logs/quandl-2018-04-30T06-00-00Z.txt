@@ -1,0 +1,3 @@
+2018-04-30T06-27-06Z : One or more errors occurred.
+2018-04-30T06-27-06Z : [StackTrace,    at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at Quandl.Shared.Helpers.Updater.CheckForUpdate()] 0
