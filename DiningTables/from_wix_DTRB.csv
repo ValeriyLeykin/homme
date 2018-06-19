@@ -1,0 +1,98 @@
+﻿handleId,fieldType,name,description,productImageUrl,collection,sku,ribbon,price,surcharge,visible,discountMode,discountValue,inventory,weight,productOptionName1,productOptionType1,productOptionDescription1,productOptionName2,productOptionType2,productOptionDescription2,productOptionName3,productOptionType3,productOptionDescription3,productOptionName4,productOptionType4,productOptionDescription4,productOptionName5,productOptionType5,productOptionDescription5,productOptionName6,productOptionType6,productOptionDescription6,additionalInfoTitle1,additionalInfoDescription1,additionalInfoTitle2,additionalInfoDescription2,additionalInfoTitle3,additionalInfoDescription3,customTextField1,customTextCharLimit1,customTextMandatory1,customTextField2,customTextCharLimit2,customTextMandatory2
+product_f52d591d-8f78-9204-6b6a-7a0533d03353,Product,DINING TABLE - DTRB12,"Description: פינת אוכל
+<br>Size: מידות: 90X150 ס""מ הגדלה 150 ס""מ
+<br>Materials: שולחן אלון
+<br>",fd333e6a-5244-4933-b660-5b61dfbba7e0.jpg;c748aa0c-b747-41dc-bfca-32413757f305.jpg,פינות אוכל,DTRB12,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_20383de2-9a20-f933-bbd1-308adc0a7a42,Product,DINING TABLE - DTRB3,"Description: פינת אוכל
+<br>Size: מידות: קוטר- 140 הגדלה 100 ס""מ (50X2 ס""מ)
+<br>Materials: שולחן אלון
+<br>",1476721a-866c-4e81-9d8e-8d904b3b3df5.jpg,פינות אוכל,DTRB3,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_edc1ca53-c0dd-fdd5-a1d0-1f8f0dea79fb,Product,DINING TABLE - DTRB23,"Description: פינת אוכל
+<br>Size: מידות: קוטר- 130 ס""מ הגדלה 100 ס""מ (50X2 ס""מ) | יתכנו שינויים בצורת הפורניר באלון פראי
+<br>Materials: שולחן אלון פראי
+<br>",d32fe95a-1499-44fb-b90a-86013733b9a5.jpg,פינות אוכל,DTRB23,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_aa347dae-6565-6069-75a5-46586f67724a,Product,DINING TABLE - DTRB6,"Description: פינת אוכל
+<br>Size: מידות: 90X120 ס""מ הגדלה 120 ס""מ
+<br>Materials: שולחן אלון
+<br>",a7bd2ef0-0383-4d40-a6a3-2f6ddd794877.jpg,פינות אוכל,DTRB6,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_86316ffc-e52d-c166-59f9-63521ba4d834,Product,DINING TABLE - DTRB1,"Description: פינת אוכל
+<br>Size: מידות: 160X100 ס""מ הגדלה 200 ס""מ (50X4 ס""מ)
+<br>Materials: שולחן אלון
+<br>",45f3a342-0639-4cfe-b455-688d233e96f3.jpg,פינות אוכל,DTRB1,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_77fd9f3e-e057-1dc3-f459-f30fb042ee2a,Product,DINING TABLE - DTRB19,"Description: פינת אוכל
+<br>Size: מידות: 160X100 ס""מ הגדלה 100 ס""מ (50X2 ס""מ) | יתכנו שינויים בצורת הפורניר באלון פראי
+<br>Materials: שולחן אלון פראי
+<br>",be3152cc-5802-4b91-b764-7b72a06c9b37.jpg,פינות אוכל,DTRB19,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_c3916c5b-901d-007b-6d93-4f9d50bc564e,Product,DINING TABLE - DTRB2,"Description: פינת אוכל
+<br>Size: מידות: 130X130 הגדלה 100 ס""מ (50X2 ס""מ)
+<br>Materials: שולחן אלון
+<br>",f1b0799f-8c51-41a9-a859-91cace5aefe6.jpg,פינות אוכל,DTRB2,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_2f45544e-9b8d-fd17-f83a-019ed3afc6e9,Product,DINING TABLE - DTRB14,"Description: פינת אוכל
+<br>Size: ניתן להזמין במידה: 210X110 ס""מ + הגדלה 100 ס""מ (50X2 ס""מ) | ניתן להזמין במידה: 180X110 ס""מ + הגדלה 100 ס""מ (50X2 ס""מ)
+<br>Materials: שולחן אלון
+<br>",f2c51066-cc71-472b-bd0c-6a33562cc16f.jpg,פינות אוכל,DTRB14,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_8e29b3d9-afbb-794b-9be4-31c3beac3f65,Product,DINING TABLE - DTRB18,"Description: פינת אוכל
+<br>Size: מידות: 180X100 ס""מ הגדלה 100 ס""מ (50X2 ס""מ)
+<br>Materials: שולחן אלון
+<br>",d659fd82-cc77-44f3-95f7-f4d02b7493d4.jpg,פינות אוכל,DTRB18,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_8c73ee26-1a23-59bf-bbc8-19aca7b07943,Product,DINING TABLE - DTRB22,"Description: פינת אוכל
+<br>Size: מידות: קוטר- 140 ס""מ הגדלה 100 ס""מ (50X2 ס""מ) | יתכנו שינויים בצורת הפורניר באלון פראי
+<br>Materials: שולחן אלון פראי
+<br>",a88b36eb-f3f3-4e8e-92fa-a9c16e01699a.jpg,פינות אוכל,DTRB22,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_e39d3cb8-703d-f778-ae24-7ec0bce5e715,Product,DINING TABLE - DTRB15,"Description: פינת אוכל
+<br>Size: מידות: 140X90 ס""מ הגדלה 200 ס""מ (50X4 ס""מ)
+<br>Materials: שולחן אלון טבעי
+<br>",98aad508-d016-44ad-9e48-4bbfaa73409a.jpg;c3b8c438-176b-4d15-94df-205996fb8a15.jpg,פינות אוכל,DTRB15,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_8587ae85-1487-2952-1bbd-4846002df40d,Product,DINING TABLE - DTRB17,"Description: פינת אוכל<br><br>Size: מידות: קוטר- 140 ס""מ 100 ס""מ (50X2 ס""מ)<br><br>Materials: שולחן אגוז<br><br>",4d80b2b7-7213-4178-a6e3-50da287d39bd.jpg,פינות אוכל,DTRB17,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_e922fe09-2e39-aeab-c517-7f6d5b118d15,Product,DINING TABLE - DTRB24,"Description: פינת אוכל
+<br>Size: מידות: קוטר- 130 ס""מ הגדלה 50 ס""מ
+<br>Materials: שולחן אלון
+<br>",8b4d0428-b02d-4919-80c2-75288bc49efa.jpg,פינות אוכל,DTRB24,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_3d429211-1863-bd85-ec4d-d4ee94683d1b,Product,DINING TABLE - DTRB5,"Description: פינת אוכל
+<br>Size: מידות: 180X100 ס""מ הגדלה 100 ס""מ (50X2 ס""מ)
+<br>Materials: שולחן אלון
+<br>",f2a90959-2cce-4c34-8cf8-62bb81a31a15.jpg;08b5abeb-c66c-471f-a874-2e79f01697aa.jpg,פינות אוכל,DTRB5,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_6bdcc96d-68ab-27c5-ed40-f29ffd309a0d,Product,DINING TABLE - DTRB21,"Description: פינת אוכל
+<br>Size: מידות: 130X130 ס""מ הגדלה 200 ס""מ (50X4 ס""מ) | יתכנו שינויים בצורת הפורניר באלון פראי
+<br>Materials: שולחן אלון פראי
+<br>",c3158570-0ab3-44d3-8272-35996a06a2fb.jpg,פינות אוכל,DTRB21,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_99537f4e-b69f-7977-8424-3c21f3effbc5,Product,DINING TABLE - DTRB10,"Description: פינת אוכל
+<br>Size: מידות: קוטר- 140 ס""מ הגדלה 200 ס""מ (50X4 ס""מ)
+<br>Materials: שולחן אלון
+<br>",23b6d010-3e10-4d71-a794-9491ed20347d.jpg,פינות אוכל,DTRB10,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_fd20d6af-ed53-c46a-857b-9708f486a69f,Product,DINING TABLE - DTRB4,"Description: פינת אוכל
+<br>Size: מידות: קוטר- 130 ס""מ הגדלה 100 ס""מ (50X2 ס""מ)
+<br>Materials: שולחן אלון
+<br>",aa29a76d-cc23-4240-bd69-4afbd26650e3.jpg,פינות אוכל,DTRB4,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_7090d670-d267-b225-c373-7afe6c1cae06,Product,DINING TABLE - DTRB16,"Description: פינת אוכל
+<br>Size: מידות: קוטר- 140 ס""מ 100 ס""מ (50X2 ס""מ)
+<br>Materials: שולחן אלון
+<br>",9a810714-9e5f-473c-8049-d2c9869b7966.jpg,פינות אוכל,DTRB16,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_d8d6613d-90de-9372-47a8-d4405c5df32d,Product,DINING TABLE - DTRB7,"Description: פינת אוכל
+<br>Size: מידות: 100X160 ס""מ הגדלה 200 ס""מ (50X4 ס""מ)
+<br>Materials: שולחן אלון
+<br>",4d7c07ee-4e0b-4050-b18b-b4c6f78ac5e1.jpg;18729e19-df2b-4a6d-85f9-09fba083bb0b.jpg,פינות אוכל,DTRB7,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_bac8e9e2-ce9a-248c-4c05-50a48ce41b87,Product,DINING TABLE - DTRB11,"Description: פינת אוכל
+<br>Size: מידות: 220×110 הגדלה 400 ס""מ (50X8 ס""מ)
+<br>Materials: שולחן אלון
+<br>",15e9678a-87a0-4758-821c-b4414e5b4f73.jpg;acd400a8-4c39-4519-90f4-9270665645b2.jpg;040e0b19-7469-4aeb-9cab-a628d6d9b83c.jpg;85a4db6a-9cea-4134-b3e4-dafe77d41d8d.jpg,פינות אוכל,DTRB11,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_7fd4631d-e656-5a99-6b6b-889acf14779f,Product,DINING TABLE - DTRB9,"Description: פינת אוכל
+<br>Size: מידות: 120X90 ס""מ הגדלה 120 ס""מ
+<br>Materials: שולחן אלון בשילוב מסגרת לבנה
+<br>",0b1407fd-a31f-40fd-9644-89fa6a2d21cb.jpg;f2cdb6a7-2a55-4a5b-a954-4f5147435a16.jpg,פינות אוכל,DTRB9,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_8d33baed-9cd4-c093-ccac-ac6d3df67403,Product,DINING TABLE - DTRB13,"Description: פינת אוכל - קונסולה
+<br>Size: מידות: 45X115 ס""מ הגדלה 300 ס""מ (50X6 ס""מ)
+<br>Materials: שולחן אלון
+<br>",73f44b70-dbc6-4b2f-aa66-0c8e4809d639.jpg;e9fe9414-9143-4a45-996e-1e0f2ce7f2bf.jpg;97e36770-c979-4754-afb5-be4a96a7b26e.jpg,פינות אוכל,DTRB13,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_62817289-629a-0042-f51e-deb03ffdb9cd,Product,DINING TABLE - DTRB20,"Description: פינת אוכל
+<br>Size: מידות: 140X90 ס""מ הגדלה 200 ס""מ (50X4 ס""מ) | יתכנו שינויים בצורת הפורניר באלון פראי
+<br>Materials: שולחן אלון פראי
+<br>",2dd72727-d5ab-487a-b3ec-c7897e40650d.jpg,פינות אוכל,DTRB20,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_c179aa70-10d6-0629-fb06-9e3a4d98c5c0,Product,DINING TABLE - DTRB25,"Description: פינת אוכל
+<br>Size: מידות: קוטר- 130 ס""מ הגדלה 100 ס""מ (50X2 ס""מ)
+<br>Materials: שולחן אגוז
+<br>",7673c955-d43a-4c0f-812f-bb00888bff26.jpg,פינות אוכל,DTRB25,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_397fc5bb-af6e-4f9d-6141-05e31c21cd7e,Product,DINING TABLE - DTRB8,"Description: פינת אוכל
+<br>Size: מידות: 160X100 ס""מ הגדלה 200 ס""מ (50X4 ס""מ) 
+<br>Materials: שולחן אלון
+<br>",c07d2853-c412-49ed-a2c6-037c5075073b.jpg,פינות אוכל,DTRB8,,0.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
