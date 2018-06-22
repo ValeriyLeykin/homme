@@ -1,0 +1,362 @@
+handleId,fieldType,name,description,productImageUrl,collection,sku,ribbon,price,surcharge,visible,discountMode,discountValue,inventory,weight,productOptionName1,productOptionType1,productOptionDescription1,productOptionName2,productOptionType2,productOptionDescription2,productOptionName3,productOptionType3,productOptionDescription3,productOptionName4,productOptionType4,productOptionDescription4,productOptionName5,productOptionType5,productOptionDescription5,productOptionName6,productOptionType6,productOptionDescription6,additionalInfoTitle1,additionalInfoDescription1,additionalInfoTitle2,additionalInfoDescription2,additionalInfoTitle3,additionalInfoDescription3,customTextField1,customTextCharLimit1,customTextMandatory1
+c4385f9f-6a70-4d27-8bff-157f2231f334,Product,ספות - SORB1,"Model: ITALIAN COLECTION<br>Description: ספה מעוצבת I תוצרת איטליה<br>Size: מידות: 320 ס""מ<br>Materials: ריפוד עור מלא טבעי לא מעובד<br>Color: אבן מעונן, אפור עכבר<br>Price: 16731<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB1.jpg,סלון;ספות (ק.מ);ITALIAN COLECTION (מודל),1_SORB1,,16731,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אבן מעונן;אפור עכבר,,,,,,,,,,,,,,,,,,,,,,,,
+5d2ea3f4-3a89-4615-8ebc-6e3f92bcab8f,Product,ספות - SORB2,"Model: ITALIAN COLECTION<br>Description: ספה מעוצבת I תוצרת איטליה<br>Size: מידות: 297 ס""מ<br>Materials: ריפוד עור מלא טבעי לא מעובד<br>Color: אבן מעונן, אפור עכבר<br>Price: 12929<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB2.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB2A.jpg,סלון;ספות (ק.מ);ITALIAN COLECTION (מודל),2_SORB2,,12929,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אבן מעונן;אפור עכבר,,,,,,,,,,,,,,,,,,,,,,,,
+d7fc76f5-88aa-4896-b1ba-de66b4aa17ed,Product,ספות - SORB3,"Model: ITALIAN COLECTION<br>Description: מערכת ישיבה פינתית I תוצרת איטליה<br>Size: מידות 227X325 ס""מ<br>Materials: ריפוד עור מלא<br>Color: לבן, אפור בהיר, ירוק כהה, שחור<br>Price: 0<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB3.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB3A.jpg,סלון;ספות (ק.מ);ITALIAN COLECTION (מודל),3_SORB3,,0,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,לבן;אפור בהיר;ירוק כהה;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+19779eea-fa77-4c25-a5df-c953b170f497,Product,ספות - SORB4,"Model: ITALIAN COLECTION<br>Description: מערכת ישיבה פינתית I בשילוב משענות ראש מתכווננות I תוצרת איטליה<br>Size: מידות 310*230 ס""מ<br>Materials: ריפוד עור מלא<br>Color: אפור כהה, אפור בהיר, אבן, מוקה, לבן, שחור<br>Price: 12929<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB4.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB4A.jpg,סלון;ספות (ק.מ);ITALIAN COLECTION (מודל),4_SORB4,,12929,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפור כהה;אפור בהיר;אבן;מוקה;לבן;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+b256eb6d-bf63-462a-9cc8-2133243106c8,Product,ספות - SORB5,"Model: ITALIAN COLECTION<br>Description: מערכת ישיבה סט 3+2 I בשילוב משענות ראש מתכווננות I תוצרת איטליה<br>Size: מידות: תלת- 230 ס""מ, דו- 170 ס""מ<br>Materials: ריפוד עור מלא<br>Price: 12929<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB5.jpg,סלון;ספות (ק.מ);ITALIAN COLECTION (מודל),5_SORB5,,12929,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86460a15-d885-4c87-aa02-92d945341adc,Product,ספות - SORB6,"Model: ITALIAN COLECTION<br>Description: מערכת ישיבה פינתית I בשילוב משענות ראש מתכווננות I תוצרת איטליה<br>Size: מידות 305X225 ס""מ<br>Materials: ריפוד עור מלא<br>Color: אפור כהה, אפור בהיר, אבן, אבן קרם, לבן, שחור<br>Price: 12929<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB6.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB6A.jpg,סלון;ספות (ק.מ);ITALIAN COLECTION (מודל),6_SORB6,,12929,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפור כהה;אפור בהיר;אבן;אבן קרם;לבן;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+8927e0af-1a96-4baa-96e1-b75f22890fd2,Product,ספות - SORB7,"Model: ITALIAN COLECTION<br>Description: מערכת ישיבה פינתית I בשילוב משענות ראש מתכווננות I מושב ויסקו I תוצרת איטליה<br>Size: מידות 230*300 ס""מ<br>Materials: ריפוד עור טבעי מלא<br>Color: אפור כהה, אבן, נטורל<br>Price: 14450<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB7.jpg,סלון;ספות (ק.מ);ITALIAN COLECTION (מודל),7_SORB7,,14450,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפור כהה;אבן;נטורל,,,,,,,,,,,,,,,,,,,,,,,,
+cd849aed-5b21-4e54-b86f-f9071eda2836,Product,ספות - SORB8,"Model: ITALIAN COLECTION<br>Description: מערכת ישיבה סט 3+2 I תוצרת איטליה<br>Size: מידות - תלת: 220 ס""מ דו: 180 ס""מ<br>Materials: ריפוד עור מלא<br>Color: אפור בהיר בשילוב אפור כהה, שחור, אבן, אפור בהיר, אפור כהה<br>Price: 0<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB8.jpg,סלון;ספות (ק.מ);ITALIAN COLECTION (מודל),8_SORB8,,0,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפור בהיר בשילוב אפור כהה;שחור;אבן;אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+c9e13258-3638-4df8-b6de-c76244b1afca,Product,ספות - SORB9,"Model: ITALIAN COLECTION<br>Description: מערכת ישיבה פינתית I תוצרת איטליה<br>Size: מידות: 305X230 ס""מ<br>Materials: ריפוד עור טבעי מלא<br>Color: אבן, נטורל, אפור כהה<br>Price: 0<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB9.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB9A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB9B.jpg,סלון;ספות (ק.מ);ITALIAN COLECTION (מודל),9_SORB9,,0,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אבן;נטורל;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+188a9830-6d4b-4a09-b610-202928115456,Product,ספות - SORB10,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית<br>Size: מידות: 194*292 ס""מ<br>Materials: ריפוד בד<br>Color: אפור כהה בשילוב אפור בהיר<br>Price: 5171<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB10.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB10A.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),10_SORB10,,5171,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,אפור כהה בשילוב אפור בהיר,,,,,,,,,,,,,,,,,,,,,,,,
+43e3ce90-5ae1-4816-ab72-6cde9b25f0e8,Product,ספות - SORB11,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה 3+2<br>Size: מידות: תלת- 226 ס""מ דו- 170 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג בצבעים בז', קרם, חום, אפור, שחור<br>Price: 6388<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB11.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),11_SORB11,,6388,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג בצבעים בז';קרם;חום;אפור;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+8f9177db-c1ce-4acb-882e-9c4e40aa8e53,Product,ספות - SORB12,"Model: FABRIC COLECTION<br>Description: ספה מעוצבת ארוכה<br>Size: מידות: 317 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג בצבעים: חום מוקה, אפור בהיר, אפור כהה<br>Price: 6084<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB12.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),12_SORB12,,6084,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג בצבעים: חום מוקה;אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+3238fadd-beac-419e-a4ab-71d2697cc5c8,Product,ספות - SORB13,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה 3+2<br>Size: מידות: תלת- 212 ס""מ, דו- 182 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג בצבעים: חום כהה, אפור כהה, חום בהיר, אפור בהיר<br>Price: 5324<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB13.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),13_SORB13,,5324,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג בצבעים: חום כהה;אפור כהה;חום בהיר;אפור בהיר,,,,,,,,,,,,,,,,,,,,,,,,
+4738d93d-661e-4f46-9fc7-4f14143f95b1,Product,ספות - SORB14,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה 3+2<br>Size: מידות: תלת- 224 ס""מ דו- 172 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג בצבעים אפאפר, חום בהיר, חום אדמדם, ויסקי<br>Price: 6997<br>",,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),14_SORB14,,6997,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג בצבעים אפאפר;חום בהיר;חום אדמדם;ויסקי,,,,,,,,,,,,,,,,,,,,,,,,
+6c3f4cb3-d392-43ac-9921-8410e9b64b9d,Product,ספות - SORB15,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית I בשילוב שזלונג וכריות נוי<br>Size: מידות: 175*316 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: שמנת, בז', חום, אפור בהיר, אפור כהה, שחור<br>Price: 6997<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB15.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB15A.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),15_SORB15,,6997,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: שמנת;בז';חום;אפור בהיר;אפור כהה;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+23c6b6e4-7a65-4279-be9f-cb18120046c7,Product,ספות - SORB16,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית I בשילוב שזלונג<br>Size: מידות: 175*294 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג בצבעים: בז', חום בהיר, אפור בהיר, אפור כהה<br>Price: 5780<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB16.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),16_SORB16,,5780,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג בצבעים: בז';חום בהיר;אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+1f4854fa-d6fb-47d7-b953-b6f3861edadb,Product,ספות - SORB17,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית I בשילוב ריקליינרים נשלפים<br>Size: מידות 265X265 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג במבחר צבעים<br>Price: 8366<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB17.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),17_SORB17,,8366,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג במבחר צבעים,,,,,,,,,,,,,,,,,,,,,,,,
+794b06f3-9f8b-4dba-9c1f-40f0a9d965ac,Product,ספות - SORB18,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה 3+2 I בשילוב ריקליינרים נשלפים<br>Size: מידות: תלת-218 ס""מ, דו- 170 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', חום, אפור כהה, אפור בהיר<br>Price: 7453<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB18.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB18A.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),18_SORB18,,7453,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';חום;אפור כהה;אפור בהיר,,,,,,,,,,,,,,,,,,,,,,,,
+7e5d3343-7112-49a9-a2fa-99031ff65952,Product,ספות - SORB19,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בתוספת בר וריקליינרים נשלפים<br>Size: מידות: 330X297 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: חום בהיר, בז', אפור בהיר, אפור כהה<br>Price: 10495<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB19.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),19_SORB19,,10495,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: חום בהיר;בז';אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+f2c17012-e79a-446b-a4c9-adc4622ebc8b,Product,ספות - SORB20,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב שזלונג | בתוספת בר וריקליינרים נשלפים<br>Size: מידות: 330X297 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: חום, בז', אפור בהיר, אפור כהה<br>Price: 0<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB20.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),20_SORB20,,0,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: חום;בז';אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+ecbf8112-30fa-462e-b0be-d282ea69130d,Product,ספות - SORB21,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה | בשילוב שזלונג | בתוספת בר וריקליינרים נשלפים<br>Size: מידות: 332X160 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: חום, אפור בהיר, אפור כהה<br>Price: 0<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB21.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB21A.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),21_SORB21,,0,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: חום;אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+45e5fabb-af98-408c-a0f7-6f595b50d946,Product,ספות - SORB22,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב ריקליינרים נשלפים<br>Size: מידות: 256X256 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: אפור, חום בהיר, בז' בשילוב חום, אפור בהיר בשילוב אפור כהה<br>Price: 7301<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB22.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),22_SORB22,,7301,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אפור;חום בהיר;בז' בשילוב חום;אפור בהיר בשילוב אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+e0e1cd7d-bf95-4029-8721-419216788550,Product,ספות - SORB23,"Model: FABRIC COLECTION<br>Description: ספת מעצבים ארוכה<br>Size: מידות: 328 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', חום מוקה, אפור בהיר, אפור כהה<br>Price: 8822<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB23.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),23_SORB23,,8822,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';חום מוקה;אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+210ec622-8320-4918-97da-01592e667d6c,Product,ספות - SORB24,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | משענות גב וראשים מתכווננים | שזלונג בד<br>Size: מידות: 327X258 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג בצבעים: בז', אפור בהיר, אפור כהה<br>Price: 11408<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB24.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),24_SORB24,,11408,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג בצבעים: בז';אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+f8ae396d-012a-4e29-8262-63b38b91f1c9,Product,ספות - SORB25,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בתוספת בר וריקליינרים נשלפים<br>Size: מידות: 340X310 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: אפרפר, חום בהיר<br>Price: 9887<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB25.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),25_SORB25,,9887,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אפרפר;חום בהיר,,,,,,,,,,,,,,,,,,,,,,,,
+c30805e2-8543-47c4-8f34-25d3a2ed3cb4,Product,ספות - SORB26,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | מודולרית המורכבת משישה חלקים | בשילוב שזלונג<br>Size: מידות: 308X384 ס""מ<br>Materials: ריפוד בד<br>Price: 10343<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB26.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),26_SORB26,,10343,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4d431735-2fd4-49ee-824c-76adfc448036,Product,ספות - SORB27,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה 3+2 | בשילוב ריקליינר נשלף<br>Size: מידות: תלת- 193 ס""מ דו- 140 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג בצבעים בז', אפור בהיר, אפור כהה<br>Price: 6540<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB27.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB27A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB27B.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),27_SORB27,,6540,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג בצבעים בז';אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+cd084235-ca9a-4bc9-9852-cdc3e058f4e6,Product,ספות - SORB28,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה 3+2 | בשילוב ריקליינר נשלף<br>Size: מידות: תלת- 196 ס""מ דו- 147 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג בצבעים אפאפר, חום בהיר<br>Price: 6540<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB28.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),28_SORB28,,6540,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג בצבעים אפאפר;חום בהיר,,,,,,,,,,,,,,,,,,,,,,,,
+620fcc63-3e37-4976-afdf-e256a0cbe880,Product,ספות - SORB29,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בתוספת בר וריקליינרים נשלפים<br>Size: מידות: 333X300 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: אפרפר, חום בהיר<br>Price: 9887<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB29.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),29_SORB29,,9887,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אפרפר;חום בהיר,,,,,,,,,,,,,,,,,,,,,,,,
+6c996969-2283-4976-a0a1-1aabaf226ecb,Product,ספות - SORB30,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בתוספת ריקליינרים נשלפים<br>Size: מידות: 300X300 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', אפור בהיר, אפור כהה<br>Price: 0<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB30.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),30_SORB30,,0,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+d161f0af-d301-485d-815f-febfcbc2c567,Product,ספות - SORB31,"Model: FABRIC COLECTION<br>Description: ספה | בשילוב ריקליינרים נשלפים<br>Size: מידות: 280 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', אפור בהיר, אפור כהה<br>Price: 8366<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB31.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),31_SORB31,,8366,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+91754f36-656f-411d-a4cc-2a8dcb4b3c04,Product,ספות - SORB32,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה 3+2 | בשילוב הדומים נשלפים<br>Size: מידות: תלת- 218 ס""מ, דו- 161 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג במבחר צבעים<br>Price: 8974<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB32.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),32_SORB32,,8974,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג במבחר צבעים,,,,,,,,,,,,,,,,,,,,,,,,
+89d1da8f-97ea-4518-952f-00ab3e941f55,Product,ספות - SORB33,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב הדומים נשלפים<br>Size: מידות 316X260 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג במבחר צבעים<br>Price: 8366<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB33.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),33_SORB33,,8366,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג במבחר צבעים,,,,,,,,,,,,,,,,,,,,,,,,
+23efc2e4-ddff-4bc3-949a-5df628313cba,Product,ספות - SORB34,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב ריקליינרים נשלפים<br>Size: מידות 305X305 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג בצבעים בז, קרם, אפרפר, שחור<br>Price: 9430<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB34.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),34_SORB34,,9430,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג בצבעים בז;קרם;אפרפר;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+52e10570-559b-48b8-a4e2-a473dfee8c04,Product,ספות - SORB35,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב ריקליינרים נשלפים | בתוספת בר<br>Size: מידות 338X305 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג במבחר צבעים<br>Price: 9430<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB35.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB35A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB35B.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),35_SORB35,,9430,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג במבחר צבעים,,,,,,,,,,,,,,,,,,,,,,,,
+06ee4cfb-117e-4cc1-bdb4-dc856c8ad495,Product,ספות - SORB36,"Model: FABRIC COLECTION<br>Description: ספה נפתחת | בשילוב מיטה נפתחת<br>Size: מידות: ספה- 223 ס""מ, מזרן- 184X136X11 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', חום, שחור בשילוב אפור<br>Price: 8518<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB36.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB36A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB36B.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB36C.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB36D.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),36_SORB36,,8518,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';חום;שחור בשילוב אפור,,,,,,,,,,,,,,,,,,,,,,,,
+b0a86f5f-11d4-49f5-bd67-70be7834c0ac,Product,ספות - SORB37,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב שזלונג | בתוספת בר וריקליינרים נשלפים<br>Size: מידות: 410X220 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג במבחר צבעים<br>Price: 11331<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB37.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),37_SORB37,,11331,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג במבחר צבעים,,,,,,,,,,,,,,,,,,,,,,,,
+24e6fcf0-1ac5-44ac-9ba2-8d998dbe27f7,Product,ספות - SORB38,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה סט 3+2 | בתוספת ריקליינרים נשלפים<br>Size: מידות: תלת- 226 ס""מ, דו- 170 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: קרם, חום בהיר, חום כהה, אפור, חום בהיר בשילוב אפור<br>Price: 8746<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB38.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),38_SORB38,,8746,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: קרם;חום בהיר;חום כהה;אפור;חום בהיר בשילוב אפור,,,,,,,,,,,,,,,,,,,,,,,,
+370dce5e-8b76-4167-9367-bb902b1a253f,Product,ספות - SORB39,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | ראשים מתכווננים | בשילוב רקליינרים חשמליים<br>Size: מידות: 300X220 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', אפור בהיר, אפור כהה, חום, שחור<br>Price: 7453<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB39.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),39_SORB39,,7453,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';אפור בהיר;אפור כהה;חום;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+908fe462-da26-48f2-b69f-49651650dae0,Product,ספות - SORB40,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | רבשילוב בר ומערכת שמע | משענות ראש מתכווננות | ריקליינרים חשמליים<br>Size: מידות: 331X290 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', אפור בהירף אפור כהה, שחור<br>Price: 11331<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB40.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),40_SORB40,,11331,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';אפור בהירף אפור כהה;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+e708e29f-bd16-4846-b314-8c6f92689bd7,Product,ספות - SORB41,"Model: FABRIC COLECTION<br>Description: ספת מעצבים ארוכה<br>Size: מידות: 300 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: אבן, אפור בהיר, אפור כהה, ירוק, שחור<br>Price: 5171<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB41.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),41_SORB41,,5171,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אבן;אפור בהיר;אפור כהה;ירוק;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+3f9e83c0-4a82-47d0-ac19-031caef37830,Product,ספות - SORB42,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב הדום<br>Size: מידות: 230X323 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: אבן, אפור בהיר, אפור כהה, שחור, ירוק<br>Price: 6997<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB42.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),42_SORB42,,6997,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אבן;אפור בהיר;אפור כהה;שחור;ירוק,,,,,,,,,,,,,,,,,,,,,,,,
+72198461-d8bf-47b8-9678-5c30006a2a0a,Product,ספות - SORB43,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב שזלונג<br>Size: מידות: 300X200 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג בצבעים: אבן, ירוק, אפור בהיר, אפור כהה, שחור<br>Price: 7301<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB43.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),43_SORB43,,7301,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג בצבעים: אבן;ירוק;אפור בהיר;אפור כהה;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+c291bc2f-d590-41c0-aea3-a030a065f3b2,Product,ספות - SORB44,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית<br>Size: מידות: 330X220 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', אפור בהיר, אפור כהה<br>Price: 7301<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB44.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),44_SORB44,,7301,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+f8afd0ed-98a4-4ae9-8a7a-7b0a62bc566f,Product,ספות - SORB45,"Model: FABRIC COLECTION<br>Description: ספת מעצבים ארוכה<br>Size: מידות: 300 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', אפור בהיר, אפור כהה<br>Price: 5932<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB45.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),45_SORB45,,5932,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';אפור בהיר;אפור כהה,,,,,,,,,,,,,,,,,,,,,,,,
+7a76287b-8a5e-4b47-834b-066cbecc6e67,Product,ספות - SORB46,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה 2+3 | בשילוב ריקליינרים נשלפים<br>Size: מידות: תלת-191 ס""מ, דו- 142 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: אפרפר, חום בהיר, קרם<br>Price: 6540<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB46.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB46A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB46B.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),46_SORB46,,6540,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אפרפר;חום בהיר;קרם,,,,,,,,,,,,,,,,,,,,,,,,
+819a78b9-937f-4e6f-a7b9-da64411c95b6,Product,ספות - SORB47,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה 2+3 | בשילוב ריקליינרים נשלפים<br>Size: מידות: תלת-190 ס""מ, דו-140 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג במבחר צבעים<br>Price: 6692<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB47.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),47_SORB47,,6692,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג במבחר צבעים,,,,,,,,,,,,,,,,,,,,,,,,
+f4f4fa06-2d8f-41e3-b3c6-1e2219a5785f,Product,ספות - SORB48,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב ריקליינרים נשלפים<br>Size: מידות: 290X320 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג במבחר צבעים<br>Price: 8518<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB48.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),48_SORB48,,8518,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג במבחר צבעים,,,,,,,,,,,,,,,,,,,,,,,,
+16f7e111-3d3e-431e-a1c9-14b013ce4408,Product,ספות - SORB49,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה 2+3 | בשילוב ריקליינרים נשלפים<br>Size: מידות: תלת- 220 ס""מ, דו: 163 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: חום בהיר בשילוב קרם, חום כהה בשילוב קרם<br>Price: 9126<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB49.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),49_SORB49,,9126,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: חום בהיר בשילוב קרם;חום כהה בשילוב קרם,,,,,,,,,,,,,,,,,,,,,,,,
+23118171-c0c2-4e83-8228-be71127225ff,Product,ספות - SORB50,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | שזלונג | תוספת ריקליינרים נשלפים ובר<br>Size: מידות: 342X309 ס""מ, שזלונג- 160 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: קרם, אפור בהיר, אפור כהה, חום כהה<br>Price: 10647<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB50.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),50_SORB50,,10647,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: קרם;אפור בהיר;אפור כהה;חום כהה,,,,,,,,,,,,,,,,,,,,,,,,
+17ce9f1e-42c0-4adb-a203-1a76bb39e088,Product,ספות - SORB51,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב ריקליינרים נשלפים | בתוספת בר<br>Size: מידות: 306X339 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', חום בהיר, אפרפר<br>Price: 10951<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB51.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),51_SORB51,,10951,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';חום בהיר;אפרפר,,,,,,,,,,,,,,,,,,,,,,,,
+6b6dc304-a9c1-4076-8952-d334f7693a30,Product,ספות - SORB52,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה 2+3 | ריפוד בד | בשילוב ריקליינרים נשלפים<br>Size: מידות: תלת-225 ס""מ, דו-170 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג בצבעים: אפור בהיר, אפור כהה, נס קפה<br>Price: 8366<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB52.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),52_SORB52,,8366,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג בצבעים: אפור בהיר;אפור כהה;נס קפה,,,,,,,,,,,,,,,,,,,,,,,,
+3f8f8699-f79f-43d5-8863-206c1ae1359f,Product,ספות - SORB53,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה סט 2+3 | בשילוב ריקליינרים נשלפים<br>Size: מידות: תלת-193 ס""מ, דו-142 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: חום כהה בשילוב נס קפה<br>Price: 7149<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB53.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),53_SORB53,,7149,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: חום כהה בשילוב נס קפה,,,,,,,,,,,,,,,,,,,,,,,,
+876e5094-1c0e-460e-8465-aa0b0a6f4d97,Product,ספות - SORB54,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה סט 2+3 | בשילוב ריקליינרים נשלפים<br>Size: מידות: תלת-198 ס""מ, דו-147 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג במבחר צבעים<br>Price: 7149<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB54.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),54_SORB54,,7149,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג במבחר צבעים,,,,,,,,,,,,,,,,,,,,,,,,
+61294ea3-9e20-48c7-831d-72b071f79fd6,Product,ספות - SORB55,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה סט 3+2 | בשילוב ריקליינרים נשלפים<br>Size: מידות: תלת- 226 ס""מ, דו- 168 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: אפור בהיר בשילוב אפור כהה, אפור כהה בשילוב אפור בהיר<br>Price: 8518<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB55.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),55_SORB55,,8518,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אפור בהיר בשילוב אפור כהה;אפור כהה בשילוב אפור בהיר,,,,,,,,,,,,,,,,,,,,,,,,
+99eceadf-b724-48fa-923c-ede42794a175,Product,ספות - SORB56,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב ריקליינרים נשלפים<br>Size: מידות 213X293 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: אפור בהיר בשילוב אפור כהה, אפור כהה בשילוב אפור בהיר<br>Price: 8213<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB56.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),56_SORB56,,8213,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אפור בהיר בשילוב אפור כהה;אפור כהה בשילוב אפור בהיר,,,,,,,,,,,,,,,,,,,,,,,,
+36066d36-860f-4917-802b-9e2954260f24,Product,ספות - SORB57,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה סט 2+3 | בשילוב ריקליינרים נשלפים<br>Size: מידות: תלת-198 ס""מ, דו- 145 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', אפור כהה, אפור בהיר<br>Price: 7149<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB57.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),57_SORB57,,7149,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';אפור כהה;אפור בהיר,,,,,,,,,,,,,,,,,,,,,,,,
+d2afe31a-460b-4602-8e97-740940d7b8f6,Product,ספות - SORB58,"Model: FABRIC COLECTION<br>Description: ספה נפתחת | בשילוב מיטה נפתחת<br>Size: מידות: תלת-198 ס""מ, דו- 145 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', אפור כהה, אפור בהיר<br>Price: 7453<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB58.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),58_SORB58,,7453,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';אפור כהה;אפור בהיר,,,,,,,,,,,,,,,,,,,,,,,,
+a6db0678-a23a-47d7-9b58-1ca9e8fffa25,Product,ספות - SORB59,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב מיטה נפתחת | בתוספת ריקליינרים נשלפים<br>Size: מידות: 238X224 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז'<br>Price: 8518<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB59.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),59_SORB59,,8518,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז',,,,,,,,,,,,,,,,,,,,,,,,
+273be1d4-4761-4f7f-8d49-7eb1ebd5ceb4,Product,ספות - SORB60,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה סט 2+3 | בשילוב ריקליינרים נשלפים<br>Size: מידות: תלת-198 ס""מ, דו-147 ס""מ<br>Materials: ריפוד בד<br>Color: ניתן להשיג במבחר צבעים<br>Price: 7149<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB60.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB60A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB60B.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),60_SORB60,,7149,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג במבחר צבעים,,,,,,,,,,,,,,,,,,,,,,,,
+384bc681-b02b-450b-883c-433834e81f20,Product,ספות - SORB61,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | שזלונג | בשילוב ריקליינרים נשלפים | בתוספת בר<br>Size: מידות: 420X223 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: אפור כהה בשילוב אפור בהיר<br>Price: 11027<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB61.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),61_SORB61,,11027,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אפור כהה בשילוב אפור בהיר,,,,,,,,,,,,,,,,,,,,,,,,
+56637e49-b3c4-4947-b0e4-c6a449181df4,Product,ספות - SORB62,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב מיטה נפתחת | בתוספת הדום עם ארגז אחסון<br>Size: מידות: 300X220 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: אפור בהיר, אפור כהה, חום בהיר, כחול<br>Price: 6692<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB62.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB62A.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),62_SORB62,,6692,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אפור בהיר;אפור כהה;חום בהיר;כחול,,,,,,,,,,,,,,,,,,,,,,,,
+f87e048e-5869-4edc-a126-a8d8068bf527,Product,ספות - SORB63,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב מיטה נפתחת | משענות ראש מתכווננות | בתוספת הדום עם ארגז אחסון<br>Size: מידות: 300X235 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', אפור כהה, נס קפה<br>Price: 6692<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB63.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB63A.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),63_SORB63,,6692,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';אפור כהה;נס קפה,,,,,,,,,,,,,,,,,,,,,,,,
+9172c20d-ed9c-422d-a5cb-03a56b226bfd,Product,ספות - SORB64,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב מיטה נפתחת | משענות ראש מתכווננות | בתוספת הדום עם ארגז אחסון<br>Size: מידות: 300X220 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', אפור כהה, נס קפה<br>Price: 6692<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB64.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB64A.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),64_SORB64,,6692,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';אפור כהה;נס קפה,,,,,,,,,,,,,,,,,,,,,,,,
+aec5a9bf-0481-4387-8b4f-e2dd40c971dc,Product,ספות - SORB65,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב מיטה נפתחת | בתוספת הדום עם ארגז אחסון<br>Size: מידות: 300X229X94 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: בז', אפור כהה, נס קפה<br>Price: 6692<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB65.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB65A.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),65_SORB65,,6692,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';אפור כהה;נס קפה,,,,,,,,,,,,,,,,,,,,,,,,
+66a9b9f0-af59-419b-954a-f0ef73702f3d,Product,ספות - SORB66,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | מודולרית המורכבת משלושה חלקים | ספה, כורסא והדום<br>Size: מידות: 240X295 ס""מ ספה- 295 ס""מ, ג'וקר- 95 ס""מ, הדום- 95 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: אפור כהה, כחול, כחול כהה<br>Price: 8822<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB66.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB66A.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB66B.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB66C.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),66_SORB66,,8822,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אפור כהה;כחול;כחול כהה,,,,,,,,,,,,,,,,,,,,,,,,
+3c48ece7-1d50-47f7-a744-bc68a184550d,Product,ספות - SORB67,"Model: FABRIC COLECTION<br>Description: מערכת ישיבה פינתית | מודולרית המורכבת משלושה חלקים | ספה, כורסא והדום<br>Size: מידות: ספה- 295 ס""מ, מושב ג'וקר- 95 ס""מ, הדום- 95 ס""מ<br>Materials: ריפוד בד<br>Color: צבעים: אפור כהה, אפור, כחול כהה<br>Price: 8822<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB67.jpg,סלון;ספות (ק.מ);FABRIC COLECTION (מודל),67_SORB67,,8822,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אפור כהה;אפור;כחול כהה,,,,,,,,,,,,,,,,,,,,,,,,
+f896b68d-2664-496d-8a52-61391194ddca,Product,ספות - SORB68,"Model: LEATHER COLECTION<br>Description: ספת מעצבים | ראשים מתכווננים<br>Size: מידות -300 ס""מ<br>Materials: ריפוד עור<br>Color: צבעים: אבן, אפור כהה, שחור, ויסקי, כחול, חרדל<br>Price: 8822<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB68.jpg;https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB68A.jpg,סלון;ספות (ק.מ);LEATHER COLECTION (מודל),68_SORB68,,8822,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: אבן;אפור כהה;שחור;ויסקי;כחול;חרדל,,,,,,,,,,,,,,,,,,,,,,,,
+378cf37b-ed9f-410d-8795-88b886a1d21d,Product,ספות - SORB69,"Model: LEATHER COLECTION<br>Description: מערכת ישיבה פינתית | ראשים מתכווננים | בשילוב שזלונג עור<br>Size: מידות -327*258 ס""מ<br>Materials: ריפוד עור<br>Color: ניתן להשיג במבחר צבעים<br>Price: 0<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB69.jpg,סלון;ספות (ק.מ);LEATHER COLECTION (מודל),69_SORB69,,0,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג במבחר צבעים,,,,,,,,,,,,,,,,,,,,,,,,
+a5997cf8-2f83-4996-995e-ff18372bfe72,Product,ספות - SORB70,"Model: LEATHER COLECTION<br>Description: מערכת ישיבה פינתית | ראשים מתכווננים | משענות גב מתכווננות | בשילוב שזלונג עור<br>Size: מידות: 318X256 ס""מ<br>Materials: ריפוד עור<br>Color: צבעים: לבן, אפור כהה, שחור<br>Price: 16731<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB70.jpg,סלון;ספות (ק.מ);LEATHER COLECTION (מודל),70_SORB70,,16731,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: לבן;אפור כהה;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+3a24c5f9-af21-430b-b8e5-9dde910ba5a9,Product,ספות - SORB71,"Model: LEATHER COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב שזלונג | בתוספת משענות ראש מתכווננות<br>Size: מידות: 350X300 ס""מ<br>Materials: ריפוד עור מלא<br>Color: צבעים: לבן, נס קפה, אפור כהה, שחור<br>Price: 0<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB71.jpg,סלון;ספות (ק.מ);LEATHER COLECTION (מודל),71_SORB71,,0,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: לבן;נס קפה;אפור כהה;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+10ee0e0e-71aa-4ae8-b0e6-dd5398717727,Product,ספות - SORB72,Model: LEATHER COLECTION<br>Description: מערכת ישיבה 3+2+1 בריפוד בד/עור משולב הכוללת הדומים נשלפים<br>Size: מידות – תלת: 220/95 דו: 160/95 כורסא: 100/95<br>Materials: ריפוד בד/עור משולב<br>Color: ניתן להשיג במבחר צבעים<br>Price: 11179<br>,https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB72.jpg,סלון;ספות (ק.מ);LEATHER COLECTION (מודל),72_SORB72,,11179,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג במבחר צבעים,,,,,,,,,,,,,,,,,,,,,,,,
+ab17b636-c279-47cd-ade3-b007de9ca635,Product,ספות - SORB73,"Model: LEATHER COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב ריקליינרים נשלפים<br>Size: מידות: 316X260 ס""מ<br>Materials: ריפוד עור<br>Color: צבעים: בז', אפור כהה, חום, שחור<br>Price: 11408<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB73.jpg,סלון;ספות (ק.מ);LEATHER COLECTION (מודל),73_SORB73,,11408,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: בז';אפור כהה;חום;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+a9278ab9-0b06-40c3-b13b-f87c67ec3334,Product,ספות - SORB74,"Model: LEATHER COLECTION<br>Description: מערכת ישיבה סט 3+2<br>Size: מידות: דו- 170 ס""מ, תלת- 211 ס""מ<br>Materials: ריפוד עור משולב<br>Color: ניתן להשיג במבחר צבעים<br>Price: 6692<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB74.jpg,סלון;ספות (ק.מ);LEATHER COLECTION (מודל),74_SORB74,,6692,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג במבחר צבעים,,,,,,,,,,,,,,,,,,,,,,,,
+931c3974-a260-440d-9790-471c3fcfec18,Product,ספות - SORB75,"Model: LEATHER COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב משענות ראש מתכווננות<br>Size: מידות: 220X300 ס""מ<br>Materials: ריפוד עור משולב<br>Color: צבעים: שמנת, אפור כהה, שחור, אפור בהיר בשילוב שמנת<br>Price: 8366<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB75.jpg,סלון;ספות (ק.מ);LEATHER COLECTION (מודל),75_SORB75,,8366,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,צבעים: שמנת;אפור כהה;שחור;אפור בהיר בשילוב שמנת,,,,,,,,,,,,,,,,,,,,,,,,
+d6823374-15f0-42bb-8ba5-1293d437682f,Product,ספות - SORB76,"Model: LEATHER COLECTION<br>Description: מערכת ישיבה פינתית | בשילוב שזלונג<br>Size: מידות: 300X220 ס""מ<br>Materials: ריפוד עור משולב<br>Color: ניתן להשיג בצבעים: חום, קרם, אפור בהיר, אפור כהה, שחור<br>Price: 8366<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SORB76.jpg,סלון;ספות (ק.מ);LEATHER COLECTION (מודל),76_SORB76,,8366,,true,PERCENT,0,InStock,,צבע,DROP_DOWN,ניתן להשיג בצבעים: חום;קרם;אפור בהיר;אפור כהה;שחור,,,,,,,,,,,,,,,,,,,,,,,,
+9251e0a9-228b-465f-b29c-654f5fa66adc,Product,ספות - SOBW1,"Description: 1*one seater/
+1*two seater/
+1*three seater 
+iron with wood grain for sofa frame, fabric,  standard export packing<br>Size: 105*85*70/165*85*70/225*85*70<br>Price: 6730<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW1.jpg,סלון;ספות (ק.מ),77_SOBW1,,6730,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+041ff4b4-8389-4575-a67f-f34efc82f66f,Product,ספות - SOBW3,"Description: 1*three seater single armrest/
+1*corner/
+1*chaise/
+2*one seater without armrest
+stainless steel for sofa leg, solid wood, fabric<br>Size: 155*97*87/
+132*132*80/
+95*170*87/
+80*97*87<br>Price: 7450<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW3.jpg,סלון;ספות (ק.מ),78_SOBW3,,7450,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16000815-8e06-45b6-9f88-b358b9637ca6,Product,ספות - SOBW4,"Description: 1*one seater/
+1*thre seater/
+1*corner/
+1*chaise
+solid wood, fabric, high density foam, standard export packing<br>Size: 110*103*97/
+200*103*97/
+123*123*97/
+180*110*97<br>Price: 6730<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW4.jpg,סלון;ספות (ק.מ),79_SOBW4,,6730,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1fba0e17-bc0d-4a70-9276-e797b1f5440a,Product,ספות - SOBW5,"Description: 4*one seater without armrest/
+3*corner
+solid wood, fabric, high density foam, standard export packing<br>Size: 82*100*85/
+100*100*85<br>Price: 7090<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW5.jpg,סלון;ספות (ק.מ),80_SOBW5,,7090,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4874690d-a8f2-49c0-bcf0-7893e62d3aef,Product,ספות - SOBW6,"Description: 4*one seater without armrest/
+3*corner
+solid wood, fabric, high density foam, standard export packing<br>Size: 82*100*85/
+100*100*85<br>Price: 7090<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW6.jpg,סלון;ספות (ק.מ),81_SOBW6,,7090,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+575ccb4c-063f-4e0e-935a-89f02f0b6426,Product,ספות - SOBW8,"Description: 2*one seater/
+1*two seater/
+1*three seater
+fabric,  iron pipe with white paint for outer frame,high density foam<br>Size: 98*86*85/
+158*86*85/
+220*86*85<br>Price: 6730<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW8.jpg,סלון;ספות (ק.מ),82_SOBW8,,6730,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64247466-18a2-4268-881f-05c588f47353,Product,ספות - SOBW9,"Description: 1*one seater/
+1*two seater/
+1*three seater
+solid wood, fabric,  high density foam<br>Size: 117*100*80/
+177*100*80/
+224*100*80<br>Price: 6000<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW9.jpg,סלון;ספות (ק.מ),83_SOBW9,,6000,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0affaed9-39ac-4991-a5b5-3799d7eefe11,Product,ספות - SOBW11,"Description: 2*one seater/
+1*two seater/
+1*three seater
+solid wood, fabric, high density foam, metal for sofa base<br>Size: 2*(94*89*87)/
+189*89*87/
+229*89*87<br>Price: 6784<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW11.jpg,סלון;ספות (ק.מ),84_SOBW11,,6784,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78bcd618-55cd-4585-b849-70be054bd4db,Product,ספות - SOBW16,"Description: 1*three seater/
+1*two seater/
+1*one seater/
+1*chaise/
+1*wood box
+solid wood for frame,  fabric, high density foam, standard export packing<br>Size: 210*105*66/
+180*105*66/
+86*105*66/
+105*200*66/
+130*20*10<br>Price: 6964<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW16.jpg,סלון;ספות (ק.מ),85_SOBW16,,6964,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8e87f4c0-21cf-4353-8925-3af11ebce9c9,Product,ספות - SOBW17,"Description: 1*one seater/
+1*two seater/
+1*three seater
+solid wood for sofa leg, fabric, high density foam, standard export packing<br>Size: 105*103*84/
+161*103*84/
+201*103*84<br>Price: 5523<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW17.jpg,סלון;ספות (ק.מ),86_SOBW17,,5523,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c69b3977-ae81-4ff7-a169-5f00b365150e,Product,ספות - SOBW18,"Description: 1*one seater/
+1*two seater/
+1*three seater
+solid wood for sofa leg, fabric, high density foam, standard export packing<br>Size: 105*103*84/
+161*103*84/
+201*103*84<br>Price: 5523<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW18.jpg,סלון;ספות (ק.מ),87_SOBW18,,5523,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2b39682e-17dd-46b3-a664-9e1508ee2878,Product,ספות - SOBW19,"Description: 4*one seater without armrest/
+1*big ottoman/
+1*corner/
+1*one seater with right armrest/
+1*small ottoman
+electroplate for sofa leg,solid wood, fabric, high density foam, standard export packing<br>Size: 84*95*66/
+100*100*28/
+93*95*66/
+93*95*66/
+87*94*30<br>Price: 6009<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW19.jpg,סלון;ספות (ק.מ),88_SOBW19,,6009,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e3f72bb3-f89a-4162-9f17-2fc5fbc04ac6,Product,ספות - SOBW20,"Description: 8*one seater without armrest/
+2*big ottoman/
+2*corner/
+2*one seater with one armrest
+electroplate for sofa leg,solid wood, fabric, high density foam, standard export packing<br>Size: 84*95*66/
+100*100*28/
+93*95*66/
+92*95*66<br>Price: 11604<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW20.jpg,סלון;ספות (ק.מ),89_SOBW20,,11604,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+038d90c8-2a68-498b-93f9-efcaa64243f2,Product,ספות - SOBW22,"Description: 2*one seater/
+1*chaise/
+1*corner/
+1*ottoman/
+1*table
+stainless steel for sofa base, fabric, high density foam<br>Size: 106*106*67/
+106*211*67/
+106*106*67/
+106*106*40/
+110*36*48.5<br>Price: 7631<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW22.jpg,סלון;ספות (ק.מ),90_SOBW22,,7631,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9cde8e8a-c56b-4d2d-925e-7926de993a5a,Product,ספות - SOBW23,"Description: 1*one seater/
+1*two seater/
+1*three seater
+solid wood for sofa leg, fabric, high density foam, standard export packing<br>Size: 80*95*75/
+155*90*75/
+185*90*75<br>Price: 5523<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW23.jpg,סלון;ספות (ק.מ),91_SOBW23,,5523,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9380331d-b749-4398-b403-58c66dea6d04,Product,ספות - SOBW25,"Description: 1*chaise/
+1*three seater/
+1*three seater single armrest/
+1*corner
+steel disc
+ for frame, solid wood, fabric<br>Size: 120*180*69/
+180*95*69/
+180*95*69/
+125*95*69<br>Price: 7198<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW25.jpg,סלון;ספות (ק.מ),92_SOBW25,,7198,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86b74632-c25d-4e0f-a4e9-1640df668083,Product,ספות - SOBW27,"Description: 1*two seater without armrest/
+1*three seater without armrest/
+2*wood armrest/
+1*square stool/
+1*long stool/
+1*short stool/
+1*chaise/
+1*square panel/
+1*long panel
+solid wood for frame and sofa legs,  fabric, high density sponge, standard export packing<br>Size: 150*100*90/
+180*100*90/
+33*100*50/
+100*100*39/
+30*100*39/
+30*80*39/
+100*180*90/
+80.5*80.5*3/
+80.5*30.5*3<br>Price: 7928<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW27.jpg,סלון;ספות (ק.מ),93_SOBW27,,7928,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f8dececc-84a1-4839-b04e-931a0b959e1e,Product,ספות - SOBW28,"Description: 1*one seater/
+1*two seater/
+1*three seater
+metal for sofa leg, fabric, high density foam, standard export packing<br>Size: 92*85*85/
+163*85*85/
+190*85*85<br>Price: 5982<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW28.jpg,סלון;ספות (ק.מ),94_SOBW28,,5982,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+785f5380-2b5b-4c44-a195-1e2c9f5d6458,Product,ספות - SOBW30,"Description: 1*corner/
+1*one seater with left armrest/
+3*one sesater /
+1*ottoman/
+1*wood panel
+metal for sofa leg, solid wood,fabric, high density sponge, standard export packing<br>Size: 106*100*76/
+106*100*76/
+100*100*42/
+80*80*3<br>Price: 6009<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW31.jpg,סלון;ספות (ק.מ),95_SOBW30,,6009,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62fe725e-17c0-4e58-b08d-b647c2eb773d,Product,ספות - SOBW31,"Description: 1*ottoman/
+1*three seater/
+1*chaise/
+1*leisure chair
+solid wood, fabric, high density foam, standard export packing<br>Size: 67*107*46/
+200*105*83/
+105*201*83/
+85*90*93<br>Price: 6009<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW31.jpg,סלון;ספות (ק.מ),96_SOBW31,,6009,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c7700748-ae72-4306-9c30-4aad29d78fb2,Product,ספות - SOBW32,"Description: 1*ottoman/
+1*three seater/
+1*chaise/
+1*leisure chair
+solid wood, fabric, high density foam, standard export packing<br>Size: 67*107*46/
+200*105*83/
+105*201*83/
+85*90*93<br>Price: 6279<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW32.jpg,סלון;ספות (ק.מ),97_SOBW32,,6279,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9b62e9e3-f2bc-4d37-8721-c30045e8d901,Product,ספות - SOBW33,"Description: 1*one seater/
+1*three seater /
+1*chaise
+function headrest,solid wood for sofa leg, high density foam, fabric<br>Size: 81*97*82/
+186*97*82/
+107*180*82<br>Price: 5523<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW33.jpg,סלון;ספות (ק.מ),98_SOBW33,,5523,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7b6f3afb-486c-44a6-8ac6-5fa04a5af4f3,Product,ספות - SOBW34,"Description: 2*one seater/
+1*three seater/
+1*chaise/
+1*ottoman
+solid wood for sofa leg, solid wood, fabric, high density foam, standard export packing<br>Size: 73*89*90/
+188*93*90/
+168*93*90/
+90*67*40<br>Price: 6000<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW34.jpg,סלון;ספות (ק.מ),99_SOBW34,,6000,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7ddb6249-8cf9-4c45-9cde-8a4f3fbfd7e6,Product,ספות - SOBW38,"Description: 4*one seater/
+2*corner/
+1*ottoman
+hand made sewing, metal for sofa leg,solid wood, fabric, high density foam, standard export packing<br>Size: 4*(96*100*79)/
+2*(100*100*79)/
+77*97*40<br>Price: 22703<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW38.jpg,סלון;ספות (ק.מ),100_SOBW38,,22703,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9d9ad516-2a9a-4ab7-80a5-8be2cbd79fe6,Product,ספות - SOBW39,"Description: 1*two seater without armrest/
+1*corner/
+1*bed
+metal for sofa leg,solid wood, fabric, high density foam, feather for seat cushions<br>Size: 195*100*77/
+195*100*77/
+155*150*99<br>Price: 8640<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW39.jpg,סלון;ספות (ק.מ),101_SOBW39,,8640,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5f762aff-a08e-400c-9cd2-40e3c66df9bb,Product,ספות - SOBW40,"Description: 1*one seater/
+1*two seater/
+1*three seater
+solid wood for sofa leg, fabric, high density foam, standard export packing<br>Size: 88*68*75/
+142*75*75/
+195*75*75<br>Price: 6243<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW40.jpg,סלון;ספות (ק.מ),102_SOBW40,,6243,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88f21120-9f64-47f9-bf38-281f82bb5e42,Product,ספות - SOBW45,"Description: 1*five seater/
+1*three seater/
+2*one seater
+iron pipe for frame, metal for sofa leg, solid wood, fabric, high density foam<br>Size: 320*100*94/
+213*100*94/
+98*100*94<br>Price: 10811<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW45.jpg,סלון;ספות (ק.מ),103_SOBW45,,10811,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11f6459a-2311-4de1-9743-cb40e72c612a,Product,ספות - SOBW46,"Description: 1*five seater/
+1*three seater/
+2*one seater
+ iron pipe for frame, metal for sofa leg, solid wood, fabric, high density foam<br>Size: 320*100*94/
+213*100*94/
+98*100*94<br>Price: 10811<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW46.jpg,סלון;ספות (ק.מ),104_SOBW46,,10811,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e46bd0ae-7df6-45c8-b6eb-d1ec6c297b44,Product,ספות - SOBW47,"Description: 1*three seater/
+1*chaise
+solid wood, fabric, high density foam<br>Size: 200*100*80/
+110*196*80<br>Price: 6730<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW47.jpg,סלון;ספות (ק.מ),105_SOBW47,,6730,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5dc0e630-9e9b-4882-a331-b398a34a5bf8,Product,ספות - SOBW48,"Description: 1*two seater/
+1*chaise
+solid wood for sofa leg, fabric, high density foam, standard export packing<br>Size: 188*95*91/
+174*103*91<br>Price: 4568<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW48.jpg,סלון;ספות (ק.מ),106_SOBW48,,4568,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0fc4c2e3-1c6b-451f-8565-a2ee71d2fd53,Product,ספות - SOBW49,"Description: 1*one seater/
+1*two seater/
+1*three seater
+iron pipe for frame, metal for sofa leg, solid wood, fabric, high density foam<br>Size: 88*91*90/
+164*91*90/
+206*91*90<br>Price: 6243<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW49.jpg,סלון;ספות (ק.מ),107_SOBW49,,6243,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+986185f8-9dac-4ec8-baa8-2b2244aeada9,Product,ספות - SOBW51,"Description: 1*one seater-both armrest/
+1*three seater/
+1*chaise
+solid wood, fabric,high density foam<br>Size: 117*100*75/
+195*100*75/
+116*175*75<br>Price: 6243<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW51.jpg,סלון;ספות (ק.מ),108_SOBW51,,6243,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9b3a5136-53cd-4802-8b45-fb7710bb7f5b,Product,ספות - SOBW52,"Description: 1*one seater/
+1*three seater/
+1*chaise
+solid wood, fabric, high density foam, standard export packing<br>Size: 91*100*100/
+205*100*100/
+105*192*100<br>Price: 6486<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW52.jpg,סלון;ספות (ק.מ),109_SOBW52,,6486,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+306c3333-366c-4d66-8ae8-ab2cd64169b1,Product,ספות - SOBW54,"Description: 1*three seater/
+1*chaise 
+solid wood for sofa leg, fabric, high density foam ,standard export packing<br>Size: 183*100*73/
+102*170*73<br>Price: 4324<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW54.jpg,סלון;ספות (ק.מ),110_SOBW54,,4324,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7759390e-886c-42f5-a3b6-d3bdde6b39d9,Product,ספות - SOBW55,"Description: 1*one seater/
+1*two seater/
+1*three seater
+metal for sofa leg, solid wood, fabric,  high density foam<br>Size: 94*95*83/
+161*95*83/
+225*95*83<br>Price: 6486<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW55.jpg,סלון;ספות (ק.מ),111_SOBW55,,6486,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b0723f00-6b7e-4583-9338-1813f366bcd9,Product,ספות - SOBW56,"Description: 1*one seater/
+1*three seater/
+1*chaise/
+1*ottoman/
+2*leisure chairs
+solid wood for sofa leg, fabric, high density foam ,standard export packing<br>Size: 80*105*62/
+188*105*62/
+190*105*62/
+80*105*39/
+82*87*87<br>Price: 10811<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW56.jpg,סלון;ספות (ק.מ),112_SOBW56,,10811,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fa8ab1a1-c890-438f-ae25-9c070668d10d,Product,ספות - SOBW57,"Description: 1*one seater/
+1*three seater/
+1*chaise
+metal for sofa leg,solid wood, fabric, high density foam, feather for seat cushions<br>Size: 91*105*101/
+200*105*101/
+107*185*101<br>Price: 6486<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW57.jpg,סלון;ספות (ק.מ),113_SOBW57,,6486,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+db80cb09-4647-4d09-90bb-cce065eeca53,Product,ספות - SOBW58,"Description: 1*one seater/
+1*three seater/
+1*chaise
+metal for sofa leg,solid wood, fabric, high density foam, feather for seat cushions<br>Size: 91*105*101/
+200*105*101/
+107*185*101<br>Price: 6486<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW58.jpg,סלון;ספות (ק.מ),114_SOBW58,,6486,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03d86f50-5f8a-4d19-8293-7da7280812fb,Product,ספות - SOBW59,"Description: 1*three seater/
+1*two seater/
+1*corner/
+2*one seater
+metal for sofa leg, solid wood, fabric,  high density foam<br>Size: 212*88*75/
+137*88*75/
+85*85*75/
+2*(87*88*75)<br>Price: 9126<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW59.jpg,סלון;ספות (ק.מ),115_SOBW59,,9126,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c980e314-ac3f-49d2-95d9-2ba1cbd9bdcb,Product,ספות - SOBW60,"Description: 1*one seater/
+1*two seater/
+1*three seater
+solid wood, fabric, high density foam, stainless steel  for sofa frame,standard export packing<br>Size: 90*78*79/
+141*78*79/
+197*78*79<br>Price: 6604<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW60.jpg,סלון;ספות (ק.מ),116_SOBW60,,6604,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19094b46-f228-49f1-a64a-2eafeb4313a1,Product,ספות - SOBW61,"Description: 1*three seater/
+1*two seater/
+solid wood for sofa leg, fabric, high density foam ,standard export packing<br>Size: 203*98*89/
+143*98*89/
+2*(82*98*89)<br>Price: 5405<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW61.jpg,סלון;ספות (ק.מ),117_SOBW61,,5405,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1963fdd3-219c-4aa0-b1e0-e5e03d622044,Product,ספות - SOBW65,"Description: 1*three seater single armrest/
+1*chaise
+solid wood, fabric,  high density foam, metal for sofa leg<br>Size: 213*110*87/
+123*191*87<br>Price: 7009<br>",https://raw.githubusercontent.com/ValeriyLeykin/homme/master/Sofas/Pictures/SOBW65.jpg,סלון;ספות (ק.מ),118_SOBW65,,7009,,true,PERCENT,0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
